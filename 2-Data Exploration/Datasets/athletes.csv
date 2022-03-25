@@ -1,0 +1,1776 @@
+num_dossard,pname,name,genre,cat,club,nationalité,ville,pays,etat,class_gen,class_F,class_cat,arrivée,tps_course,vit_moy
+1300,Daniel,JUNG,Homme,M0 H (35-39),,ITA (Italie),NATURNS,IT,Finisher,1,,1,20:02,23:02:21,6.96
+2810,Ludovic,POMMERET,Homme,M2 H (45-49),,FRA (France),PREVESSIN,FR,Finisher,1,,1,20:02,23:02:21,6.96
+2811,Beñat,MARMISSOLLE,Homme,M1 H (40-44),,FRA (France),TARDETS-SORHOLUS (FRANCE),FR,Finisher,3,,1,20:45,23:45:54,6.74
+270,Cédric,CHAVET,Homme,M2 H (45-49),,FRA (France),CIRY LE NOBLE,FR,Finisher,4,,2,21:08,24:08:41,6.64
+624,Francesco,CUCCO,Homme,M0 H (35-39),,ITA (Italie),CHAMBÉRY,FR,Finisher,5,,2,21:32,24:32:42,6.53
+569,Antoine,GUILLON,Homme,M3 H (50-54),,FRA (France),VAILHAN,FR,Finisher,6,,1,22:07,25:07:09,6.38
+1354,Pierre,LE TORTOREC,Homme,SE H (23-34),,FRA (France),LOCMALO,FR,Finisher,7,,1,22:41,25:41:49,6.24
+1627,Judicael,SAUTRON,Homme,M0 H (35-39),,FRA (France),SAINTE MARIE,RE,Finisher,8,,3,22:56,25:56:39,6.18
+275,Vincent,CHESSEX,Homme,SE H (23-34),,SUI (Suisse),CHEXBRES,CH,Finisher,9,,2,23:17,26:17:30,6.09
+1719,Alexandre,BERAUD,Homme,SE H (23-34),,FRA (France),BASSENS,FR,Finisher,0,,3,23:33,26:33:16,6.03
+1197,Christopher,CAMACHETTY,Homme,SE H (23-34),,FRA (France),ST PAUL,RE,Finisher,1,,4,23:43,26:43:34,6.0
+12,Mike,AIGROZ,Homme,M1 H (40-44),,SUI (Suisse),CHÂTEL-ST-DENIS,CH,Finisher,2,,2,23:51,26:51:40,5.97
+629,Aurélien,JACOUTOT,Homme,M0 H (35-39),,FRA (France),ENTRE-DEUX,RE,Finisher,3,,4,23:51,26:51:41,5.97
+1142,Benjamin,POSTAIRE,Homme,M0 H (35-39),,FRA (France),SAINTE-SUZANNE,RE,Finisher,4,,5,Derni,27:03:21,5.92
+1749,Guillaume,DERRIEN,Homme,SE H (23-34),,FRA (France),PLUNERET,FR,Finisher,5,,5,Derni,27:09:43,5.9
+371,Renaud,DOBY,Homme,M0 H (35-39),,FRA (France),PAU,FR,Finisher,6,,6,Derni,27:37:47,5.8
+2560,Dylan,BOWMAN,Homme,M0 H (35-39),,USA (Etats-Unis),PORTLAND,US,Finisher,7,,7,Derni,27:41:12,5.79
+171,Alexandre,BOUCHEIX,Homme,SE H (23-34),,FRA (France),SAINT MANDÉ,FR,Finisher,8,,6,Derni,28:00:39,5.72
+1680,Gwenael,LE BOULCH,Homme,M2 H (45-49),,FRA (France),GUIDEL,FR,Finisher,9,,3,Derni,28:09:51,5.69
+529,Sébastien,GODET,Homme,M0 H (35-39),,FRA (France),LE HAILLAN,FR,Finisher,0,,8,Derni,28:42:01,5.58
+2307,Didier,TELMAR,Homme,M0 H (35-39),,FRA (France),ST BENOÎT,RE,Finisher,1,,9,Derni,28:43:22,5.58
+1660,Henri-Claude,NEMORIN,Homme,M1 H (40-44),,FRA (France),SAINT PAUL,RE,Finisher,2,,3,Derni,29:16:42,5.47
+610,Kelig,HOUZÉ,Homme,M0 H (35-39),,FRA (France),LA TESTE-DE-BUCH,FR,Finisher,3,,0,Derni,29:22:15,5.46
+1222,Arthur,JOYEUX-BOUILLON,Homme,SE H (23-34),,FRA (France),MONTVALEZAN,FR,Finisher,4,,7,Derni,29:22:24,5.46
+1003,Freddy,PRIGENT,Homme,SE H (23-34),,FRA (France),GARLAN,FR,Finisher,5,,8,Derni,29:28:05,5.44
+1400,Antoine,BOUCHET,Homme,M1 H (40-44),,FRA (France),BONNEVILLE,FR,Finisher,6,,4,Derni,29:46:49,5.38
+1192,Emilie,MAROTEAUX,Femme,M1 F (40-44),,FRA (France),SAINT GILLES LES BAINS,RE,Finisher,7,1,1,Derni,29:54:59,5.36
+108,Charley,BACRY,Homme,M0 H (35-39),,FRA (France),SAINT MANDE,FR,Finisher,8,,1,Derni,29:55:55,5.35
+1099,Augustin,SEGARD,Homme,SE H (23-34),,FRA (France),PARIS,FR,Finisher,9,,9,Derni,30:02:48,5.33
+2457,Christophe,CLERC,Homme,M1 H (40-44),,FRA (France),LE PONT,CH,Finisher,0,,5,Derni,30:12:34,5.3
+1434,Geoffrey,VIVIEN,Homme,SE H (23-34),,FRA (France),SAINT-GILLES LES BAINS,RE,Finisher,1,,0,Derni,30:13:26,5.3
+2194,Quentin,DEBARRE,Homme,M0 H (35-39),,FRA (France),CHOLET,FR,Finisher,2,,2,Derni,30:25:28,5.27
+795,Gael,MAINARD,Homme,M2 H (45-49),,FRA (France),SAINT LEU,RE,Finisher,3,,4,Derni,30:31:50,5.25
+1970,Eric,PAYET,Homme,M3 H (50-54),,FRA (France),SAINT JOSEPH,RE,Finisher,4,,2,Derni,30:35:15,5.24
+500,Yoann,GARAULT,Homme,M0 H (35-39),,FRA (France),LANNION,FR,Finisher,5,,3,Derni,30:35:57,5.24
+1143,Thibault,PESENTI,Homme,M1 H (40-44),,FRA (France),LE PONT DE CLAIX,FR,Finisher,6,,6,Derni,30:36:29,5.24
+670,Antoine,LAINE,Homme,SE H (23-34),,FRA (France),BASTIA,FR,Finisher,7,,1,Derni,30:40:31,5.22
+19,Gabriel,ALCARAZ,Homme,SE H (23-34),,FRA (France),VITROLLES,FR,Finisher,8,,2,Derni,31:04:19,5.16
+617,Romain,HUSSON,Homme,SE H (23-34),,FRA (France),FREJUS,FR,Finisher,9,,3,Derni,31:04:22,5.16
+97,Arnaud,BECK,Homme,M0 H (35-39),,FRA (France),SAINTE MARIE,RE,Finisher,0,,4,Derni,31:04:41,5.16
+613,Hervé,HUGUENOT,Homme,M0 H (35-39),,FRA (France),RAVINE DES CABRIS,RE,Finisher,1,,5,Derni,31:10:05,5.14
+557,Victor,GUERDIN,Homme,SE H (23-34),,FRA (France),LE TAMPON,RE,Finisher,2,,4,Derni,31:13:32,5.13
+333,Romain,CYR,Homme,M0 H (35-39),,FRA (France),ROCHEFORT EN YVELINES,FR,Finisher,3,,6,Derni,31:21:26,5.11
+1663,Jean-Claude,GUITON,Homme,M3 H (50-54),,FRA (France),SAINTE ANNE,RE,Finisher,4,,3,Derni,31:29:53,5.09
+372,Sébastien,DODAIN,Homme,M1 H (40-44),,FRA (France),LIGNÉ,FR,Finisher,5,,7,Derni,31:46:19,5.04
+1842,Antoine,BERTOLOTTI,Homme,M0 H (35-39),,FRA (France),RAVINE DES CABRIS,RE,Finisher,6,,7,Derni,31:49:59,5.03
+592,Mickael,HEMON,Homme,M2 H (45-49),,FRA (France),LONGUEVILLE SUR SCIE,FR,Finisher,7,,5,Derni,31:59:17,5.01
+2589,Géraldo,TRULES,Homme,M0 H (35-39),,FRA (France),LE PLATE ST LEU,RE,Finisher,8,,8,Derni,31:59:18,5.01
+765,Damien,LIBERT,Homme,SE H (23-34),,BEL (Belgique),NAMUR,BE,Finisher,9,,5,Derni,32:00:46,5.01
+1522,Sebastien,ROBERT,Homme,SE H (23-34),,FRA (France),NICE,FR,Finisher,0,,6,Derni,32:03:18,5.0
+1574,Amandine,GINOUVES,Femme,M1 F (40-44),,FRA (France),LA GAUDE,FR,Finisher,0,2,2,Derni,32:03:18,5.0
+1925,Aymar,PÉRIÉ,Homme,M0 H (35-39),,FRA (France),SAINTE CLOTILDE,RE,Finisher,2,,9,Derni,32:05:08,4.99
+238,Ramon,CASANOVAS,Homme,M1 H (40-44),,SUI (Suisse),BIEL,CH,Finisher,3,,8,Derni,32:21:15,4.95
+95,Florent,BEAUFILS,Homme,M0 H (35-39),,FRA (France),SAINT-BRIAC SUR MER,FR,Finisher,4,,0,Derni,32:24:29,4.94
+891,Patrice,NALET,Homme,M1 H (40-44),,FRA (France),AMBARES LAGRAVE,FR,Finisher,5,,9,Derni,32:25:52,4.94
+2188,Sebastien,YVIN,Homme,M1 H (40-44),,FRA (France),PLUGUFFAN,FR,Finisher,6,,0,Derni,32:27:45,4.94
+253,Sebastien,CHAMPION,Homme,M1 H (40-44),,FRA (France),SAINT-PIERRE,RE,Finisher,7,,1,Derni,32:32:07,4.93
+1382,Romain,BERION,Homme,M0 H (35-39),,FRA (France),FRASNE,FR,Finisher,8,,1,Derni,32:33:06,4.92
+134,Justin,BIDAULT,Homme,SE H (23-34),,FRA (France),SAINT-DONAN,FR,Finisher,9,,7,Derni,32:37:14,4.91
+1916,Thomas,LABOYRIE,Homme,M1 H (40-44),,FRA (France),MÉRIGNAC,FR,Finisher,9,,2,Derni,32:37:14,4.91
+876,Sylvain,MORIN,Homme,M2 H (45-49),,FRA (France),POMMERET,FR,Finisher,1,,6,Derni,32:39:22,4.91
+756,Sébastien,LESAGE,Homme,M3 H (50-54),,FRA (France),SAINT PAUL,RE,Finisher,2,,4,Derni,32:43:42,4.9
+1793,Thierry,BESOMBES,Homme,M2 H (45-49),,FRA (France),AUTHEZAT,FR,Finisher,3,,7,Derni,32:45:04,4.89
+144,Sophie,BLARD,Femme,M2 F (45-49),,FRA (France),SAINTE CLOTILDE,RE,Finisher,4,3,1,Derni,32:51:11,4.88
+117,Jean Pierre,BERGOULI,Homme,M3 H (50-54),,FRA (France),SENDETS,FR,Finisher,5,,5,Derni,32:59:03,4.86
+1537,Nicolas,SCHUMACHER,Homme,SE H (23-34),,FRA (France),RAVINE DES CABRIS,RE,Finisher,6,,8,Derni,33:05:27,4.84
+879,Yoann,MORISSE,Homme,M0 H (35-39),,FRA (France),LA VILLE DU BOIS,FR,Finisher,7,,2,Derni,33:05:28,4.84
+1272,Filippo,CANETTA,Homme,M2 H (45-49),,ITA (Italie),MILANO,IT,Finisher,8,,8,Derni,33:19:26,4.81
+720,Laurent,LE HELLEY,Homme,M2 H (45-49),,FRA (France),SAINT-BRANDAN,FR,Finisher,9,,9,Derni,33:20:13,4.81
+182,Ludovic,BOURGEOIS,Homme,M0 H (35-39),,FRA (France),BOIS D'AMONT,FR,Finisher,0,,3,Derni,33:23:40,4.8
+1765,Jerome,PRUVOT,Homme,M1 H (40-44),,FRA (France),REGNIER,FR,Finisher,1,,3,Derni,33:25:04,4.8
+799,Vincent,MALCURAT,Homme,SE H (23-34),,FRA (France),SAINT PIERRE,RE,Finisher,2,,9,Derni,33:25:29,4.79
+607,Titouan,HONNART,Homme,SE H (23-34),,FRA (France),BASTIA,FR,Finisher,3,,0,Derni,33:28:01,4.79
+444,Gérôme,FERNANDEZ,Homme,SE H (23-34),,FRA (France),LES DEUX ALPES,FR,Finisher,4,,1,Derni,33:29:04,4.79
+708,Jean-Francois,LE CARDINAL,Homme,M3 H (50-54),,FRA (France),PLAINTEL,FR,Finisher,5,,6,Derni,33:35:06,4.77
+813,David,MARITEAU,Homme,M2 H (45-49),,FRA (France),69400,FR,Finisher,6,,0,Derni,33:36:48,4.77
+1204,Matthieu,ROL,Homme,SE H (23-34),,FRA (France),SAINT-GILLES LES BAINS,RE,Finisher,6,,2,Derni,33:36:48,4.77
+1358,Thierry,GALLOU,Homme,M3 H (50-54),,FRA (France),PLOURIN LES MORLAIX,FR,Finisher,8,,7,Derni,33:39:11,4.76
+153,Maxime,BOISNARD,Homme,SE H (23-34),,FRA (France),LAUSANNE,CH,Finisher,9,,3,Derni,33:41:56,4.76
+1115,Marc,VONAU,Homme,M1 H (40-44),,FRA (France),LA POSSESSION,RE,Finisher,0,,4,Derni,33:42:13,4.75
+1334,Laurent,TOUTAIN,Homme,M3 H (50-54),,FRA (France),EYGALIERES,FR,Finisher,1,,8,Derni,33:50:22,4.74
+553,Jean Denis,GRONDIN,Homme,M1 H (40-44),,FRA (France),SAINTE MARIE,RE,Finisher,2,,5,Derni,33:50:51,4.73
+2311,Arnaud,MADILHAC,Homme,M1 H (40-44),,FRA (France),ST PIERRE,RE,Finisher,3,,6,Derni,33:51:34,4.73
+1203,Sylvaine,CUSSOT,Femme,M0 F (35-39),,FRA (France),PITON SAINT LEU,RE,Finisher,4,4,1,Derni,34:01:16,4.71
+1205,Jean René,ROBERT,Homme,M1 H (40-44),,FRA (France),SAINT-ANDRÉ,RE,Finisher,5,,7,Derni,34:10:18,4.69
+59,Frédéric,AVICE,Homme,M2 H (45-49),,FRA (France),SAINT BENOIT,RE,Finisher,6,,1,Derni,34:10:21,4.69
+1435,Yoann,MORNET,Homme,M0 H (35-39),,FRA (France),FAA'A CENTRE,PF,Finisher,7,,4,Derni,34:14:09,4.68
+2441,Simon,MICHELLIER,Homme,M0 H (35-39),,FRA (France),LA MOTTE SERVOLEX,FR,Finisher,8,,5,Derni,34:16:23,4.68
+918,Laurent,OLLU,Homme,M3 H (50-54),,FRA (France),LA CHAPELLE SUR ERDRE,FR,Finisher,9,,9,Derni,34:20:37,4.67
+1551,Matthieu,MENANTEAU,Homme,M1 H (40-44),,FRA (France),GRESY SUR AIX,FR,Finisher,0,,8,Derni,34:21:33,4.66
+1095,Adrien,SCHWEIZER,Homme,SE H (23-34),,FRA (France),NARBONNE,FR,Finisher,1,,4,Derni,34:24:09,4.66
+487,Pascal,GAILLARD,Homme,M4 H (55-59),,FRA (France),MOUCHAN,FR,Finisher,2,,1,Derni,34:26:12,4.65
+2090,Jean-Marie,POILVET,Homme,M0 H (35-39),,FRA (France),NANTES,FR,Finisher,3,,6,Derni,34:28:22,4.65
+1490,Yoann,LUCAS,Homme,M0 H (35-39),,FRA (France),VANNES,FR,Finisher,4,,7,Derni,34:31:56,4.64
+2474,Jerome,MANÉRA,Homme,M2 H (45-49),,FRA (France),GINESTAS,FR,Finisher,5,,2,Derni,34:31:58,4.64
+1631,Pierre-Yves,MARIA,Homme,M0 H (35-39),,FRA (France),RIVIERE NOIRE,MU,Finisher,6,,8,Derni,34:35:13,4.63
+328,Robin,CRENN,Homme,SE H (23-34),,FRA (France),ANNECY,FR,Finisher,7,,5,Derni,34:35:14,4.63
+2066,Christophe,YEMSI,Homme,M3 H (50-54),,FRA (France),ENTRE DEUX,RE,Finisher,8,,0,Derni,34:36:21,4.63
+998,Stéphane,POUZET,Homme,M1 H (40-44),,FRA (France),MAILLOT,FR,Finisher,9,,9,Derni,34:38:16,4.63
+1428,Alexis,VALTAT,Homme,M0 H (35-39),,FRA (France),ANNECY,FR,Finisher,9,,9,Derni,34:38:16,4.63
+817,Frédéric,MARTIN,Homme,M0 H (35-39),,SUI (Suisse),MIÈGE,CH,Finisher,1,,0,Derni,34:44:37,4.61
+1302,Luca,AMBROSINI,Homme,M0 H (35-39),,ITA (Italie),MERANO,IT,Finisher,2,,1,Derni,34:54:21,4.59
+170,Pierrick,BOUAZZA,Homme,M0 H (35-39),,FRA (France),ISSY LES MOULINEAUX,FR,Finisher,3,,2,Derni,34:54:59,4.59
+644,Lionel,JOURDAN,Homme,M2 H (45-49),,FRA (France),SAINT MARTIN LA PLAINE,FR,Finisher,3,,3,Derni,34:54:59,4.59
+671,Frédéric,LALO,Homme,M2 H (45-49),,FRA (France),MONTREDON,FR,Finisher,5,,4,Derni,34:57:20,4.58
+385,Francois-Henri,DRUOT,Homme,SE H (23-34),,FRA (France),TALLENAY,FR,Finisher,6,,6,Derni,34:58:11,4.58
+1552,Jean Yvrin,GANNE,Homme,M2 H (45-49),,FRA (France),SAINT ANDRE,RE,Finisher,7,,5,Derni,35:02:44,4.57
+1488,Emmanuel,PIERRE,Homme,SE H (23-34),,FRA (France),LA POSSESSION,RE,Finisher,8,,7,Derni,35:06:35,4.56
+1348,Marc,GOURDON,Homme,M0 H (35-39),,FRA (France),BLACE,FR,Finisher,9,,3,Derni,35:09:04,4.56
+594,Vincent,HERITIER,Homme,M0 H (35-39),,FRA (France),VALBONNE,FR,Finisher,0,,4,Derni,35:11:26,4.55
+404,Irwin,DUPIRE,Homme,SE H (23-34),,FRA (France),TOURNEFEUILLE,FR,Finisher,1,,8,Derni,35:19:38,4.54
+533,Olivier,GOMES,Homme,M0 H (35-39),,FRA (France),ST DENIS,RE,Finisher,2,,5,Derni,35:20:14,4.53
+1408,Christophe,PIMENTA,Homme,M0 H (35-39),,FRA (France),REZÉ,FR,Finisher,3,,6,Derni,35:23:26,4.53
+208,Mickael,BRULÉ,Homme,M0 H (35-39),,FRA (France),CONDAT SUR VIENNE,FR,Finisher,4,,7,Derni,35:23:52,4.53
+2296,Mathieu,JOBARD,Homme,M0 H (35-39),,FRA (France),SAINT PIERRE,RE,Finisher,5,,8,Derni,35:24:27,4.53
+689,Jessica,LASSARA,Femme,SE F (23-34),,FRA (France),LE TAMPON,RE,Finisher,6,5,1,Derni,35:26:35,4.52
+1952,Paul,MANTION,Homme,SE H (23-34),,FRA (France),SAINTE ROSE,RE,Finisher,7,,9,Derni,35:30:05,4.51
+227,Bruno,CAMPANAC,Homme,M0 H (35-39),,FRA (France),LE MONASTERE,FR,Finisher,8,,9,Derni,35:31:07,4.51
+1707,Baptiste,MONCANUT,Homme,M2 H (45-49),,FRA (France),CHAMBON-SUR-CISSE,FR,Finisher,9,,6,Derni,35:32:18,4.51
+1359,Tanguy,BELLIER,Homme,SE H (23-34),,FRA (France),VILLEDIEU,FR,Finisher,0,,0,Derni,35:32:43,4.51
+1117,Ronan,VISDELOUP,Homme,M0 H (35-39),,FRA (France),LOUDEAC,FR,Finisher,1,,0,Derni,35:34:04,4.51
+1754,Julien,ZIMMER,Homme,SE H (23-34),,FRA (France),PARIS,FR,Finisher,2,,1,Derni,35:34:33,4.5
+2496,Mickael,FERNANDES,Homme,M1 H (40-44),,FRA (France),ROANNE,FR,Finisher,3,,0,Derni,35:35:28,4.5
+1737,Antoine,BOUAN,Homme,SE H (23-34),,FRA (France),BEAUSSAIS SUR MER,FR,Finisher,4,,2,Derni,35:40:24,4.49
+2411,Clément,COMBEMORELLE,Homme,SE H (23-34),,FRA (France),SAINTE MARIE,RE,Finisher,5,,3,Derni,35:42:19,4.49
+211,Adrien,FOIX,Homme,M0 H (35-39),,FRA (France),BIGUGLIA,FR,Finisher,6,,1,Derni,35:48:58,4.47
+625,Anthony,ISABELLE,Homme,M0 H (35-39),,FRA (France),BONSECOURS,FR,Finisher,7,,2,Derni,35:51:50,4.47
+1454,Francois,DECAMPS,Homme,SE H (23-34),,BEL (Belgique),ETANG SALE,RE,Finisher,8,,4,Derni,35:52:00,4.47
+2224,Laurent Gerard,PAYET,Homme,M1 H (40-44),,FRA (France),CILAOS,RE,Finisher,9,,1,Derni,35:52:24,4.47
+477,Patrick,FREI,Homme,M2 H (45-49),,SUI (Suisse),FRUTIGEN,CH,Finisher,0,,7,Derni,35:52:52,4.47
+2538,Emmanuel,CHANGENET,Homme,M1 H (40-44),,FRA (France),RENNES,FR,Finisher,1,,2,Derni,35:55:17,4.46
+1541,Geraldine,LACHAPELLE,Femme,M1 F (40-44),,FRA (France),PETITE-ÎLE,RE,Finisher,2,6,3,Derni,35:57:11,4.46
+1672,Jerome,BOUC,Homme,M2 H (45-49),,FRA (France),PLAINE DES CAFRES,RE,Finisher,3,,8,Derni,36:02:26,4.45
+1568,Mac Elian,DUGUIN,Homme,M1 H (40-44),,FRA (France),SAINT-JOSEPH,RE,Finisher,4,,3,Derni,36:06:58,4.44
+25,Nicolas,ALLOU,Homme,M1 H (40-44),,FRA (France),LA MONTAGNE,RE,Finisher,5,,4,Derni,36:12:16,4.43
+906,Maël,NIVINOU,Homme,SE H (23-34),,FRA (France),PITHIVIERS,FR,Finisher,6,,5,Derni,36:13:14,4.42
+1457,Mathieu,LHORTOLAT,Homme,SE H (23-34),,FRA (France),SAINT LEU,RE,Finisher,7,,6,Derni,36:18:45,4.41
+229,Aurore,CANINO,Femme,M0 F (35-39),,FRA (France),LONGUEVILLE-SUR-SCIE,FR,Finisher,8,7,2,Derni,36:21:17,4.41
+1989,Franck,BITARD,Homme,SE H (23-34),,FRA (France),LONDON,GB,Finisher,9,,7,Derni,36:22:36,4.41
+1430,Jean-Marie,ROCHE,Homme,M0 H (35-39),,FRA (France),VERNEGUES,FR,Finisher,0,,3,Derni,36:22:37,4.4
+2306,Clément,CROS,Homme,M0 H (35-39),,FRA (France),ETANG-SALÉ,RE,Finisher,1,,4,Derni,36:22:41,4.4
+1651,Anthony,DUVAL,Homme,SE H (23-34),,FRA (France),SAINT DENIS,RE,Finisher,2,,8,Derni,36:22:47,4.4
+342,Laurent,DARD,Homme,M3 H (50-54),,FRA (France),DOMPIERRE SUR YON,FR,Finisher,3,,1,Derni,36:23:48,4.4
+835,Jonathann,MAYETTE,Homme,M1 H (40-44),,FRA (France),LONNY,FR,Finisher,4,,5,Derni,36:23:54,4.4
+1895,Guillaume,EYQUEM-BOTTARD,Homme,M0 H (35-39),,FRA (France),LA PLAINE SAINT-PAUL,RE,Finisher,5,,5,Derni,36:25:44,4.4
+758,Alexandre,LESOIN,Homme,SE H (23-34),,FRA (France),ALENÇON,FR,Finisher,6,,9,Derni,36:26:40,4.4
+741,Benoît,LÉGER,Homme,M0 H (35-39),,FRA (France),LE MANS,FR,Finisher,7,,6,Derni,36:29:34,4.39
+2155,Arnaud,BARDY,Homme,SE H (23-34),,FRA (France),MARSEILLE,FR,Finisher,8,,0,Derni,36:30:56,4.39
+1147,Laurent,LUCCIONI,Homme,M3 H (50-54),,USA (Etats-Unis),LONDON,GB,Finisher,9,,2,Derni,36:31:56,4.39
+2247,Julien,CAMP,Homme,M0 H (35-39),,FRA (France),MARSEILLE,FR,Finisher,0,,7,Derni,36:33:40,4.38
+316,Julien,COUGNAUD,Homme,M0 H (35-39),,FRA (France),AUBIGNY,FR,Finisher,1,,8,Derni,36:33:44,4.38
+2500,Yann,MORELLO,Homme,SE H (23-34),,FRA (France),LA PENNE-SUR-HUVEAUNE,FR,Finisher,2,,1,Derni,36:33:47,4.38
+1321,Serge,FORTINI,Homme,M0 H (35-39),,FRA (France),LA BÉDOULE,FR,Finisher,3,,9,Derni,36:35:42,4.38
+995,Bérenger,POUCET,Homme,M0 H (35-39),,BEL (Belgique),CHIMAY,BE,Finisher,4,,0,Derni,36:36:33,4.38
+1483,Gregory,FILAIN,Homme,SE H (23-34),,FRA (France),LE TAMPON,RE,Finisher,5,,2,Derni,36:36:34,4.38
+1556,Jean-Michel,AGUT,Homme,M4 H (55-59),,FRA (France),ADE,FR,Finisher,6,,2,Derni,36:40:02,4.37
+1824,Emmanuel,FAUCON,Homme,SE H (23-34),,FRA (France),BOURG DE PEAGE,FR,Finisher,7,,3,Derni,36:40:13,4.37
+265,Jean Eddy,LAURET,Homme,M1 H (40-44),,FRA (France),SAINT-JOSEPH,RE,Finisher,8,,6,Derni,36:41:00,4.37
+2033,Willy,SOLENTE,Homme,M3 H (50-54),,FRA (France),SAINT DENIS,RE,Finisher,9,,3,Derni,36:41:34,4.37
+1834,Regis,VOISIN,Homme,M0 H (35-39),,FRA (France),LA MONTAGNE,RE,Finisher,0,,1,Derni,36:46:16,4.36
+74,François,BALAO,Homme,SE H (23-34),,FRA (France),GRANDCHAMPS DES FONTAINES,FR,Finisher,1,,4,Derni,36:49:52,4.35
+1901,Benoît,BOUCHE,Homme,SE H (23-34),,FRA (France),CAMBON,FR,Finisher,2,,5,Derni,36:50:03,4.35
+58,Vincent,AVELINE,Homme,M1 H (40-44),,FRA (France),DOMONT,FR,Finisher,3,,7,Derni,36:51:55,4.35
+207,Pieter-Jan,BRUGGEMAN,Homme,SE H (23-34),,BEL (Belgique),NAMUR,BE,Finisher,4,,6,Derni,36:59:05,4.33
+1030,Simon,RICARD,Homme,SE H (23-34),,FRA (France),SAINT JEAN DE VEDAS,FR,Finisher,5,,7,Derni,37:02:20,4.33
+2373,Nicolas,MARCEL,Homme,M1 H (40-44),,FRA (France),ST RESTITUT,FR,Finisher,6,,8,Derni,37:02:30,4.33
+626,Teddy,ISABELLE,Homme,M0 H (35-39),,FRA (France),GRENOBLE,FR,Finisher,7,,2,Derni,37:04:14,4.32
+1764,Ludovic,GRANDCLEMENT,Homme,M2 H (45-49),,FRA (France),CHÉZERY-FORENS,FR,Finisher,8,,9,Derni,37:08:23,4.31
+475,Matthias,FRANCOIS,Homme,M1 H (40-44),,FRA (France),VANNES,FR,Finisher,9,,9,Derni,37:10:50,4.31
+1647,Emmanuel Jean Laurent,FONTAINE,Homme,M1 H (40-44),,FRA (France),TROIS-BASSINS,RE,Finisher,0,,0,Derni,37:12:13,4.31
+1742,Gaël,PHILIPPE,Homme,M2 H (45-49),,FRA (France),QUINTIN,FR,Finisher,1,,0,Derni,37:12:38,4.31
+2620,Cyril,LEVILAIN,Homme,M3 H (50-54),,FRA (France),MARCQ EN BAROEUL,FR,Finisher,2,,4,Derni,37:12:45,4.31
+2597,Vincent,VILBOUX,Homme,M0 H (35-39),,FRA (France),CHIRONGUI,FR,Finisher,3,,3,Derni,37:13:00,4.31
+2236,Marc-Antoine,BROCHARD,Homme,SE H (23-34),,FRA (France),MONTREUIL,FR,Finisher,4,,8,Derni,37:13:02,4.31
+2583,Florent,VILBOUX,Homme,M0 H (35-39),,FRA (France),LORIENT,FR,Finisher,5,,4,Derni,37:13:06,4.31
+2343,Gaspard,CELLIÉ,Homme,SE H (23-34),,FRA (France),SAINT DENIS,RE,Finisher,6,,9,Derni,37:13:08,4.31
+1849,Mickael,BERTHON,Homme,SE H (23-34),,FRA (France),SAINT JEAN DE BOURNAY,FR,Finisher,7,,0,Derni,37:13:49,4.3
+2376,Mael,THOMASSIN,Homme,SE H (23-34),,FRA (France),LA SALINE LES BAINS,RE,Finisher,8,,1,Derni,37:16:09,4.3
+1609,Eric,CONCÉ,Homme,M1 H (40-44),,FRA (France),SAINT MALO DE BEIGNON,FR,Finisher,9,,1,Derni,37:16:29,4.3
+1381,Philippe,GUILLEMAIN,Homme,M5 H (60-64),,FRA (France),SUCY EN BRIE,FR,Finisher,0,,1,Derni,37:18:13,4.3
+479,Laurent,FRISER,Homme,M1 H (40-44),,FRA (France),SAINT GILLES LES BAINS,RE,Finisher,1,,2,Derni,37:19:31,4.29
+284,Jean-Emmanuel,CHRISTOL,Homme,M1 H (40-44),,FRA (France),PARCIEUX,FR,Finisher,2,,3,Derni,37:20:18,4.29
+1136,Serge,VALETTE,Homme,M5 H (60-64),,FRA (France),PAULINET,FR,Finisher,3,,2,Derni,37:22:54,4.29
+367,Jean Stéphane,DIJOUX,Homme,M0 H (35-39),,FRA (France),PITON SAINT LEU,RE,Finisher,4,,5,Derni,37:23:06,4.29
+1820,Gerald,FRAISSE,Homme,M1 H (40-44),,FRA (France),BRAS PANON,RE,Finisher,5,,4,Derni,37:24:58,4.28
+595,Ludwig,HERMAN,Homme,M2 H (45-49),,FRA (France),SAINT-DENIS,RE,Finisher,6,,1,Derni,37:27:25,4.28
+1790,Samuel,PELLETIER,Homme,M2 H (45-49),,FRA (France),MELLEVILLE,FR,Finisher,7,,2,Derni,37:28:53,4.28
+2233,Florian,BONNETON,Homme,M0 H (35-39),,FRA (France),LA MONTAGNE,RE,Finisher,8,,6,Derni,37:33:39,4.27
+161,Benoît,BONNOUVRIER,Homme,M0 H (35-39),,FRA (France),ARÈS,FR,Finisher,9,,7,Derni,37:33:47,4.27
+2357,Samuel,ZIJP,Homme,M1 H (40-44),,FRA (France),PAPEETE,PF,Finisher,0,,5,Derni,37:36:02,4.26
+213,Alexandre,BUSCAL,Homme,M1 H (40-44),,FRA (France),STRASBOURG,FR,Finisher,1,,6,Derni,37:36:50,4.26
+1109,Francois,SILVESTRI,Homme,M3 H (50-54),,FRA (France),SAINT JEANNET,FR,Finisher,2,,5,Derni,37:37:19,4.26
+1979,Elisa,FAVRE FELIX,Femme,SE F (23-34),,FRA (France),SAINT MARTIN D'URIAGE,FR,Finisher,3,8,2,Derni,37:37:58,4.26
+40,Jean Daniel,VEE,Homme,M2 H (45-49),,FRA (France),ST ANDRE,RE,Finisher,4,,3,Derni,37:40:27,4.25
+2165,David,DESTOUESSE,Homme,M2 H (45-49),,FRA (France),ONARD,FR,Finisher,5,,4,Derni,37:42:19,4.25
+471,Christophe,FOURNIER,Homme,M2 H (45-49),,FRA (France),LES DAMPS,FR,Finisher,6,,5,Derni,37:43:56,4.25
+984,Maxime,POCHON,Homme,SE H (23-34),,FRA (France),VERSAILLES,FR,Finisher,7,,2,Derni,37:45:56,4.24
+412,Thomas,ECOBICHON,Homme,SE H (23-34),,FRA (France),L'HERMITAGE-LORGE,FR,Finisher,8,,3,Derni,37:46:04,4.24
+721,Damien,LE MOULEC,Homme,SE H (23-34),,FRA (France),LORIENT,FR,Finisher,8,,3,Derni,37:46:04,4.24
+819,Yoann,MARTIN,Homme,SE H (23-34),,FRA (France),ST LEU,RE,Finisher,0,,5,Derni,37:46:37,4.24
+2424,Michaël,RICHARD,Homme,M2 H (45-49),,FRA (France),SAINT-MÉARD-DE-DRÔNE,FR,Finisher,1,,6,Derni,37:46:57,4.24
+565,Lucie,GUILLAME,Femme,SE F (23-34),,FRA (France),BOURG-SAINT-MAURICE,FR,Finisher,2,9,3,Derni,37:50:27,4.23
+1474,Julien,MIQUEL,Homme,SE H (23-34),,FRA (France),CASTRES,FR,Finisher,3,,6,Derni,37:51:50,4.23
+1695,Jean Fred,ABRILLET,Homme,M2 H (45-49),,FRA (France),LA RIVIÈRE,RE,Finisher,4,,7,Derni,37:53:07,4.23
+178,Adrien,BOULINGUEZ,Homme,M2 H (45-49),,FRA (France),GUICLAN,FR,Finisher,5,,8,Derni,37:53:17,4.23
+965,Emmanuel,PICARD-TURPIN,Homme,M1 H (40-44),,FRA (France),ENTRE-DEUX,RE,Finisher,6,,7,Derni,37:54:04,4.23
+944,Olivier,PECOUL,Homme,M1 H (40-44),,FRA (France),GRESSE EN VERCORS,FR,Finisher,7,,8,Derni,37:59:06,4.22
+1309,Véronique,DOUAT,Femme,M2 F (45-49),,FRA (France),BOURRÉAC,FR,Finisher,8,0,2,Derni,38:00:34,4.22
+1304,Lorenzo,PRIETO SAIZ,Homme,M1 H (40-44),,ESP (Espagne),COLOGNE,DE,Finisher,9,,9,Derni,38:01:02,4.21
+787,Loïc,MAGNANON,Homme,M1 H (40-44),,FRA (France),MONTBERON,FR,Finisher,0,,0,Derni,38:02:10,4.21
+1401,Olivier,BAPTISTE,Homme,SE H (23-34),,FRA (France),LA POSSESSION,RE,Finisher,1,,7,Derni,38:04:11,4.21
+941,Fabien,PEAN,Homme,M1 H (40-44),,FRA (France),PONT-PEAN,FR,Finisher,2,,1,Derni,38:04:59,4.21
+889,Stéphane,MUQUET,Homme,M3 H (50-54),,FRA (France),ANTONY,FR,Finisher,3,,6,Derni,38:10:50,4.2
+575,Nicolas,GUILLOUT,Homme,SE H (23-34),,FRA (France),POITIERS,FR,Finisher,4,,8,Derni,38:12:16,4.19
+940,Lou,PAYRAUD,Homme,SE H (23-34),,FRA (France),SAINT DENIS,RE,Finisher,5,,9,Derni,38:13:06,4.19
+1044,Jean-Christophe,ROBIN,Homme,M0 H (35-39),,FRA (France),GUIMILIAU,FR,Finisher,6,,8,Derni,38:13:49,4.19
+2022,Jeremy,VETOIS,Homme,M0 H (35-39),,FRA (France),BOURCEFRANC-LE-CHAPUS,FR,Finisher,7,,9,Derni,38:14:01,4.19
+2011,Antoine,RAFLIN,Homme,M0 H (35-39),,FRA (France),PIN BALMA,FR,Finisher,8,,0,Derni,38:14:09,4.19
+596,Grégory,HERMAN,Homme,M1 H (40-44),,BEL (Belgique),SPONTIN,BE,Finisher,9,,2,Derni,38:15:34,4.19
+1172,Arnaud,JANVIER,Homme,SE H (23-34),,FRA (France),ANNECY LE VIEUX,FR,Finisher,0,,0,Derni,38:15:57,4.19
+1211,Bruno,PARVEDY,Homme,M0 H (35-39),,FRA (France),SAINT-ANDRE,RE,Finisher,1,,1,Derni,38:17:28,4.18
+748,Ulysse,LENCLUME,Homme,M2 H (45-49),,FRA (France),SAINT LEU,RE,Arrêté,2,9,Derni,Temps de course38:18:04,,
+1505,Vincent,SAGE,Homme,M0 H (35-39),,FRA (France),MASSIEUX,FR,Finisher,3,,2,Derni,38:19:02,4.18
+542,Emmanuel,GODEFROID,Homme,M2 H (45-49),,BEL (Belgique),MONT-GAUTHIER,BE,Finisher,4,,0,Derni,38:19:21,4.18
+696,Francis,LAUNAY,Homme,M2 H (45-49),,FRA (France),ENNEVELIN,FR,Finisher,5,,1,Derni,38:19:26,4.18
+747,Xavier,JOUSSERAND,Homme,SE H (23-34),,FRA (France),SAINT-VICTOR SUR LOIRE,FR,Finisher,6,,1,Derni,38:21:25,4.18
+291,Alexandre,CLAIN,Homme,M1 H (40-44),,FRA (France),EMALLEVILLE,FR,Finisher,7,,3,Derni,38:22:57,4.17
+1405,Matthieu,CHASSERAY,Homme,SE H (23-34),,FRA (France),COMBRIT,FR,Finisher,8,,2,Derni,38:23:05,4.17
+1838,Jonathan,METGE,Homme,M0 H (35-39),,FRA (France),ANTONY,FR,Finisher,9,,3,Derni,38:23:31,4.17
+1681,Michael,MAURIN,Homme,M2 H (45-49),,FRA (France),TUGERAS ST MAURICE,FR,Finisher,0,,2,Derni,38:24:26,4.17
+873,Clarine,MOREL,Femme,M1 F (40-44),,FRA (France),SAINT JOSEPH,RE,Finisher,1,1,4,Derni,38:26:10,4.17
+2110,Franck,NOWICKI,Homme,M3 H (50-54),,FRA (France),SACLAY,FR,Finisher,2,,7,Derni,38:27:23,4.17
+786,Aurelien,MABILLEAU,Homme,M1 H (40-44),,FRA (France),SAINT PHILBERT DE GRAND LIEU,FR,Finisher,3,,4,Derni,38:29:59,4.16
+2092,Yohan,SUTEAU,Homme,M1 H (40-44),,FRA (France),MONTREVAULT-SUR-ÈVRE,FR,Finisher,4,,5,Derni,38:30:32,4.16
+632,Nicolas,JALABERT,Homme,M2 H (45-49),,FRA (France),AUSSILLON,FR,Finisher,5,,3,Derni,38:35:57,4.15
+1908,Gautier,ALLEMANE,Homme,SE H (23-34),,FRA (France),VILLENEUVE LES BOULOC,FR,Finisher,6,,3,Derni,38:38:26,4.15
+2009,Loïc,BOULAN,Homme,M0 H (35-39),,FRA (France),SAINT PIERRE,RE,Finisher,7,,4,Derni,38:42:42,4.14
+827,Jerome,MASSABUAU,Homme,M1 H (40-44),,FRA (France),SEBAZAC CONCOURES,FR,Finisher,8,,6,Derni,38:43:29,4.14
+8,Fabrice,AGEORGES,Homme,M2 H (45-49),,FRA (France),LIBREVILLE,GA,Finisher,9,,4,Derni,38:43:33,4.14
+2294,Benoît,LEROY,Homme,SE H (23-34),,FRA (France),GRANDCHAMPS-DES-FONTAINES,FR,Finisher,9,,4,Derni,38:43:33,4.14
+2417,Vincent,PLANAT,Homme,SE H (23-34),,FRA (France),SAINT PIERRE,RE,Finisher,1,,5,Derni,38:44:30,4.14
+1342,Gildas,MICHEL,Homme,M1 H (40-44),,FRA (France),LAMBERSART,FR,Finisher,2,,7,Derni,38:44:55,4.14
+1344,Julian,MENDEZ,Homme,SE H (23-34),,FRA (France),SAINT GENIS POUILLY,FR,Finisher,3,,6,Derni,38:45:04,4.14
+1511,Romain,BALME,Homme,SE H (23-34),,FRA (France),ST GILLES LES BAINS,RE,Finisher,4,,7,Derni,38:45:53,4.13
+1365,Jean-Marc,TOULLEC,Homme,M2 H (45-49),,FRA (France),BREST,FR,Finisher,5,,5,Derni,38:49:26,4.13
+2156,Laurent,DARET,Homme,M3 H (50-54),,FRA (France),VENTABREN,FR,Finisher,6,,8,Derni,38:54:35,4.12
+665,Wilfried,LAFFRAY,Homme,M0 H (35-39),,FRA (France),SALLANCHES,FR,Finisher,7,,5,Derni,38:57:57,4.11
+1674,Mathieu,BRELIVET,Homme,M1 H (40-44),,FRA (France),RAVINE DES CABRIS,RE,Finisher,8,,8,Derni,39:00:30,4.11
+744,Olivier,LEJEUNE,Homme,M2 H (45-49),,FRA (France),VERTOU,FR,Finisher,9,,6,Derni,39:01:46,4.11
+2220,Nadine,LEVENEUR,Femme,M3 F (50-54),,FRA (France),ENTRE DEUX,RE,Finisher,0,2,1,Derni,39:02:29,4.1
+707,Fabrice,LE CALVEZ,Homme,SE H (23-34),,FRA (France),PARIS,FR,Finisher,1,,8,Derni,39:07:26,4.1
+1725,Nicolas,PASQUIER,Homme,SE H (23-34),,FRA (France),SAINT-LOUIS,RE,Finisher,2,,9,Derni,39:09:42,4.09
+2059,Guillaume,DUFLOU,Homme,M0 H (35-39),,FRA (France),BOOS,FR,Finisher,3,,6,Derni,39:11:13,4.09
+137,Henri Claude,BIGOT,Homme,M1 H (40-44),,FRA (France),TAMPON,RE,Finisher,4,,9,Derni,39:11:18,4.09
+136,David,BIEHLER,Homme,M1 H (40-44),,FRA (France),SAINT MAX,FR,Finisher,5,,0,Derni,39:12:33,4.09
+23,Guillaume,ALISI,Homme,M1 H (40-44),,FRA (France),CHAMPIGNY SUR MARNE,FR,Finisher,6,,1,Derni,39:12:34,4.09
+2124,Cyril,ESPALIEU,Homme,M0 H (35-39),,FRA (France),ANNECY-LE-VIEUX,FR,Finisher,7,,7,Derni,39:14:45,4.08
+2029,Oumar,COULIBALY,Homme,M1 H (40-44),,FRA (France),CERGY LE HAUT,FR,Finisher,8,,2,Derni,39:15:50,4.08
+2039,Matthieu,BONHOMME,Homme,M0 H (35-39),,FRA (France),RAVINE DES CABRIS,RE,Finisher,9,,8,Derni,39:16:01,4.08
+686,Damien,LARGEOIS,Homme,SE H (23-34),,FRA (France),ST DONAT SUR L'HERBASSE,FR,Finisher,0,,0,Derni,39:17:04,4.08
+1317,Olivier,GONZALEZ RODRIGUEZ,Homme,M0 H (35-39),,FRA (France),LA SALINE LES HAUTS,RE,Finisher,1,,9,Derni,39:18:13,4.08
+1446,Julien,DELGARD,Homme,SE H (23-34),,FRA (France),MILLAS,FR,Finisher,2,,1,Derni,39:19:49,4.07
+924,David,PAILLETTE,Homme,M2 H (45-49),,FRA (France),BLACQUEVILLE,FR,Finisher,3,,7,Derni,39:21:17,4.07
+791,Yoland,MAILLOT,Homme,M2 H (45-49),,FRA (France),LA POSSESSION,RE,Finisher,4,,8,Derni,39:22:39,4.07
+1606,Frédéric,SORRES,Homme,M0 H (35-39),,FRA (France),SAINTE-CLOTILDE,RE,Finisher,5,,0,Derni,39:24:33,4.07
+2127,David,BOUCHER,Homme,M2 H (45-49),,FRA (France),PETITE ÎLE R,RE,Finisher,6,,9,Derni,39:24:46,4.07
+1836,Ludovic,LAGODZINSKI,Homme,M2 H (45-49),,FRA (France),PETITE-FORET,FR,Finisher,7,,0,Derni,39:24:49,4.07
+2069,Cédric,TECHER,Homme,M1 H (40-44),,FRA (France),TAMPN,RE,Finisher,8,,3,Derni,39:25:47,4.06
+375,Yannick,DOLOU,Homme,M0 H (35-39),,FRA (France),SAINT GILLES LES HAUTS,RE,Finisher,9,,1,Derni,39:25:49,4.06
+700,Vincent,LAURIOL,Homme,M0 H (35-39),,FRA (France),ORLEANS,FR,Finisher,0,,2,Derni,39:27:49,4.06
+443,Sébastien,FERNANDES,Homme,M1 H (40-44),,FRA (France),SAINT GILLES LES HAUTS,RE,Finisher,1,,4,Derni,39:29:54,4.06
+1209,Antoine,TOUBLANC,Homme,SE H (23-34),,FRA (France),LE MESNIL-EN-VALLÉE,FR,Finisher,2,,2,Derni,39:33:39,4.05
+1938,Lionel,TANGUY,Homme,M2 H (45-49),,FRA (France),TRÉMÉVEN,FR,Finisher,3,,1,Derni,39:34:13,4.05
+972,Michel,PIERARD,Homme,M3 H (50-54),,BEL (Belgique),CHASTRE,BE,Finisher,4,,9,Derni,39:35:47,4.05
+2075,Julien,COUDEVILLE,Homme,SE H (23-34),,FRA (France),CARPENTRAS,FR,Finisher,5,,3,Derni,39:36:05,4.05
+530,Anne,GODON,Femme,M3 F (50-54),,BEL (Belgique),OLNE,BE,Finisher,6,3,2,Derni,39:37:52,4.04
+219,Julien,CABROL,Homme,M1 H (40-44),,FRA (France),SEBAZAC,FR,Finisher,7,,5,Derni,39:39:15,4.04
+573,Pierre-Marie,GUILLOU,Homme,SE H (23-34),,FRA (France),GOUESNOU,FR,Finisher,8,,4,Derni,39:40:29,4.04
+2512,Herland,TECHER,Homme,M3 H (50-54),,FRA (France),LA RIVIERE  ( REUNION),RE,Finisher,8,,0,Derni,39:40:29,4.04
+691,Richard,LATONNELLE,Homme,M2 H (45-49),,FRA (France),AVRILLÉ,FR,Finisher,0,,2,Derni,39:41:01,4.04
+2293,René-Antoine,MATA,Homme,SE H (23-34),,FRA (France),LES AVIRONS,RE,Finisher,1,,5,Derni,39:41:10,4.04
+1545,Romain,BIGOT,Homme,SE H (23-34),,FRA (France),SAINT PIERRE,RE,Finisher,2,,6,Derni,39:41:39,4.04
+369,Kevin,DIOUGOANT,Homme,M1 H (40-44),,FRA (France),ERGUÉ GABERIC,FR,Finisher,3,,6,Derni,39:42:53,4.03
+88,Frederic,BAUDY,Homme,M1 H (40-44),,FRA (France),MELJAC,FR,Finisher,4,,7,Derni,39:43:00,4.03
+677,Thomas,LANDES,Homme,M0 H (35-39),,FRA (France),VERINES,FR,Finisher,5,,3,Derni,39:43:05,4.03
+177,Fabien,BOULIERE,Homme,M1 H (40-44),,FRA (France),PLÉRIN,FR,Finisher,6,,8,Derni,39:46:06,4.03
+1548,Frederic,FOUBERT,Homme,M1 H (40-44),,FRA (France),PORT JÉRÔME SUR SEINE,FR,Finisher,7,,9,Derni,39:46:10,4.03
+2524,Jean-Charles,HARBONNIER,Homme,SE H (23-34),,FRA (France),BESANÇON,FR,Finisher,7,,7,Derni,39:46:10,4.03
+1593,Alexis,VANDEL,Homme,M0 H (35-39),,FRA (France),LOUVIERS,FR,Finisher,9,,4,Derni,39:47:10,4.03
+2263,Sebastien,COSTECALDE,Homme,M2 H (45-49),,FRA (France),SAINT PAUL,RE,Finisher,0,,3,Derni,39:47:50,4.03
+2438,Maxime,BERTHAUD,Homme,SE H (23-34),,FRA (France),SAINT GILLES LES HAUTS,RE,Finisher,1,,8,Derni,39:48:01,4.03
+523,Clément,GIRARD,Homme,SE H (23-34),,FRA (France),PARIS,FR,Finisher,2,,9,Derni,39:48:38,4.03
+82,Ludovic,BARTHES,Homme,M0 H (35-39),,FRA (France),MONTLOUIS SUR LOIRE,FR,Finisher,3,,5,Derni,39:49:35,4.02
+2123,Laurent,TING-SON,Homme,M2 H (45-49),,FRA (France),POSSESSION,RE,Finisher,4,,4,Derni,39:50:26,4.02
+768,Stéphane,LISCOET,Homme,M2 H (45-49),,FRA (France),PORDIC,FR,Finisher,5,,5,Derni,39:51:57,4.02
+226,Grégory,CAMERLO,Homme,SE H (23-34),,FRA (France),MARSEILLE,FR,Finisher,6,,0,Derni,39:52:28,4.02
+662,Bruno,LACOUR,Homme,M3 H (50-54),,FRA (France),SAINT MARTIN DE RIBÉRAC,FR,Finisher,7,,1,Derni,39:52:48,4.02
+1008,Daniel,QUEMIN,Homme,M1 H (40-44),,FRA (France),SAINT PAUL,RE,Finisher,8,,0,Derni,39:54:00,4.02
+1191,Romain,DESBREST,Homme,M0 H (35-39),,FRA (France),SEVRIER,FR,Finisher,9,,6,Derni,39:59:31,4.01
+228,Ludovic,CAMUS,Homme,M2 H (45-49),,FRA (France),ONNION,FR,Finisher,0,,6,Derni,40:00:07,4.01
+714,Sophie,LE GONIDEC,Femme,M1 F (40-44),,FRA (France),SAINT-BRIEUC,FR,Finisher,1,4,5,Derni,40:01:54,4.0
+715,Laurent,LE GONIDEC,Homme,M1 H (40-44),,FRA (France),SAINT-BRIEUC,FR,Finisher,2,,1,Derni,40:01:56,4.0
+1273,Hakim,MEZIANE,Homme,M4 H (55-59),,ALG (Algérie),ATTAINVILLE,FR,Finisher,3,,3,Derni,40:09:07,3.99
+2566,Benji,BÉLUS,Homme,SE H (23-34),,FRA (France),SAINT PIERRE,RE,Finisher,4,,1,Derni,40:11:12,3.99
+1106,William,SEYCHELLES,Homme,SE H (23-34),,FRA (France),SAUMUR,FR,Finisher,5,,2,Derni,40:12:43,3.98
+1253,David,GERON,Homme,M2 H (45-49),,BEL (Belgique),AUBEL,BE,Finisher,6,,7,Derni,40:13:09,3.98
+277,Kewin,CHEVREAU,Homme,M0 H (35-39),,FRA (France),SAINT-PIERRE,RE,Finisher,7,,7,Derni,40:13:18,3.98
+718,Erwann,LE GUESCLOU,Homme,M1 H (40-44),,FRA (France),BOQUÉHO,FR,Finisher,8,,2,Derni,40:13:54,3.98
+116,Pascal,BERGIER,Homme,M3 H (50-54),,FRA (France),LE TAMPON,RE,Finisher,9,,2,Derni,40:14:35,3.98
+77,Mickael,BARDOUL,Homme,M2 H (45-49),,FRA (France),LA MARNE,FR,Finisher,0,,8,Derni,40:16:53,3.98
+782,Adan,LOZANO,Homme,SE H (23-34),,ESP (Espagne),AREUSE,CH,Finisher,1,,3,Derni,40:18:54,3.97
+2231,Alix,THAZAR,Homme,M3 H (50-54),,FRA (France),PLAINE BOIS DE NÈFLES SAINT PAUL,RE,Finisher,2,,3,Derni,40:23:05,3.97
+188,Christopher,BOYER,Homme,M0 H (35-39),,FRA (France),BOIS DE NÈFLES ST PAUL,RE,Finisher,3,,8,Derni,40:23:07,3.97
+512,Ludovic,GAYRAUD,Homme,M2 H (45-49),,FRA (France),LA PRIMAUBE,FR,Finisher,4,,9,Derni,40:25:24,3.96
+520,Sebastien,GIGOT,Homme,M2 H (45-49),,FRA (France),VILLENEUVE LEZ AVIGNON,FR,Finisher,5,,0,Derni,40:25:56,3.96
+1057,Jean-Willy,ROUGET,Homme,M1 H (40-44),,FRA (France),BRAS-PANON,RE,Finisher,6,,3,Derni,40:27:22,3.96
+234,Eliot,CARCREFF,Homme,SE H (23-34),,FRA (France),SUCY EN BRIE,FR,Finisher,7,,4,Derni,40:28:55,3.96
+994,Dominique,POTHIN,Homme,M4 H (55-59),,FRA (France),LE TAMPON,RE,Finisher,8,,4,Derni,40:29:48,3.96
+888,Lois,MULLER,Homme,SE H (23-34),,FRA (France),DIESEN,FR,Finisher,9,,5,Derni,40:30:01,3.96
+1562,Mickaël,CHAMPION,Homme,M1 H (40-44),,FRA (France),SAUBENS,FR,Finisher,0,,4,Derni,40:32:38,3.95
+2267,Julien,VERGEOT,Homme,M0 H (35-39),,FRA (France),PARIGNE-L EVEQUE,FR,Finisher,1,,9,Derni,40:37:30,3.94
+1079,Christophe,SANTUCCI,Homme,M1 H (40-44),,FRA (France),MARTIGUES,FR,Finisher,2,,5,Derni,40:37:57,3.94
+2448,Nicolas,STAEHLE,Homme,M1 H (40-44),,FRA (France),RÉDÉNÉ,FR,Finisher,3,,6,Derni,40:39:05,3.94
+1810,Jonathan,RAMOS,Homme,M0 H (35-39),,FRA (France),SALINE LES BAINS,RE,Finisher,4,,0,Derni,40:39:06,3.94
+2091,Sebastien,ALEXANDRE,Homme,M2 H (45-49),,FRA (France),BISCARROSSE,FR,Finisher,5,,1,Derni,40:39:21,3.94
+1702,Pascal,MUSSARD,Homme,M1 H (40-44),,FRA (France),L ETANG SALÉ,RE,Finisher,6,,7,Derni,40:40:02,3.94
+2227,Vincent,PENEL,Homme,M1 H (40-44),,FRA (France),CHEPTAINVILLE,FR,Finisher,6,,7,Derni,40:40:02,3.94
+1212,Fanny,TOURNAY,Femme,SE F (23-34),,FRA (France),LA MOTTE-SERVOLEX,FR,Finisher,8,5,4,Derni,40:42:03,3.94
+2159,Tony,BENAIS,Homme,M1 H (40-44),,FRA (France),SAINT LOUIS,RE,Finisher,9,,9,Derni,40:42:15,3.94
+2394,Terik,CROISET,Homme,M0 H (35-39),,FRA (France),VILLENEUVE DE LA RAHO,FR,Finisher,0,,1,Derni,40:48:12,3.93
+458,Pascal,FONCROSE,Homme,M3 H (50-54),,FRA (France),FRONTIGNAN,FR,Finisher,1,,4,Derni,40:48:42,3.93
+2055,Sandrine,MARTEL,Femme,M3 F (50-54),,FRA (France),BEUGIN,FR,Finisher,2,6,3,Derni,40:48:50,3.93
+2378,Sylvain,BRUNATO,Homme,M1 H (40-44),,FRA (France),MONTMAUR,FR,Finisher,3,,0,Derni,40:48:58,3.93
+751,Anthony,LEPINE,Homme,M2 H (45-49),,FRA (France),CHALONNES SUR LOIRE,FR,Finisher,4,,2,Derni,40:51:13,3.92
+1390,Francois,ERMENEUX,Homme,SE H (23-34),,FRA (France),LE PORT,RE,Finisher,5,,6,Derni,40:51:32,3.92
+822,Sébastien,MARTIN,Homme,M2 H (45-49),,FRA (France),CARIGNAN DE BORDEAUX,FR,Finisher,6,,3,Derni,40:51:49,3.92
+2010,Pierre,JESTIN,Homme,M4 H (55-59),,FRA (France),KERNOUES,FR,Finisher,7,,5,Derni,40:52:48,3.92
+517,Vincent,GERMAIN,Homme,SE H (23-34),,FRA (France),MONTARDON,FR,Finisher,8,,7,Derni,40:53:28,3.92
+810,Christophe,MAREE,Homme,M0 H (35-39),,FRA (France),NOUAILLE MAUPERTUIS,FR,Finisher,9,,2,Derni,40:53:51,3.92
+2602,Jean Pascal,BEGUE,Homme,M0 H (35-39),,FRA (France),SAINT PAUL,RE,Finisher,0,,3,Derni,40:55:14,3.92
+1936,Stéphane,BASILE,Homme,M2 H (45-49),,FRA (France),SAINT-BENOIT,RE,Finisher,1,,4,Derni,40:58:20,3.91
+212,Nicolas,BUFFET,Homme,M1 H (40-44),,FRA (France),GOURIN,FR,Finisher,2,,1,Derni,40:59:02,3.91
+1187,René Claude,HOARAU,Homme,M4 H (55-59),,FRA (France),TAMPON,RE,Finisher,3,,6,Derni,40:59:33,3.91
+703,Florent,LE BADEZET,Homme,M1 H (40-44),,FRA (France),SAINT LEU,RE,Finisher,4,,2,Derni,40:59:38,3.91
+762,David,LEVEILLE,Homme,M0 H (35-39),,FRA (France),SAINT PIERRE SUR ERVE,FR,Finisher,5,,4,Derni,41:00:32,3.91
+1767,Clement,DIEUDONNE,Homme,SE H (23-34),,FRA (France),MEGEVE,FR,Finisher,6,,8,Derni,41:01:28,3.91
+1614,Willy,DALLEAU,Homme,M3 H (50-54),,FRA (France),LA POSSESSION,RE,Finisher,7,,5,Derni,41:02:23,3.9
+200,Jeremy,BRICAUD,Homme,M0 H (35-39),,FRA (France),VILLENEUVE DE LA RAHO,FR,Finisher,8,,5,Derni,41:03:35,3.9
+162,Quentin,BORDAGE,Homme,M1 H (40-44),,FRA (France),PARIS,FR,Finisher,9,,3,Derni,41:03:49,3.9
+2024,Devrig,LE ROUX,Homme,M2 H (45-49),,FRA (France),JOINVILLE LE PONT,FR,Finisher,0,,5,Derni,41:04:26,3.9
+1303,Benoît,RULOT,Homme,M3 H (50-54),,BEL (Belgique),BONSIN,BE,Finisher,1,,6,Derni,41:07:25,3.9
+307,Julien,CONTE,Homme,M1 H (40-44),,CAN (Canada),MONTREAL,CA,Finisher,2,,4,Derni,41:07:49,3.9
+2103,Eric,DE LA ROCHE DE BRANSAT,Homme,M4 H (55-59),,FRA (France),CALUIRE,FR,Finisher,3,,7,Derni,41:10:54,3.89
+952,Jonathan,PERON,Homme,M0 H (35-39),,FRA (France),QUIMPERLE,FR,Finisher,4,,6,Derni,41:11:43,3.89
+837,Pierre,MEIGNAN,Homme,SE H (23-34),,FRA (France),TOURS,FR,Finisher,5,,9,Derni,41:13:49,3.89
+1669,Julien,ROBERT,Homme,M0 H (35-39),,FRA (France),SAINT DENIS,RE,Finisher,6,,7,Derni,41:14:46,3.88
+1270,Roan,VALLAT,Homme,M0 H (35-39),,SUI (Suisse),ATTALENS,CH,Finisher,7,,8,Derni,41:15:17,3.88
+647,Yann,JOUSSET,Homme,M3 H (50-54),,FRA (France),ANGERS,FR,Finisher,8,,7,Derni,41:16:21,3.88
+2407,Stephane,DECHAVANNE,Homme,M1 H (40-44),,FRA (France),SAINT PIERRE,RE,Finisher,9,,5,Derni,41:16:32,3.88
+2240,Sony,PLAVONIL,Homme,M1 H (40-44),,FRA (France),MARCOUSSIS,FR,Finisher,0,,6,Derni,41:16:56,3.88
+431,Luciano,FADDA,Homme,M5 H (60-64),,ITA (Italie),MODANE,FR,Finisher,1,,3,Derni,41:19:15,3.88
+430,Jérémy,FADDA,Homme,SE H (23-34),,ITA (Italie),MODANE,FR,Finisher,2,,0,Derni,41:19:18,3.88
+56,Jean Fabrice,AURE,Homme,M2 H (45-49),,FRA (France),LES TROIS BASSINS,RE,Finisher,3,,6,Derni,41:19:44,3.88
+2351,Jérôme,TOURSCHER,Homme,SE H (23-34),,FRA (France),AMMERSCHWIHR,FR,Finisher,4,,1,Derni,41:19:58,3.88
+1491,Christophe,CAILLET,Homme,M0 H (35-39),,FRA (France),ETANG SALE LES BAINS,RE,Finisher,5,,9,Derni,41:20:11,3.88
+2170,Olivier,FINET,Homme,M0 H (35-39),,FRA (France),SAINT BERNARD DU TOUVET,FR,Finisher,6,,0,Derni,41:20:15,3.88
+303,Emmanuel,COLLOMB,Homme,M3 H (50-54),,FRA (France),VAUGNERAY,FR,Finisher,7,,8,Derni,41:20:22,3.88
+1225,Fabrice,D’ALETTO,Homme,M2 H (45-49),,FRA (France),SAINT QUENTIN LA POTERIE,FR,Finisher,8,,7,Derni,41:20:40,3.88
+2208,Jean-Baptiste,HANTON,Homme,M2 H (45-49),,FRA (France),LEVALLOIS-PERRET,FR,Finisher,9,,8,Derni,41:20:49,3.88
+1743,Nadine,MEUWES,Femme,M5 F (60-64),,FRA (France),FONTCOUVERTE - LA TOUSSUIRE,FR,Finisher,0,7,1,Derni,41:21:49,3.87
+1986,Nicolas,VERSCHELDE,Homme,SE H (23-34),,FRA (France),LA POSSESSION,RE,Finisher,1,,2,Derni,41:22:35,3.87
+363,Jean-Pierre,DEVULDER,Homme,M5 H (60-64),,FRA (France),MONTLIGNON,FR,Finisher,2,,4,Derni,41:22:55,3.87
+2207,Frédéric-Charles,BORDIER,Homme,M2 H (45-49),,FRA (France),RAVINE DES CABRIS,RE,Finisher,3,,9,Derni,41:25:28,3.87
+61,Mehdi,AZAZI,Homme,M0 H (35-39),,FRA (France),ST ETIENNE,FR,Finisher,4,,1,Derni,41:26:06,3.87
+1326,Marc,JULIA,Homme,M1 H (40-44),,FRA (France),NARBONNE,FR,Finisher,5,,7,Derni,41:26:34,3.87
+2406,Frédéric,VANWALSCAPPEL,Homme,M1 H (40-44),,FRA (France),SAINT-CLOTILDE,RE,Finisher,6,,8,Derni,41:27:14,3.87
+1469,Jacky,BERBY,Homme,M1 H (40-44),,FRA (France),TROIS-BASSINS,RE,Finisher,7,,9,Derni,41:28:12,3.86
+658,Edouard,LABARRE,Homme,M2 H (45-49),,FRA (France),IGOVILLE,FR,Finisher,8,,0,Derni,41:28:29,3.86
+17,Arnaud,ALARET,Homme,M0 H (35-39),,FRA (France),MANHAC,FR,Finisher,9,,2,Derni,41:29:42,3.86
+1519,Antoine,DAVOST,Homme,SE H (23-34),,FRA (France),VERSAILLES,FR,Finisher,0,,3,Derni,41:30:02,3.86
+2035,Damien,ETHEVE,Homme,M0 H (35-39),,FRA (France),SAINT JOSEPH,RE,Finisher,1,,3,Derni,41:33:30,3.86
+2004,Fabrice,ERNOUL,Homme,M0 H (35-39),,FRA (France),SAINT-ANDRÉ,RE,Finisher,2,,4,Derni,41:34:51,3.85
+2277,Jeanfred,OGNARD,Homme,M2 H (45-49),,FRA (France),SAINT PAUL,RE,Finisher,3,,1,Derni,41:34:58,3.85
+183,Valentin,BOURGEOIS,Homme,M1 H (40-44),,FRA (France),SEVRES,FR,Finisher,4,,0,Derni,41:35:30,3.85
+1596,Fabrice,DARID,Homme,M3 H (50-54),,FRA (France),LA PLAINE SAINT PAUL,RE,Finisher,5,,9,Derni,41:35:33,3.85
+2374,Jonathan,MEDOT,Homme,SE H (23-34),,FRA (France),SAINT GILLES LES BAINS,RE,Finisher,6,,4,Derni,41:35:43,3.85
+158,Nicolas,BONNEAU,Homme,M2 H (45-49),,FRA (France),LAIGNE EN BELIN,FR,Finisher,7,,2,Derni,41:36:13,3.85
+1852,Mathieu,CORREIA,Homme,M0 H (35-39),,FRA (France),NEUILLY SUR SEINE,FR,Finisher,8,,5,Derni,41:36:20,3.85
+257,Patrice,CHAPELLE,Homme,M2 H (45-49),,FRA (France),ONET LE CHATEAU,FR,Finisher,9,,3,Derni,41:36:22,3.85
+205,Sebastien,BROSSELLIER,Homme,SE H (23-34),,FRA (France),TERRANJOU,FR,Finisher,0,,5,Derni,41:36:23,3.85
+1729,Teric,ZALAGH,Homme,M2 H (45-49),,FRA (France),SAUMANE,FR,Finisher,1,,4,Derni,41:37:06,3.85
+344,David,DARTY,Homme,SE H (23-34),,FRA (France),CHALLES-LES-EAUX,FR,Finisher,2,,6,Derni,41:39:56,3.85
+951,Emmanuel,PERNOT,Homme,M2 H (45-49),,FRA (France),NOMMAY,FR,Finisher,3,,5,Derni,41:40:19,3.85
+1410,Patrice,FERRON,Homme,M3 H (50-54),,FRA (France),LAUBRIÈRES,FR,Finisher,4,,0,Derni,41:43:08,3.84
+790,Julien,MAILLARD,Homme,M1 H (40-44),,FRA (France),ACHÈRES LA FORET,FR,Finisher,5,,1,Derni,41:43:17,3.84
+1616,Pauline,WINER,Femme,SE F (23-34),,FRA (France),SAINT-ANDRÉ,RE,Finisher,6,8,5,Derni,41:43:21,3.84
+1082,Nicolas,SARTHOU,Homme,M0 H (35-39),,FRA (France),NARCASTET,FR,Finisher,7,,6,Derni,41:46:32,3.84
+902,Ahmed Makane,NIANG,Homme,M3 H (50-54),,FRA (France),SAINT-DENIS,RE,Finisher,8,,1,Derni,41:47:15,3.83
+1371,Jean Dany,THOMAS,Homme,M2 H (45-49),,FRA (France),SAINT PAUL,RE,Finisher,9,,6,Derni,41:47:17,3.83
+1835,Julian,MIRANVILLE,Homme,M2 H (45-49),,FRA (France),ST PAUL,RE,Finisher,0,,7,Derni,41:47:19,3.83
+2611,Grégory,BATAILLE,Homme,SE H (23-34),,FRA (France),ST LEU,RE,Finisher,1,,7,Derni,41:48:19,3.83
+1506,Jean Pierre,HOAREAU,Homme,M5 H (60-64),,FRA (France),ST JOSEPH,RE,Finisher,2,,5,Derni,41:50:23,3.83
+2,Tahar,ABERKANE,Homme,M4 H (55-59),,FRA (France),MIONNAY,FR,Finisher,3,,8,Derni,41:50:28,3.83
+85,Michel,BASTIDE,Homme,M4 H (55-59),,FRA (France),CALMONT,FR,Finisher,4,,9,Derni,41:52:00,3.83
+801,Franck,MALGORN,Homme,M2 H (45-49),,FRA (France),CHERENG,FR,Finisher,5,,8,Derni,41:52:23,3.83
+1656,Roger,LAURENT,Homme,M2 H (45-49),,FRA (France),ETANG SALE,RE,Finisher,6,,9,Derni,41:53:00,3.83
+384,Alexandre,DRUESNE,Homme,M2 H (45-49),,FRA (France),ONCY SUR ECOLE,FR,Finisher,7,,0,Derni,41:53:17,3.83
+84,Dylan,BASTIAN,Homme,SE H (23-34),,FRA (France),LARRINGES,RE,Finisher,8,,8,Derni,41:54:49,3.82
+509,David,GAULTIER,Homme,M1 H (40-44),,FRA (France),LACANAU,FR,Finisher,9,,2,Derni,41:55:22,3.82
+597,Romuald,HERSANT,Homme,M3 H (50-54),,FRA (France),JALLAIS BEAUPREAU EN MAUGES,FR,Finisher,0,,2,Derni,41:56:43,3.82
+2487,Gabriel,DUMORA,Homme,M1 H (40-44),,FRA (France),BEAUVILLE,FR,Finisher,1,,3,Derni,41:56:57,3.82
+796,Antoine,MAINIER,Homme,M1 H (40-44),,FRA (France),LA SEYNE SUR MER,FR,Finisher,2,,4,Derni,41:56:59,3.82
+491,Herve,GALLOIS,Homme,M1 H (40-44),,FRA (France),LEOGNAN,FR,Finisher,3,,5,Derni,41:57:01,3.82
+1333,Loic,TULSA,Homme,M0 H (35-39),,FRA (France),FLAVIN,FR,Finisher,3,,7,Derni,41:57:01,3.82
+692,Vincent,LATTEUX,Homme,M2 H (45-49),,FRA (France),COURBEVOIE,FR,Finisher,5,,1,Derni,41:57:06,3.82
+230,Victor,CANIVENQ,Homme,SE H (23-34),,FRA (France),ONET LE CHATEAU,FR,Finisher,6,,9,Derni,41:57:14,3.82
+1914,Marie,BRASSEUR,Femme,SE F (23-34),,FRA (France),SAINT LEU,RE,Finisher,7,9,6,Derni,41:57:36,3.82
+1722,Bruno,TARDIVEL,Homme,M3 H (50-54),,FRA (France),BRINCKHEIM,FR,Finisher,8,,3,Derni,41:59:06,3.82
+515,Guillaume,GEORGET,Homme,M1 H (40-44),,FRA (France),CAUDAN,FR,Finisher,9,,6,Derni,41:59:09,3.82
+964,Erick,PICARD,Homme,M3 H (50-54),,FRA (France),SAINTE CLOTILDE,RE,Finisher,0,,4,Derni,41:59:56,3.82
+772,Louis Nicolas,LONDAITZ,Homme,M0 H (35-39),,FRA (France),CIBOURE,FR,Finisher,1,,8,Derni,42:00:03,3.82
+1173,Daniel,MERCHER,Homme,M4 H (55-59),,FRA (France),STE MARIE,RE,Finisher,2,,0,Derni,42:00:56,3.81
+2390,Gregory,BILLON,Homme,M1 H (40-44),,FRA (France),LA MONTAGNE,RE,Finisher,3,,7,Derni,42:01:18,3.81
+2174,Nicolas,DHALLUIN,Homme,M2 H (45-49),,FRA (France),LA CELLE SAINT CLOUD,FR,Finisher,4,,2,Derni,42:01:50,3.81
+494,Guillaume,GAMET,Homme,M1 H (40-44),,FRA (France),ST JEAN ST MAURICE,FR,Finisher,5,,8,Derni,42:02:03,3.81
+1628,Guillaume,HERNANDEZ,Homme,M1 H (40-44),,FRA (France),CHAMPIGNY-SUR-MARNE,FR,Finisher,6,,9,Derni,42:02:16,3.81
+1892,David,MOREAU,Homme,M4 H (55-59),,FRA (France),SALAZIE,RE,Finisher,7,,1,Derni,42:03:57,3.81
+838,Alain,MELET,Homme,M3 H (50-54),,FRA (France),LES ROUSSES,FR,Finisher,8,,5,Derni,42:04:24,3.81
+1932,Sylvain,DENIS,Homme,M1 H (40-44),,FRA (France),PONT SCORFF,FR,Finisher,9,,0,Derni,42:07:48,3.8
+402,Jean Michel,DUNAUD,Homme,M4 H (55-59),,FRA (France),THIERS,FR,Finisher,0,,2,Derni,42:08:12,3.8
+1084,Sauffisseau,SAUFFISSEAU,Homme,M3 H (50-54),,FRA (France),GUICHE,FR,Finisher,1,,6,Derni,42:09:23,3.8
+2185,Cedric,MARGUERIE,Homme,M0 H (35-39),,FRA (France),LONGJUMEAU,FR,Finisher,2,,9,Derni,42:09:28,3.8
+1864,Gerard,SUZANNE,Homme,M4 H (55-59),,FRA (France),PETITE-ILE,RE,Finisher,3,,3,Derni,42:09:51,3.8
+1887,Mathieu,MITHRA,Homme,M0 H (35-39),,FRA (France),SAINT PAUL,RE,Finisher,4,,0,Derni,42:11:51,3.8
+422,Raphael,ETOURNEUX,Homme,M2 H (45-49),,FRA (France),BEAUPREAU EN MAUGES,FR,Finisher,5,,3,Derni,42:12:49,3.8
+326,Stéphane,CREFF,Homme,M2 H (45-49),,FRA (France),GOUESNOU,FR,Finisher,6,,4,Derni,42:18:42,3.79
+1903,Sylvain,LAINE,Homme,M2 H (45-49),,FRA (France),ST MARTIN D'URIAGE,FR,Finisher,7,,5,Derni,42:20:58,3.78
+483,Nicolas,FRUCHART,Homme,M2 H (45-49),,FRA (France),BUSSÉOL,FR,Finisher,8,,6,Derni,42:21:05,3.78
+2305,Christophe,POMIES,Homme,M1 H (40-44),,FRA (France),SAINTE OUENNE,FR,Finisher,9,,1,Derni,42:22:11,3.78
+2139,Olivier,LOFFICIAL,Homme,M2 H (45-49),,FRA (France),SAINTE CLOTILDE,RE,Finisher,0,,7,Derni,42:22:50,3.78
+616,Cyril,HURSON,Homme,M2 H (45-49),,LUX (Luxembourg),BERDORF,LU,Finisher,1,,8,Derni,42:23:06,3.78
+1027,Nicolas,REYNAUD,Homme,M1 H (40-44),,FRA (France),SAVIGNY,FR,Finisher,2,,2,Derni,42:23:32,3.78
+1015,Mickaël,RAMIN,Homme,M1 H (40-44),,FRA (France),SALAZIE,RE,Finisher,3,,3,Derni,42:24:01,3.78
+574,Dominique,GUILLOUT,Homme,M4 H (55-59),,FRA (France),NEYRON,FR,Finisher,4,,4,Derni,42:24:29,3.78
+1804,Gérard,RACINNE,Homme,M6 H (65-69),,FRA (France),LE TAMPON,RE,Finisher,5,,1,Derni,42:25:15,3.78
+1208,Ludovic,CAZIN,Homme,M1 H (40-44),,FRA (France),FUVEAU,FR,Finisher,6,,4,Derni,42:26:49,3.78
+1634,Alexandre,PONSARDIN,Homme,SE H (23-34),,FRA (France),GALLARDON,FR,Finisher,7,,0,Derni,42:27:48,3.77
+1464,Arnaud,CHRISTIEN,Homme,M0 H (35-39),,FRA (France),ST LEU,RE,Finisher,8,,1,Derni,42:28:10,3.77
+1705,Arnaud,TURPIN,Homme,M4 H (55-59),,FRA (France),LE TAMPON,RE,Finisher,9,,5,Derni,42:28:18,3.77
+1374,Pierre,RUBELLIN,Homme,SE H (23-34),,FRA (France),SAINT-DENIS,RE,Finisher,0,,1,Derni,42:29:22,3.77
+2158,Michel,SAINT-FIDELE,Homme,M3 H (50-54),,FRA (France),SAINT PAUL,RE,Finisher,1,,7,Derni,42:29:57,3.77
+642,Patrick,JOURDAIN,Homme,M3 H (50-54),,FRA (France),STE MARIE,RE,Finisher,2,,8,Derni,42:30:55,3.77
+1218,Yann,HALLÉ,Homme,M3 H (50-54),,FRA (France),VALENCIENNES,FR,Finisher,3,,9,Derni,42:32:26,3.77
+301,Yann,COLLADO,Homme,SE H (23-34),,FRA (France),SAINT DENIS,RE,Finisher,4,,2,Derni,42:33:42,3.76
+1753,Maxime,CANALE,Homme,M0 H (35-39),,FRA (France),SAINT DENIS,RE,Finisher,5,,2,Derni,42:34:55,3.76
+469,Pascal,FOUQUERAY,Homme,M3 H (50-54),,FRA (France),NANTES,FR,Finisher,6,,0,Derni,42:35:05,3.76
+106,Yves,BENARD,Homme,M2 H (45-49),,FRA (France),SAINT-DENIS,RE,Finisher,7,,9,Derni,42:36:45,3.76
+1315,Jérôme,PARENT,Homme,M2 H (45-49),,FRA (France),SAINT-ÉTIENNE-DE-TINÉE,FR,Finisher,8,,0,Derni,42:37:31,3.76
+1291,Thomas,LAGARDE,Homme,SE H (23-34),,LUX (Luxembourg),SCHOUWEILER,LU,Finisher,9,,3,Derni,42:38:25,3.76
+1990,Thomas,MUNHOZ,Homme,SE H (23-34),,FRA (France),SAINTE-MARIE,RE,Finisher,0,,4,Derni,42:39:25,3.76
+75,Stephane,BALZEAU,Homme,M3 H (50-54),,FRA (France),TOURS,FR,Finisher,1,,1,Derni,42:39:26,3.76
+209,Nicolas,BRUN,Homme,M0 H (35-39),,FRA (France),CHEVRY,FR,Finisher,2,,3,Derni,42:41:49,3.75
+1775,Cedric,BOUESSAY,Homme,M1 H (40-44),,FRA (France),ST PAUL,RE,Finisher,3,,5,Derni,42:42:25,3.75
+329,Alexandre,DENIAUD,Homme,M1 H (40-44),,FRA (France),NANTES,FR,Finisher,4,,6,Derni,42:45:06,3.75
+426,Gregory,FABRE,Homme,M1 H (40-44),,FRA (France),PALAJA,FR,Finisher,5,,7,Derni,42:46:57,3.75
+146,Dany,BLOT,Homme,M3 H (50-54),,FRA (France),IFS,FR,Finisher,6,,2,Derni,42:50:50,3.74
+905,Jeremie,NIRAVONG,Homme,M1 H (40-44),,FRA (France),BOULOGNE BILLANCOURT,FR,Finisher,7,,8,Derni,42:52:03,3.74
+360,Edouard,DESSIMOND,Homme,SE H (23-34),,FRA (France),LE TAMPON,RE,Finisher,8,,5,Derni,42:52:09,3.74
+2054,Stéphane,CHAHBAZIAN,Homme,M1 H (40-44),,FRA (France),LA MONTAGNE,RE,Finisher,9,,9,Derni,42:52:22,3.74
+1610,Guillaume,ROUSSEAUX,Homme,SE H (23-34),,FRA (France),PARIS,FR,Finisher,0,,6,Derni,42:52:30,3.74
+1855,Grégory,MELCHIOR,Homme,M2 H (45-49),,FRA (France),ST CYR SUR LOIRE,FR,Finisher,1,,1,Derni,42:52:54,3.74
+1502,Philippe,MOULIN,Homme,M1 H (40-44),,FRA (France),GORGES,FR,Finisher,2,,0,Derni,42:54:09,3.73
+1915,Alexandre,MUSSARD,Homme,M1 H (40-44),,FRA (France),PETITE-ILE,RE,Finisher,3,,1,Derni,42:55:05,3.73
+366,Christophe,DIEVAL,Homme,M4 H (55-59),,FRA (France),HAUTE GOULAINE,FR,Finisher,4,,6,Derni,42:55:06,3.73
+1713,Jean-Philippe,TORQUET,Homme,M1 H (40-44),,FRA (France),TOUTAINVILLE,FR,Finisher,5,,2,Derni,42:55:13,3.73
+664,Fabien,LADEVEZE,Homme,M1 H (40-44),,FRA (France),SAINTE ANNE,RE,Finisher,6,,3,Derni,42:55:18,3.73
+660,Yoann,LACAILLE,Homme,M0 H (35-39),,FRA (France),REVEL,FR,Finisher,7,,4,Derni,42:55:47,3.73
+1508,Mickaël,BACHELIER,Homme,M0 H (35-39),,FRA (France),SAINTE-CLOTILDE,RE,Finisher,8,,5,Derni,42:56:01,3.73
+947,Mathieu,PELUCHONNEAU,Homme,M0 H (35-39),,FRA (France),ST PIERRE,RE,Finisher,9,,6,Derni,42:56:25,3.73
+2119,Nicolas,CHAMPION,Homme,M1 H (40-44),,FRA (France),ECORDAL,FR,Finisher,0,,4,Derni,42:56:31,3.73
+2264,Marc,CARRERE,Homme,M0 H (35-39),,FRA (France),BAGNERES DE BIGORRE,FR,Finisher,1,,7,Derni,42:56:33,3.73
+750,Eric,LEPERLIER,Homme,M3 H (50-54),,FRA (France),MAURON,FR,Finisher,2,,3,Derni,42:58:26,3.73
+474,Alexandre,FRANÇOIS,Homme,SE H (23-34),,FRA (France),LONGVIC,FR,Finisher,3,,7,Derni,42:58:30,3.73
+2588,Patrick,ESSOB,Homme,M3 H (50-54),,FRA (France),CHALOUPE SAINT LEU,RE,Finisher,4,,4,Derni,42:59:43,3.73
+917,François,OLLIVIER,Homme,M1 H (40-44),,FRA (France),BRETTEVILLE SUR ODON,FR,Finisher,5,,5,Derni,43:00:49,3.73
+2460,Philippe,OLIVIER,Homme,M4 H (55-59),,FRA (France),BAILLEUL,FR,Finisher,6,,7,Derni,43:02:13,3.72
+661,Cyril,LACOMME,Homme,M2 H (45-49),,FRA (France),SAINT LEU,RE,Finisher,7,,2,Derni,43:02:20,3.72
+870,Yves,MOREAU,Homme,M2 H (45-49),,BEL (Belgique),JOINVILLE LE PONT,FR,Finisher,8,,3,Derni,43:04:20,3.72
+2349,Myrielle,HOAREAU,Femme,M4 F (55-59),,FRA (France),ST DENIS,RE,Finisher,9,0,1,Derni,43:04:30,3.72
+839,Frederic,MENCIER,Homme,M2 H (45-49),,FRA (France),SAINT PIERRE EN FAUCIGNY,FR,Finisher,0,,4,Derni,43:05:01,3.72
+279,Guillaume,CHOLET,Homme,M0 H (35-39),,FRA (France),TRÉLAZÉ,FR,Finisher,1,,8,Derni,43:05:17,3.72
+150,Julien,BOCHER,Homme,M1 H (40-44),,FRA (France),PLOUFRAGAN,FR,Finisher,2,,6,Derni,43:05:20,3.72
+2334,Louis-Félix,LACRAMPE,Homme,M4 H (55-59),,FRA (France),FORT DE FRANCE,MQ,Finisher,3,,8,Derni,43:05:24,3.72
+1626,Flavian,FLEYGNAC,Homme,M1 H (40-44),,FRA (France),NICE,FR,Finisher,4,,7,Derni,43:06:28,3.72
+1260,Luca,PELLICIOLI,Homme,M4 H (55-59),,ITA (Italie),VIMERCATE,IT,Finisher,5,,9,Derni,43:06:56,3.72
+2416,Flavien Expedit,PAMPHILE,Homme,M2 H (45-49),,FRA (France),SAINT LEU,RE,Finisher,6,,5,Derni,43:07:18,3.72
+2526,Laurent,SCHRAM,Homme,M2 H (45-49),,FRA (France),SALINE LES BAINS,RE,Finisher,7,,6,Derni,43:07:28,3.72
+1177,Romain,JAEGER,Homme,M1 H (40-44),,FRA (France),DAMERY,FR,Finisher,8,,8,Derni,43:07:32,3.72
+35,Sebastien,ANDRIOL,Homme,M2 H (45-49),,FRA (France),PETITE ILE,RE,Finisher,9,,7,Derni,43:10:47,3.71
+2084,Alexandre,RIVERA,Homme,M2 H (45-49),,FRA (France),POISSY,FR,Finisher,0,,8,Derni,43:12:39,3.71
+2268,Bertrand,MINGUET,Homme,M5 H (60-64),,FRA (France),ESSARTS EN BOCAGE,FR,Finisher,1,,6,Derni,43:13:50,3.71
+679,Yohan,LANGLET,Homme,M1 H (40-44),,FRA (France),SAINTE CLOTILDE,RE,Finisher,2,,9,Derni,43:14:47,3.71
+2250,Thomas,CABON,Homme,SE H (23-34),,FRA (France),SAINT CLOTILDE,RE,Finisher,2,,8,Derni,43:14:47,3.71
+184,Mickael,BOURGET,Homme,M3 H (50-54),,FRA (France),ST HERBLON,FR,Finisher,4,,5,Derni,43:15:37,3.7
+1402,Sebastien,BLANCHARD,Homme,M3 H (50-54),,FRA (France),MESANGER,FR,Finisher,5,,6,Derni,43:15:38,3.7
+1035,Pascal,RIGOUX,Homme,M4 H (55-59),,FRA (France),TALENCE,FR,Finisher,6,,0,Derni,43:16:31,3.7
+280,Antoine,CHORGNON,Homme,SE H (23-34),,FRA (France),VIC EN BIGORRE,FR,Finisher,7,,9,Derni,43:18:21,3.7
+281,Ludovic,CHORGNON,Homme,M3 H (50-54),,FRA (France),SAINT-OUEN,FR,Finisher,8,,7,Derni,43:18:25,3.7
+1009,Jeremie,QUERE,Homme,M1 H (40-44),,FRA (France),LE DRENNEC,FR,Finisher,9,,0,Derni,43:20:16,3.7
+1595,Nicolas,FOUILLOT,Homme,SE H (23-34),,FRA (France),SEYNOD,FR,Finisher,0,,0,Derni,43:21:06,3.7
+1060,Stéphane,ROUSSEAUD,Homme,M0 H (35-39),,FRA (France),SAINT DENIS,RE,Finisher,1,,9,Derni,43:21:12,3.7
+1088,Timo,SCHEIFELE,Homme,M1 H (40-44),,GER (Allemagne),SPRAITBACH,DE,Finisher,2,,1,Derni,43:22:09,3.69
+556,Jean-Marie,GUÉMAS,Homme,M2 H (45-49),,FRA (France),TOULOUGES,FR,Finisher,3,,9,Derni,43:22:55,3.69
+1461,Caroline,CHAREL,Femme,M1 F (40-44),,FRA (France),LA SALINE LES BAINS,RE,Finisher,4,1,6,Derni,43:24:00,3.69
+1394,Tony,CAUVIN,Homme,SE H (23-34),,FRA (France),CHERBOURG EN COTENTIN,FR,Finisher,5,,1,Derni,43:24:51,3.69
+1339,Eric,PÉNISSON,Homme,M4 H (55-59),,FRA (France),ANCENIS,FR,Finisher,6,,1,Derni,43:25:38,3.69
+2147,David,MARCHAND,Homme,M3 H (50-54),,FRA (France),MONTMOROT,FR,Finisher,7,,8,Derni,43:25:52,3.69
+254,Sebastien,CHAMPION,Homme,M2 H (45-49),,FRA (France),FRETIN,FR,Finisher,8,,0,Derni,43:26:32,3.69
+1127,Julien,VETTIER,Homme,SE H (23-34),,FRA (France),SAINTE-MARIE,RE,Finisher,9,,2,Derni,43:26:36,3.69
+2470,Romain,GEFFARD,Homme,M2 H (45-49),,FRA (France),JOUÉ LÈS TOURS,FR,Finisher,0,,1,Derni,43:26:40,3.69
+225,Thomas,CAMENISCH,Homme,M1 H (40-44),,SUI (Suisse),MAENNEDORF,CH,Finisher,1,,2,Derni,43:26:55,3.69
+1016,Julie,RAOUX,Femme,M0 F (35-39),,FRA (France),SAINT ANDRE,RE,Finisher,2,2,3,Derni,43:27:16,3.69
+2431,Jeammy Pierre,K/BIDI,Homme,M1 H (40-44),,FRA (France),SAINT-JOSEPH,RE,Finisher,3,,3,Derni,43:27:47,3.69
+518,Cyril,GEROMIN,Homme,M1 H (40-44),,FRA (France),SAINT GAUZENS,FR,Finisher,4,,4,Derni,43:27:50,3.69
+1338,Frederic,STEPIEN,Homme,M0 H (35-39),,FRA (France),MAUGUIO,FR,Finisher,5,,0,Derni,43:28:13,3.69
+1949,Julien,METTETAL,Homme,M2 H (45-49),,FRA (France),GRAND COMBE DES BOIS,FR,Finisher,6,,2,Derni,43:28:21,3.69
+2368,Laurent,DUCRET,Homme,M2 H (45-49),,FRA (France),MAMOUDZOU,YT,Finisher,7,,3,Derni,43:29:42,3.68
+1845,Christophe,VIGOUROUX,Homme,M1 H (40-44),,FRA (France),SAINT LEU,RE,Finisher,8,,5,Derni,43:29:56,3.68
+1910,Sandra,BAL,Femme,M1 F (40-44),,FRA (France),LA MONTAGNE,RE,Finisher,9,3,7,Derni,43:31:08,3.68
+1047,Bruno,RODDE,Homme,M3 H (50-54),,FRA (France),HERBLAY,FR,Finisher,0,,9,Derni,43:31:37,3.68
+2532,Jérôme,MOREAU,Homme,M2 H (45-49),,FRA (France),LA POSSESSION,RE,Finisher,1,,4,Derni,43:33:27,3.68
+2617,Sophie,MARTIN,Femme,M0 F (35-39),,FRA (France),BRON,FR,Finisher,2,4,4,Derni,43:34:03,3.68
+2211,Nicolas,DUBECQ,Homme,M1 H (40-44),,FRA (France),NARBONNE,FR,Finisher,3,,6,Derni,43:35:02,3.68
+1934,Christophe,DUBECQ,Homme,M0 H (35-39),,FRA (France),SAINT PIERRE,RE,Finisher,4,,1,Derni,43:35:03,3.68
+928,Cedric,PARENT,Homme,M2 H (45-49),,FRA (France),NANTERRE,FR,Finisher,5,,5,Derni,43:37:19,3.67
+2439,Jean-Michel,PAUL,Homme,M0 H (35-39),,FRA (France),SAINT-JOSEPH,RE,Finisher,6,,2,Derni,43:37:28,3.67
+895,Pascal,NATIVEL,Homme,M3 H (50-54),,FRA (France),ANGLEFORT,FR,Finisher,7,,0,Derni,43:38:09,3.67
+1924,Florian,THIERRY,Homme,SE H (23-34),,FRA (France),PONT SCORFF,FR,Finisher,8,,3,Derni,43:38:23,3.67
+1137,Gilles,VAILLAND,Homme,M4 H (55-59),,FRA (France),PORNIC,FR,Finisher,9,,2,Derni,43:38:27,3.67
+1885,Pierre,GENESTE,Homme,M2 H (45-49),,FRA (France),LA PLAINE ST PAUL,RE,Finisher,0,,6,Derni,43:38:35,3.67
+1116,Gilbert,VITRY,Homme,M2 H (45-49),,FRA (France),SAINT PHILIPPE,RE,Finisher,1,,7,Derni,43:38:54,3.67
+1216,Elouan,OUSSENEKAN,Homme,SE H (23-34),,FRA (France),SAINTE-CLOTILDE,RE,Finisher,2,,4,Derni,43:42:12,3.67
+907,Eric,NOBLET,Homme,M1 H (40-44),,FRA (France),PONT L’ABBE,FR,Finisher,3,,7,Derni,43:42:25,3.67
+294,Stephane,CLOPON,Homme,M1 H (40-44),,FRA (France),ACHÈRES,FR,Finisher,4,,8,Derni,43:43:08,3.67
+2398,Jerome,PARIS,Homme,M0 H (35-39),,FRA (France),SAINT-DENIS,RE,Finisher,5,,3,Derni,43:43:13,3.67
+2298,Pierre,MASTALSKI,Homme,M3 H (50-54),,FRA (France),SAINT GILLES,RE,Finisher,7,,2,Derni,43:43:28,3.66
+1156,Didier,LHERM,Homme,M4 H (55-59),,FRA (France),ETANG SALE,RE,Finisher,8,,3,Derni,43:45:16,3.66
+81,Martin,BARRAUD,Homme,SE H (23-34),,FRA (France),CHASSELAY,FR,Finisher,9,,5,Derni,43:45:58,3.66
+256,Pierre,CHANSIGAUD,Homme,M2 H (45-49),,FRA (France),LA VILLEDIEU-DU-CLAIN,FR,Finisher,0,,8,Derni,43:46:17,3.66
+24,Nathalie,ALLOU,Femme,M0 F (35-39),,FRA (France),LA MONTAGNE,RE,Finisher,1,5,5,Derni,43:47:33,3.66
+2484,Morgan,SOURILLAN,Homme,SE H (23-34),,FRA (France),LANDIRAS,FR,Finisher,2,,6,Derni,43:47:46,3.66
+893,Philippe,NARAS,Homme,M3 H (50-54),,FRA (France),PERSQUEN,FR,Finisher,3,,3,Derni,43:48:38,3.66
+446,Francois,FILLEAU,Homme,M0 H (35-39),,FRA (France),CASTANET TOLOSAN,FR,Finisher,4,,4,Derni,43:49:01,3.66
+1072,Guillaume,RUILLE JEZEQUEL,Homme,M1 H (40-44),,FRA (France),72250 PARIGNE L'EVEQUE,FR,Finisher,5,,9,Derni,43:49:17,3.66
+2014,Erwan,MATHIEU,Homme,M2 H (45-49),,FRA (France),CUGNAUX,FR,Finisher,6,,9,Derni,43:49:26,3.66
+1726,Sylvain,PASQUIER,Homme,SE H (23-34),,FRA (France),PESSAC,FR,Finisher,7,,7,Derni,43:49:46,3.66
+1071,Renaldo,RUGGIERO,Homme,M0 H (35-39),,FRA (France),LE GUILLAUME,RE,Finisher,8,,5,Derni,43:50:30,3.65
+996,Olivier,POUJOL,Homme,M0 H (35-39),,FRA (France),BEAUVOISIN,FR,Finisher,9,,6,Derni,43:50:31,3.65
+560,Benjamin,GUERQUIN,Homme,M1 H (40-44),,FRA (France),PREVESSIN MOENS,FR,Finisher,0,,0,Derni,43:51:45,3.65
+709,Richard,LE COUR GRANDMAISON,Homme,M3 H (50-54),,FRA (France),LA POSSESSION,RE,Finisher,1,,4,Derni,43:52:12,3.65
+1151,Pierre,LOEUILLIEUX,Homme,SE H (23-34),,FRA (France),SAINT MARTIN BOULOGNE,FR,Finisher,2,,8,Derni,43:52:38,3.65
+1671,Olivier,GRESSIER,Homme,M2 H (45-49),,FRA (France),DESVRES,FR,Finisher,3,,0,Derni,43:52:43,3.65
+356,Jeremy,DESPREAUX,Homme,M1 H (40-44),,FRA (France),CHERENG,FR,Finisher,4,,1,Derni,43:52:59,3.65
+717,Christophe,LE GOUGUEC,Homme,M3 H (50-54),,FRA (France),LES PONTS DE CE,FR,Finisher,5,,5,Derni,43:53:19,3.65
+571,Jonathan,GUILLOU,Homme,M0 H (35-39),,FRA (France),LA SALINE-LES-BAINS,RE,Finisher,6,,7,Derni,43:53:35,3.65
+449,Régis,FLACHE,Homme,M4 H (55-59),,FRA (France),SEGNY,FR,Finisher,7,,4,Derni,43:53:46,3.65
+550,Marc,GROGNUZ,Homme,SE H (23-34),,SUI (Suisse),POLIEZ-PITTET,CH,Finisher,8,,9,Derni,43:53:47,3.65
+70,Nicolas,BAI,Homme,M1 H (40-44),,FRA (France),GRENOBLE,FR,Finisher,9,,2,Derni,43:54:07,3.65
+299,Nathalie,COLL,Femme,M1 F (40-44),,FRA (France),VERNET LES BAINS,FR,Finisher,0,6,8,Derni,43:56:18,3.65
+300,Roland,COLL,Homme,M2 H (45-49),,FRA (France),VERNET LES BAINS,FR,Finisher,0,,1,Derni,43:56:18,3.65
+2404,Benjamin,REGNIER,Homme,M0 H (35-39),,FRA (France),LILLE,FR,Finisher,2,,8,Derni,43:57:04,3.65
+2172,Stephane,ORY,Homme,M3 H (50-54),,FRA (France),TREGLAMUS,FR,Finisher,3,,6,Derni,43:57:15,3.65
+398,Maxime,DUHAMEL,Homme,SE H (23-34),,FRA (France),WABEN,FR,Finisher,4,,0,Derni,43:58:46,3.64
+2386,Alexandre,ROUX,Homme,SE H (23-34),,FRA (France),LA GARDE,FR,Finisher,5,,1,Derni,43:58:57,3.64
+1639,Jean Thierry,POTER,Homme,M2 H (45-49),,FRA (France),SAINT-PAUL,RE,Finisher,6,,2,Derni,44:00:35,3.64
+1111,Nicolas,SIMON,Homme,M2 H (45-49),,FRA (France),VILLEURBANNE,FR,Finisher,7,,3,Derni,44:00:38,3.64
+2096,Christian,PAUILLACQ,Homme,M4 H (55-59),,FRA (France),SARTROUVILLE,FR,Finisher,8,,5,Derni,44:01:53,3.64
+453,Jean-Marc,FLOHR,Homme,M2 H (45-49),,FRA (France),BAGARD,FR,Finisher,9,,4,Derni,44:02:03,3.64
+2019,Franck,ROUSSEL,Homme,M3 H (50-54),,FRA (France),PARIS,FR,Finisher,6,,1,Derni,43:43:22,3.66
+374,Carole,DOISNEAU,Femme,M3 F (50-54),,FRA (France),MANNHEIM,DE,Finisher,0,7,4,Derni,44:03:37,3.64
+69,Jérôme,BAI,Homme,M3 H (50-54),,FRA (France),TASSIN,FR,Finisher,1,,7,Derni,44:04:12,3.64
+2241,Jordan,FAURE,Homme,M1 H (40-44),,FRA (France),FRUGÈRES-LES-MINES,FR,Finisher,2,,3,Derni,44:06:36,3.63
+1911,Rénald,THOMAS,Homme,M2 H (45-49),,FRA (France),LA POSSESSION,RE,Finisher,3,,5,Derni,44:09:42,3.63
+1094,Nicolas,SCHUSSELE,Homme,M0 H (35-39),,SUI (Suisse),GENÈVE,CH,Finisher,4,,9,Derni,44:11:46,3.63
+237,Vitor,CARVALHO,Homme,M3 H (50-54),,POR (Portugal),DOMONT,FR,Finisher,5,,8,Derni,44:11:55,3.63
+663,Amandine,LACREUSE,Femme,SE F (23-34),,FRA (France),RAVINE DES CABRIS,RE,Finisher,6,8,7,Derni,44:11:57,3.63
+805,Christophe,MARCHAL,Homme,M0 H (35-39),,FRA (France),BRAS PANON,RE,Finisher,7,,0,Derni,44:12:00,3.63
+2295,Charles,PÉRIER,Homme,M1 H (40-44),,FRA (France),ROGNAC,FR,Finisher,8,,4,Derni,44:12:27,3.62
+1140,Anthony,ROY,Homme,M3 H (50-54),,FRA (France),CAVALAIRE SUR MER,FR,Finisher,9,,9,Derni,44:12:46,3.62
+1162,Cédric,LAMBELET,Homme,M3 H (50-54),,SUI (Suisse),CORBIÈRES,CH,Finisher,0,,0,Derni,44:12:53,3.62
+1347,Vincent,GUINDANI,Homme,M1 H (40-44),,FRA (France),POMPIGNAN,FR,Finisher,1,,5,Derni,44:13:34,3.62
+1362,Pascal,MACIA,Homme,M0 H (35-39),,FRA (France),VENDRES,FR,Finisher,2,,1,Derni,44:13:37,3.62
+1531,Matthieu,MUSSARD,Homme,SE H (23-34),,FRA (France),SAINT-JOSEPH,RE,Finisher,3,,2,Derni,44:14:52,3.62
+2486,Stéphane,FAUSTIN,Homme,M2 H (45-49),,FRA (France),SAINTE MARIE,RE,Finisher,4,,6,Derni,44:15:13,3.62
+235,Maxime,CARIOU,Homme,SE H (23-34),,FRA (France),BEGLES,FR,Finisher,5,,3,Derni,44:16:16,3.62
+276,Erwan,CHEVALIER,Homme,M0 H (35-39),,FRA (France),NANTES,FR,Finisher,6,,2,Derni,44:16:34,3.62
+112,Francis,BENOIT,Homme,M3 H (50-54),,FRA (France),BEAUREGARD BARET,FR,Finisher,7,,1,Derni,44:18:47,3.62
+1296,Christophe,SPELMANS,Homme,M4 H (55-59),,BEL (Belgique),BRAINE-LE-COMTE,BE,Finisher,8,,6,Derni,44:20:27,3.61
+1495,Rodolphe,JAUNEAUD,Homme,M3 H (50-54),,FRA (France),SAINT GILLES,RE,Finisher,9,,2,Derni,44:20:46,3.61
+323,Kévin,COVAREL,Homme,M0 H (35-39),,FRA (France),BASSE-HAM,FR,Finisher,0,,3,Derni,44:21:16,3.61
+543,Léo,GRAELLS,Homme,SE H (23-34),,FRA (France),SAINT-DENIS,RE,Finisher,1,,4,Derni,44:21:45,3.61
+1324,Mathilde,GIROUD,Femme,SE F (23-34),,FRA (France),PARIS,FR,Finisher,2,9,8,Derni,44:21:46,3.61
+2432,Ludwig,GUERIN,Homme,M0 H (35-39),,FRA (France),SAINT DENIS,RE,Finisher,3,,4,Derni,44:22:24,3.61
+297,Ludovic,COCHET,Homme,M1 H (40-44),,FRA (France),FOISSIAT,FR,Finisher,4,,6,Derni,44:22:27,3.61
+1601,Franck,FIRENZULA,Homme,M3 H (50-54),,FRA (France),LES AVIRONS,RE,Finisher,5,,3,Derni,44:22:46,3.61
+2057,Vincent,GALLARD,Homme,M1 H (40-44),,FRA (France),RAVINE DES CABRIS,RE,Finisher,6,,7,Derni,44:25:38,3.61
+1050,Olivier,ROLLET,Homme,M2 H (45-49),,FRA (France),CERNY,FR,Finisher,7,,7,Derni,44:28:19,3.6
+1516,Olivier,MUTELET,Homme,M3 H (50-54),,FRA (France),SAILLY SUR LA LYS,FR,Finisher,8,,4,Derni,44:28:25,3.6
+2464,Pierrick,MORVAN,Homme,M0 H (35-39),,FRA (France),STUTTGART,DE,Finisher,8,,5,Derni,44:28:25,3.6
+2154,Sebastien,PHILIPPEAU,Homme,M3 H (50-54),,FRA (France),BOIS NEFLES SAINT PAUL,RE,Finisher,0,,5,Derni,44:28:39,3.6
+1425,Fabrice,POMMIER,Homme,M2 H (45-49),,FRA (France),COMPIÉGNE,FR,Finisher,1,,8,Derni,44:28:55,3.6
+1575,Benjamin,BROCHU,Homme,SE H (23-34),,FRA (France),TADEN,FR,Finisher,2,,5,Derni,44:29:43,3.6
+2095,Nicolas,LOPEZ,Homme,M1 H (40-44),,FRA (France),SAINT RESTITUT,FR,Finisher,3,,8,Derni,44:30:44,3.6
+167,Guillaume,BOSCHINI,Homme,M1 H (40-44),,FRA (France),CUGNAUX,FR,Finisher,4,,9,Derni,44:30:51,3.6
+2189,Alexandre,MEYER,Homme,M0 H (35-39),,FRA (France),PARIS,FR,Finisher,5,,6,Derni,44:31:58,3.6
+1207,Jacques,GOGUER,Homme,M4 H (55-59),,FRA (France),BREST,FR,Finisher,6,,7,Derni,44:32:41,3.6
+2303,Stephane,APIOU-GOUSSAU,Homme,M2 H (45-49),,FRA (France),STE HELENE,FR,Finisher,7,,9,Derni,44:32:43,3.6
+2065,Ismael,IBRAHIMA SELEMANI,Homme,M2 H (45-49),,FRA (France),SAINT DENIS,RE,Finisher,8,,0,Derni,44:32:46,3.6
+241,Thierry,CATALANO,Homme,M2 H (45-49),,FRA (France),MONTRODAT,FR,Finisher,9,,1,Derni,44:33:00,3.6
+638,Jonathan,JEANNESSON,Homme,M0 H (35-39),,FRA (France),MEAUX,FR,Finisher,0,,7,Derni,44:34:26,3.59
+1407,Prunel,CUBIZOLLES,Femme,SE F (23-34),,FRA (France),NEUVILLE-LÈS-THIS,FR,Finisher,1,0,9,Derni,44:35:18,3.59
+315,Jérôme,COUDERT,Homme,M1 H (40-44),,FRA (France),SAINT ANDRE,RE,Finisher,2,,0,Derni,44:36:53,3.59
+1013,Ricardo,RAMACHETTY,Homme,M1 H (40-44),,FRA (France),SAINT ANDRE,RE,Finisher,3,,1,Derni,44:37:14,3.59
+763,Eric,LEVENEUR,Homme,M3 H (50-54),,FRA (France),LE TAMPON,RE,Finisher,4,,6,Derni,44:37:23,3.59
+1479,Jean Jacques,CIANELLI,Homme,M2 H (45-49),,FRA (France),SAINT JEANNET,FR,Finisher,5,,2,Derni,44:37:37,3.59
+1983,Damien,BUFFET,Homme,M0 H (35-39),,FRA (France),BALAZÉ,FR,Finisher,6,,8,Derni,44:37:39,3.59
+1563,Sébastien,AUFFRET,Homme,M0 H (35-39),,FRA (France),PLOUDANIEL,FR,Finisher,7,,9,Derni,44:37:40,3.59
+2115,Corinne,PERRIER-LEFEVRE,Femme,M5 F (60-64),,FRA (France),LA PLAINE ST PAUL,RE,Finisher,8,1,2,Derni,44:38:38,3.59
+1791,Michel,GONNEVILLE,Homme,M3 H (50-54),,FRA (France),SAINT-JOSEPH,RE,Finisher,9,,7,Derni,44:40:08,3.59
+380,Florian,DOUX,Homme,M0 H (35-39),,FRA (France),SAINT-PIERRE,RE,Finisher,0,,0,Derni,44:40:18,3.59
+1051,Fabien,ROMERO,Homme,M2 H (45-49),,FRA (France),ST PRIEST EN JAREZ,FR,Finisher,1,,3,Derni,44:40:45,3.59
+2008,Alain,MANSIRE,Homme,M3 H (50-54),,FRA (France),SAINT GILLES LES BAINS,RE,Finisher,2,,8,Derni,44:41:13,3.59
+1529,David,LAI-HONG-TING,Homme,M2 H (45-49),,FRA (France),SAINT PAUL,RE,Finisher,3,,4,Derni,44:41:39,3.59
+1776,Kian,POURADY,Homme,M3 H (50-54),,FRA (France),LA CHAPELLE SUR ERDRE,FR,Finisher,4,,9,Derni,44:42:05,3.58
+2613,Kyle,IMHOFF,Homme,SE H (23-34),,USA (Etats-Unis),PANAMA CITY,US,Finisher,5,,6,Derni,44:45:21,3.58
+1703,Denis,BOURDONNAY,Homme,M3 H (50-54),,FRA (France),LE RELECQ KERHUON,FR,Finisher,6,,0,Derni,44:46:34,3.58
+1468,Miguel,GAILLARD,Homme,M0 H (35-39),,FRA (France),TAILLIS,FR,Finisher,7,,1,Derni,44:46:54,3.58
+492,Florent,GALLOUÉDEC,Homme,M1 H (40-44),,FRA (France),SAINT THEGONNEC,FR,Finisher,8,,2,Derni,44:47:46,3.58
+1958,Eric Jean Denis,MAHE,Homme,M3 H (50-54),,FRA (France),SAINTE CLOTILDE,RE,Finisher,9,,1,Derni,44:48:38,3.58
+519,Vincent,GERVAIS,Homme,M3 H (50-54),,FRA (France),SAINT PIERRE,RE,Finisher,0,,2,Derni,44:51:15,3.57
+148,Nadege,BLUTEAU,Femme,M1 F (40-44),,FRA (France),SAINT DENIS,RE,Finisher,1,2,9,Derni,44:52:34,3.57
+499,Anthony,GARANDEL,Homme,M1 H (40-44),,FRA (France),VILLEURBANNE,FR,Finisher,2,,3,Derni,44:52:50,3.57
+1181,Amine,ISSOUFI,Homme,M0 H (35-39),,FRA (France),SAINT PIERRE,RE,Finisher,3,,2,Derni,44:53:32,3.57
+1104,Thibaud,SERVAT,Homme,SE H (23-34),,FRA (France),VAUDREUILLE,FR,Finisher,4,,7,Derni,44:54:00,3.57
+119,Thibaut,BERNAD,Homme,SE H (23-34),,FRA (France),BAYONNE,FR,Finisher,5,,8,Derni,44:54:02,3.57
+1363,Jules,KOCH,Homme,SE H (23-34),,FRA (France),PEZENAS,FR,Finisher,6,,9,Derni,44:54:41,3.57
+2073,Guillaume,LEROY,Homme,M1 H (40-44),,FRA (France),ATTICHES,FR,Finisher,7,,4,Derni,44:54:58,3.57
+1423,Matthieu,LESPINE,Homme,SE H (23-34),,FRA (France),HERRY,FR,Finisher,8,,0,Derni,44:55:21,3.57
+1066,Delphine,ROY,Femme,SE F (23-34),,FRA (France),COUBON,FR,Finisher,9,3,0,Derni,44:56:11,3.57
+1125,Marc,VIALA,Homme,M1 H (40-44),,FRA (France),ARTHES,FR,Finisher,0,,5,Derni,44:56:43,3.57
+1969,Rishman,LAURET,Homme,M1 H (40-44),,FRA (France),LE TAMPON,RE,Finisher,1,,6,Derni,44:58:56,3.56
+2221,Brice,LOUISE,Homme,M0 H (35-39),,FRA (France),LA POSSESSION,RE,Finisher,2,,3,Derni,44:59:13,3.56
+1058,Romain,ROUMEGOUX,Homme,SE H (23-34),,FRA (France),MARSSAC SUR TARN,FR,Finisher,3,,1,Derni,45:01:54,3.56
+420,Stephane,ETHENOZ,Homme,M3 H (50-54),,SUI (Suisse),CARROUGE,CH,Finisher,4,,3,Derni,45:02:22,3.56
+1241,Serge,DELESSERT,Homme,M3 H (50-54),,SUI (Suisse),FERLENSS,CH,Finisher,4,,3,Derni,45:02:22,3.56
+454,Stéphane,FLORENCY,Homme,M1 H (40-44),,FRA (France),LE TAMPON,RE,Finisher,6,,7,Derni,45:02:36,3.56
+101,Olivier,BEGUIN,Homme,M2 H (45-49),,BEL (Belgique),PONT A CELLES,BE,Finisher,7,,5,Derni,45:05:59,3.55
+2102,Gilbert-Patrick,ALAMELOU,Homme,M5 H (60-64),,FRA (France),SAINTE-CLOTILDE,RE,Finisher,8,,7,Derni,45:06:02,3.55
+325,Julien,CRASBORN,Homme,M1 H (40-44),,BEL (Belgique),LIÈGE,BE,Finisher,9,,8,Derni,45:07:24,3.55
+914,Pascal,ODER,Homme,M5 H (60-64),,FRA (France),YUTZ,FR,Finisher,0,,8,Derni,45:09:59,3.55
+742,Cédric,LEGOIX,Homme,M0 H (35-39),,FRA (France),SAINT DENIS,RE,Finisher,1,,4,Derni,45:10:53,3.55
+558,Xavier,GUÉRIN,Homme,SE H (23-34),,FRA (France),SAINT JOSEPH,RE,Finisher,2,,2,Derni,45:11:19,3.55
+1436,Julien,WITKOWSKI,Homme,M1 H (40-44),,FRA (France),LA POSSESSION,RE,Finisher,3,,9,Derni,45:12:00,3.55
+932,Nicolas,PAUSÉ,Homme,M1 H (40-44),,FRA (France),SALAZIE,RE,Finisher,4,,0,Derni,45:13:26,3.54
+2423,Médéric,BONNET,Homme,SE H (23-34),,FRA (France),SORÈZE,FR,Finisher,5,,3,Derni,45:14:39,3.54
+36,Richard,ANTIER,Homme,M3 H (50-54),,FRA (France),BRAIN SUR L AUTHION,FR,Finisher,6,,5,Derni,45:16:53,3.54
+1581,Tony,COUTAREL,Homme,M3 H (50-54),,FRA (France),LORCIÈRES,FR,Finisher,6,,5,Derni,45:16:53,3.54
+510,Sandrine,GAUTIER,Femme,M2 F (45-49),,FRA (France),CASTRES,FR,Finisher,8,4,3,Derni,45:17:38,3.54
+1031,Fabrice,RICHARD,Homme,M2 H (45-49),,FRA (France),CADEN,FR,Finisher,8,,6,Derni,45:17:38,3.54
+324,Laurent,CRAMBADE,Homme,M2 H (45-49),,FRA (France),SAINT ANDRE,RE,Finisher,0,,7,Derni,45:17:49,3.54
+884,Jacky,MOUNIEN,Homme,M0 H (35-39),,FRA (France),ST PHILIPPE,RE,Finisher,1,,5,Derni,45:18:10,3.54
+141,Jerome,BIRON,Homme,M1 H (40-44),,FRA (France),LA MOSSESSION,RE,Finisher,2,,1,Derni,45:18:57,3.54
+1110,Marc,SIMON,Homme,M5 H (60-64),,BEL (Belgique),MALMEDY,BE,Finisher,3,,9,Derni,45:20:04,3.53
+2304,Aurore,LORRAIN,Femme,SE F (23-34),,FRA (France),LA RIVIÈRE SAINT LOUIS,RE,Finisher,4,5,1,Derni,45:20:45,3.53
+2444,Benjamin,MARTEIL,Homme,SE H (23-34),,FRA (France),ISSY LES MOULINEAUX,FR,Finisher,5,,4,Derni,45:21:03,3.53
+1740,Charles Eric,SAUTRON,Homme,M2 H (45-49),,FRA (France),SAINT-DENIS,RE,Finisher,6,,8,Derni,45:21:14,3.53
+1540,André,NANGUET,Homme,M5 H (60-64),,FRA (France),SAINTE CLOTILDE,RE,Finisher,7,,0,Derni,45:22:42,3.53
+2483,Bertrand,DAMOUR,Homme,M2 H (45-49),,FRA (France),STE ROSE,RE,Finisher,8,,9,Derni,45:22:57,3.53
+828,Cyril,MASSARI,Homme,M1 H (40-44),,FRA (France),ST  PIERRE,RE,Finisher,9,,2,Derni,45:23:09,3.53
+656,Karim,KORICHI,Homme,M1 H (40-44),,FRA (France),BOIS LE ROI,FR,Finisher,0,,3,Derni,45:23:30,3.53
+1150,Arnaud,LOMBREZ,Homme,M1 H (40-44),,FRA (France),AGEN,FR,Finisher,1,,4,Derni,45:23:44,3.53
+2085,Joaquim,LABAILLE,Homme,M2 H (45-49),,FRA (France),LA RIVIÈRE ST LOUIS,RE,Finisher,2,,0,Derni,45:24:44,3.53
+821,Paul,MARTIN,Homme,M0 H (35-39),,FRA (France),CERET,FR,Finisher,3,,6,Derni,45:26:29,3.53
+341,Jonathan,DANJOUX,Homme,M0 H (35-39),,FRA (France),LE TAMPON,RE,Finisher,4,,7,Derni,45:27:53,3.52
+2046,Hilaire,BERTILLE,Homme,M3 H (50-54),,FRA (France),SALINE LES BAINS,RE,Finisher,5,,7,Derni,45:28:04,3.52
+191,Jonathan,BOYER,Homme,M0 H (35-39),,FRA (France),SAINT AMAND MONTROND,FR,Finisher,6,,8,Derni,45:28:05,3.52
+2354,Stéphane,PITOU,Homme,M2 H (45-49),,FRA (France),LES GONDS,FR,Finisher,7,,1,Derni,45:28:07,3.52
+125,Anthony,BERTHEMIN,Homme,M0 H (35-39),,FRA (France),SAINT-PIERRE,RE,Finisher,8,,9,Derni,45:28:34,3.52
+2402,Gregory,TAILLARD,Homme,M2 H (45-49),,FRA (France),NEUILLY-PLAISANCE,FR,Finisher,9,,2,Derni,45:29:11,3.52
+2330,Frédéric,BARGAIN,Homme,M3 H (50-54),,FRA (France),MONTVILLE,FR,Finisher,0,,8,Derni,45:30:06,3.52
+1884,Franck,LARRAUS,Homme,M2 H (45-49),,FRA (France),CHENNEVIÈRES-SUR-MARNE,FR,Finisher,1,,3,Derni,45:30:14,3.52
+1081,Frédérick,SAQUET,Homme,M2 H (45-49),,FRA (France),THIERS SUR THÈVE,FR,Finisher,2,,4,Derni,45:30:17,3.52
+1677,Gwenael,TEXIER,Femme,M2 F (45-49),,FRA (France),LE MOULE,GP,Finisher,3,6,4,Derni,45:30:19,3.52
+1803,Olivier,CHAPUS,Homme,M4 H (55-59),,FRA (France),LE PRADET,FR,Finisher,4,,8,Derni,45:30:57,3.52
+1774,Melanie,RINGEVAL,Femme,SE F (23-34),,FRA (France),MARSEILLE,FR,Finisher,5,7,2,Derni,45:33:14,3.52
+2166,Romain,GIDON,Homme,M1 H (40-44),,FRA (France),ETANG SALÉ LES HAUTS,RE,Finisher,6,,5,Derni,45:33:31,3.52
+1345,Cyrille,MENARD,Homme,M3 H (50-54),,FRA (France),LE CELLIER,FR,Finisher,7,,9,Derni,45:34:33,3.52
+251,Laurent,CHALUT,Homme,M3 H (50-54),,FRA (France),ANGERS,FR,Finisher,8,,0,Derni,45:34:45,3.52
+310,Franck,CORSET,Homme,M2 H (45-49),,FRA (France),GRENOBLE,FR,Finisher,9,,5,Derni,45:35:06,3.52
+938,Janick,PAYET,Homme,M2 H (45-49),,FRA (France),SAINT-LOUIS,RE,Finisher,0,,6,Derni,45:36:12,3.51
+816,Nathan,JANIN,Homme,SE H (23-34),,FRA (France),CHÂTEAUNEUF,FR,Finisher,1,,5,Derni,45:36:37,3.51
+2104,Cédric,CHOMONT,Homme,SE H (23-34),,FRA (France),GENILAC,FR,Finisher,1,,5,Derni,45:36:37,3.51
+2580,Jean Yves,ZITTE,Homme,M3 H (50-54),,FRA (France),SAINTE MARIE,RE,Finisher,3,,1,Derni,45:38:38,3.51
+974,Laurent,PIETRI,Homme,M2 H (45-49),,FRA (France),ANTONY,FR,Finisher,4,,7,Derni,45:39:54,3.51
+930,Jean-Claude,PAROLI,Homme,M7 H (70-74),,FRA (France),EPERNAY,FR,Finisher,5,,1,Derni,45:40:02,3.51
+1682,Ludovic,DELACROIX,Homme,M1 H (40-44),,FRA (France),FOURG,FR,Finisher,6,,6,Derni,45:40:30,3.51
+1688,Matthieu,MOURCELY,Homme,SE H (23-34),,FRA (France),POUILLEY FRANCAIS,FR,Finisher,6,,7,Derni,45:40:30,3.51
+1377,Florian,LE GALLIC,Homme,M0 H (35-39),,FRA (France),LE PORT,RE,Finisher,8,,0,Derni,45:40:44,3.51
+701,Matthieu,LAVIER,Homme,M0 H (35-39),,FRA (France),CORBOIN,FR,Finisher,9,,1,Derni,45:41:52,3.51
+539,Sébastien,GOURGOT,Homme,M2 H (45-49),,FRA (France),LE PONTET,FR,Finisher,0,,8,Derni,45:42:00,3.51
+2032,Ruddy,VAR,Homme,M2 H (45-49),,FRA (France),LE PORT,RE,Finisher,1,,9,Derni,45:42:53,3.51
+2112,Benjamin,CHAPRIER,Homme,M0 H (35-39),,FRA (France),COUZON AU MONT D'OR,FR,Finisher,2,,2,Derni,45:43:26,3.5
+923,Julien,PADOVANI,Homme,M0 H (35-39),,FRA (France),FLOURENS,FR,Finisher,3,,3,Derni,45:44:35,3.5
+451,Jerome,FLANDRIN,Homme,M3 H (50-54),,FRA (France),LES SORINIÈRES,FR,Finisher,4,,2,Derni,45:47:16,3.5
+439,Roland,FAYOLLE,Homme,M5 H (60-64),,FRA (France),UNIEUX,FR,Finisher,5,,1,Derni,45:47:37,3.5
+583,Simon,HASLOUIN,Homme,M3 H (50-54),,FRA (France),DOMPIERRE SUR YON,FR,Finisher,6,,3,Derni,45:48:30,3.5
+122,Nicolas,BERNE,Homme,M2 H (45-49),,FRA (France),BAGNOLS SUR CEZE,FR,Finisher,7,,0,Derni,45:49:18,3.5
+129,Pascal,BESSIN,Homme,M3 H (50-54),,FRA (France),CERNY,FR,Finisher,8,,4,Derni,45:51:00,3.49
+2301,Mathieu,CHAUSSON,Homme,SE H (23-34),,FRA (France),L ENTRE-DEUX,RE,Finisher,9,,8,Derni,45:51:32,3.49
+330,Baptiste,CROZET,Homme,SE H (23-34),,FRA (France),BEAUCHASTEL,FR,Finisher,0,,9,Derni,45:51:37,3.49
+562,Arnaud,GUERRIERO,Homme,SE H (23-34),,FRA (France),CHATENAY SUR SEINE,FR,Finisher,1,,0,Derni,45:52:56,3.49
+160,Brice,BONNEVIALE,Homme,M3 H (50-54),,FRA (France),CARRY LE ROUET,FR,Finisher,2,,5,Derni,45:53:12,3.49
+273,Aziz,CHERIFI,Homme,SE H (23-34),,FRA (France),LA POSSESSION,RE,Finisher,3,,1,Derni,45:53:50,3.49
+1840,Josian,PAYET,Homme,M2 H (45-49),,FRA (France),SAINT PIERRE,RE,Finisher,4,,1,Derni,45:54:37,3.49
+1017,Bertrand,RASCAR,Homme,M3 H (50-54),,FRA (France),KOUNGOU,YT,Finisher,5,,6,Derni,45:56:34,3.49
+2476,Damien,GRIMAUD,Homme,M1 H (40-44),,FRA (France),BOURNEZEAU,FR,Finisher,6,,7,Derni,45:57:03,3.49
+1898,Thierry,USUNIER,Homme,M3 H (50-54),,FRA (France),GASSIN,FR,Finisher,7,,7,Derni,45:58:51,3.48
+2490,David,MICHIT,Homme,M1 H (40-44),,FRA (France),ST JORIOZ,FR,Finisher,7,,8,Derni,45:58:51,3.48
+942,Charles,PECHEUR,Homme,M2 H (45-49),,FRA (France),MULHOUSE,FR,Finisher,9,,2,Derni,45:59:34,3.48
+1159,Dimitri,LETOURNEUR,Homme,M2 H (45-49),,FRA (France),LA MONTAGNE,RE,Finisher,0,,3,Derni,46:01:54,3.48
+2363,Charles,PERISSON,Homme,M1 H (40-44),,FRA (France),SAINT GILLES LES BAINS,RE,Finisher,1,,9,Derni,46:01:55,3.48
+1861,Marc,BRICHARD,Homme,M1 H (40-44),,FRA (France),LYON,FR,Finisher,2,,0,Derni,46:02:09,3.48
+1284,Frédéric,GHYSELS,Homme,M1 H (40-44),,BEL (Belgique),BRAINE-LE-CHÂTEAU,BE,Finisher,3,,1,Derni,46:02:31,3.48
+2367,Mathieu,TONNA,Homme,M0 H (35-39),,FRA (France),SAINT-SELVE,FR,Finisher,4,,4,Derni,46:03:03,3.48
+1588,Christian,DELSERIES,Homme,M3 H (50-54),,FRA (France),MTSAMBORO,YT,Finisher,5,,8,Derni,46:03:17,3.48
+1054,Frederic,ROSPIDE,Homme,M1 H (40-44),,FRA (France),ANGOULINS,FR,Finisher,6,,2,Derni,46:04:05,3.48
+1640,Laurence,BERNARD,Femme,M3 F (50-54),,FRA (France),SEPTEMES LES VALLONS,FR,Finisher,7,8,5,Derni,46:04:17,3.48
+1641,Albéric,MALFATTI,Homme,M3 H (50-54),,FRA (France),SEPTEMES LES VALLONS,FR,Finisher,8,,9,Derni,46:04:28,3.48
+100,Jean Frédéric,BEGUE,Homme,M1 H (40-44),,FRA (France),STDENIS,RE,Finisher,9,,3,Derni,46:04:33,3.48
+2122,Cedric,FARCY,Homme,M1 H (40-44),,FRA (France),76750 ST GERMAIN DES ESSOURTS,FR,Finisher,0,,4,Derni,46:05:07,3.48
+1636,Fabrice,FOLIO,Homme,M3 H (50-54),,FRA (France),LE TAMPON,RE,Finisher,1,,0,Derni,46:07:22,3.47
+1984,Idiham,SABILI,Homme,M0 H (35-39),,FRA (France),MAMOUDZOU,YT,Finisher,2,,5,Derni,46:07:28,3.47
+1114,Constance,VUILLARD,Femme,SE F (23-34),,FRA (France),SAINT PIERRE,RE,Finisher,3,9,3,Derni,46:07:32,3.47
+269,Marc,CHAVAROCHE,Homme,SE H (23-34),,FRA (France),ISSY-LES-MOULINEAUX,FR,Finisher,4,,2,Derni,46:07:36,3.47
+1991,Julien,DELFAU,Homme,M0 H (35-39),,FRA (France),LE BASTIT,FR,Finisher,5,,6,Derni,46:07:41,3.47
+1787,Christophe,VEKEMAN,Homme,M3 H (50-54),,FRA (France),SAINT DENIS,RE,Finisher,6,,1,Derni,46:08:40,3.47
+327,Jean Luc,GOURVILLE,Homme,M3 H (50-54),,FRA (France),SAINTE CLOTILDE,RE,Finisher,7,,2,Derni,46:11:23,3.47
+2377,Stéphane,PEHAU,Homme,M2 H (45-49),,FRA (France),SAINT LAURENT BRETAGNE,FR,Finisher,8,,4,Derni,46:12:07,3.47
+463,Romain,FONTAINE,Homme,SE H (23-34),,FRA (France),GRAND BOIS SAINT PIERRE,RE,Finisher,9,,3,Derni,46:14:31,3.47
+438,Corentin,FAVREL,Homme,M0 H (35-39),,FRA (France),VIMINES,FR,Finisher,0,,7,Derni,46:15:59,3.46
+675,Daniel,LAMBERT,Homme,M3 H (50-54),,FRA (France),SAINT - PIERRE,RE,Finisher,1,,3,Derni,46:20:53,3.46
+2061,Pedro,AMARAL,Homme,M3 H (50-54),,FRA (France),ST CLOUD,FR,Finisher,2,,4,Derni,46:21:06,3.46
+2488,Laurent,GOY,Homme,M2 H (45-49),,FRA (France),SAINT-GILLES-LES-BAINS,RE,Finisher,3,,5,Derni,46:21:25,3.46
+345,Gonzague,DAUTIGNY,Homme,M1 H (40-44),,FRA (France),MACAU,FR,Finisher,4,,5,Derni,46:21:38,3.46
+1967,Guillaume,PICK,Homme,M1 H (40-44),,FRA (France),MASSY,FR,Finisher,4,,5,Derni,46:21:38,3.46
+312,Jean-Philippe,COSTA,Homme,M3 H (50-54),,FRA (France),PÉRIGUEUX,FR,Finisher,6,,5,Derni,46:21:53,3.46
+423,Delphine,ETOURNEUX,Femme,M2 F (45-49),,FRA (France),BEAUPREAU EN MAUGES,FR,Finisher,7,0,5,Derni,46:23:27,3.45
+746,Cyril,LELEVET,Homme,M3 H (50-54),,FRA (France),ETIOLLES,FR,Finisher,8,,6,Derni,46:25:00,3.45
+1236,Benjamin,DELABASSÉ,Homme,M1 H (40-44),,BEL (Belgique),VELAINE SUR SAMBRE,BE,Finisher,9,,7,Derni,46:25:07,3.45
+1709,Hugues,DE LEVEZOU DE VESINS,Homme,M4 H (55-59),,FRA (France),COLOMIERS,FR,Finisher,0,,9,Derni,46:25:42,3.45
+2312,Justine,LE GUENNEC,Femme,SE F (23-34),,FRA (France),LA POSSESSION,RE,Finisher,1,1,4,Derni,46:25:47,3.45
+104,Richard,BELLEZZA,Homme,M2 H (45-49),,FRA (France),VERZENAY,FR,Finisher,2,,6,Derni,46:26:41,3.45
+140,Arnaud,BINETRUY,Homme,M2 H (45-49),,FRA (France),VALENCIENNES,FR,Finisher,2,,6,Derni,46:26:41,3.45
+541,Pierre,GOUZY,Homme,SE H (23-34),,FRA (France),RAVINE DES CABRIS,RE,Finisher,4,,4,Derni,46:28:15,3.45
+887,Gilles,MOYOU,Homme,M2 H (45-49),,FRA (France),PLOUEZOCH,FR,Finisher,5,,8,Derni,46:28:45,3.45
+2082,Lucien,LEOCADIE,Homme,M4 H (55-59),,FRA (France),SAINTE-CLOTILDE,RE,Finisher,5,,0,Derni,46:28:45,3.45
+198,Jérémy,BREHERET,Homme,M0 H (35-39),,FRA (France),MAUVES SUR LOIRE,FR,Finisher,7,,8,Derni,46:28:51,3.45
+775,Jean-Siegfried,LOUIS,Homme,M2 H (45-49),,FRA (France),GRAND-BOIS-LES-HAUTS,RE,Finisher,8,,9,Derni,46:29:01,3.45
+955,Gilbert,PERRIN,Homme,M0 H (35-39),,FRA (France),BRAS PANON,RE,Finisher,9,,9,Derni,46:29:47,3.45
+2360,Joseph Arnauld,ZETTOR,Homme,M5 H (60-64),,FRA (France),LA RIVIERE SAINT-LOUIS,RE,Finisher,0,,2,Derni,46:31:06,3.44
+2280,Henri,SERRES,Homme,M4 H (55-59),,FRA (France),UZES,FR,Finisher,1,,1,Derni,46:33:19,3.44
+222,Thibaud,CAHEZ,Homme,M5 H (60-64),,FRA (France),CHAMBÉRY,FR,Finisher,2,,3,Derni,46:34:49,3.44
+1854,Mathieu,CAPITAINE,Homme,M1 H (40-44),,FRA (France),TRÉMUSON,FR,Finisher,3,,8,Derni,46:36:18,3.44
+755,Julien,LEROY,Homme,M0 H (35-39),,FRA (France),DOUVRES LA DELIVRANDE,FR,Finisher,4,,0,Derni,46:36:37,3.44
+699,Bruno,LAURET,Homme,M2 H (45-49),,FRA (France),SAINT-MALO,FR,Finisher,5,,0,Derni,46:36:42,3.44
+2077,Vassili,CZORNY,Homme,M1 H (40-44),,FRA (France),SAINT-DENIS,RE,Finisher,6,,9,Derni,46:36:58,3.44
+697,Luguy,LAURENCE,Homme,M1 H (40-44),,FRA (France),SAINT PIERRE,RE,Finisher,7,,0,Derni,46:37:25,3.44
+1996,Fabien,MERLO,Homme,M1 H (40-44),,FRA (France),SAINT PIERRE,RE,Finisher,7,,0,Derni,46:37:25,3.44
+1367,Denis,OFFRE,Homme,M2 H (45-49),,FRA (France),ST WAAST,FR,Finisher,9,,1,Derni,46:38:09,3.44
+1867,Guillaume,ELGOYHEN,Homme,M1 H (40-44),,FRA (France),CHARENTON LE PONT,FR,Finisher,0,,2,Derni,46:39:58,3.43
+2151,Irshad,RAHIM KHAN,Homme,SE H (23-34),,FRA (France),SAINTE MARIE,RE,Finisher,1,,5,Derni,46:40:12,3.43
+1497,Loïk,TROUBOUL,Homme,SE H (23-34),,FRA (France),PITON SONT LEU,RE,Finisher,2,,6,Derni,46:40:16,3.43
+890,Sébastien,N GUYEN VAN,Homme,M2 H (45-49),,FRA (France),GRANS,FR,Finisher,3,,2,Derni,46:40:25,3.43
+683,Arnaud,LAPLANCHE,Homme,SE H (23-34),,FRA (France),LATTES,FR,Finisher,4,,7,Derni,46:41:06,3.43
+544,Olivier,GRAND’HOMME,Homme,M0 H (35-39),,FRA (France),MAISONS LAFFITTE,FR,Finisher,5,,1,Derni,46:41:10,3.43
+2345,Fritz Bruno,TURPIN,Homme,M3 H (50-54),,FRA (France),SAINT JOSEPH,RE,Finisher,6,,7,Derni,46:42:10,3.43
+2565,Nicolas,GERARD,Homme,M1 H (40-44),,FRA (France),SAINT PIERRE,RE,Finisher,7,,3,Derni,46:43:42,3.43
+1055,Philippe,ROUDAUT,Homme,M2 H (45-49),,FRA (France),KERNILIS,FR,Finisher,8,,3,Derni,46:43:48,3.43
+1624,Virgile,BERTIN,Homme,M1 H (40-44),,FRA (France),LA ROCHE SUR FORON,FR,Finisher,9,,4,Derni,46:44:30,3.43
+903,Serge,NICOLAS,Homme,M2 H (45-49),,FRA (France),PLOUAY,FR,Finisher,0,,4,Derni,46:46:03,3.43
+132,Veronique,BESSOT,Femme,M4 F (55-59),,FRA (France),DOMONT,FR,Finisher,1,2,2,Derni,46:46:16,3.43
+89,Anthony,BAVOUZET,Homme,M2 H (45-49),,FRA (France),SAINT-MIHIEL,FR,Finisher,2,,5,Derni,46:46:19,3.43
+2187,Vincent,EUDIER,Homme,M0 H (35-39),,FRA (France),BAYEUX,FR,Finisher,3,,2,Derni,46:46:33,3.43
+2238,Sebastien,POIRIER,Homme,M1 H (40-44),,FRA (France),LA MONTAGNE,RE,Finisher,4,,5,Derni,46:46:37,3.43
+2341,Vincent,DEPUISET,Homme,M2 H (45-49),,FRA (France),TELLANCOURT,FR,Finisher,5,,6,Derni,46:46:43,3.43
+1069,Raphael,RUBAY,Homme,M3 H (50-54),,BEL (Belgique),DAVE,BE,Finisher,6,,8,Derni,46:46:46,3.43
+2549,Laurent,NAYA,Homme,M2 H (45-49),,FRA (France),SEILH,FR,Finisher,7,,7,Derni,46:46:59,3.43
+2100,Laurent,MOISSON,Homme,M1 H (40-44),,FRA (France),SAINT PAUL,RE,Finisher,8,,6,Derni,46:47:03,3.43
+864,Thomas,MONDON,Homme,M1 H (40-44),,FRA (France),MEYZIEU,FR,Finisher,9,,7,Derni,46:49:48,3.42
+1735,Teddy,SINAZIE  MODELY,Homme,M2 H (45-49),,FRA (France),SAINTE SUZANNE,RE,Finisher,0,,8,Derni,46:50:05,3.42
+1328,Nicolas,CHASTANIER,Homme,M1 H (40-44),,FRA (France),ETANG SALE LES HAUT,RE,Finisher,1,,8,Derni,46:50:13,3.42
+2568,Frederic,DALIDAN,Homme,M3 H (50-54),,FRA (France),SAINT DENIS,RE,Finisher,2,,9,Derni,46:50:20,3.42
+2571,Jean-Philippe,LAPIERRE,Homme,M3 H (50-54),,FRA (France),ETANG-SALÉ,RE,Finisher,3,,0,Derni,46:51:12,3.42
+1311,Octave,HOARAU,Homme,M2 H (45-49),,FRA (France),LE TAMPON,RE,Finisher,4,,9,Derni,46:51:18,3.42
+1336,Yann,TAVERNE,Homme,M1 H (40-44),,FRA (France),LEON,FR,Finisher,5,,9,Derni,46:54:59,3.42
+92,Damien,BEAL,Homme,M2 H (45-49),,FRA (France),SAINT PAUL,RE,Finisher,6,,0,Derni,46:55:38,3.41
+1559,Alexandre,TOSELLO,Homme,M1 H (40-44),,FRA (France),SAINT RAPHAEL,FR,Finisher,7,,0,Derni,46:56:06,3.41
+507,Clement,GAUBERT,Homme,SE H (23-34),,FRA (France),NARBONNE,FR,Finisher,8,,8,Derni,46:56:32,3.41
+1744,Gael,COUDERT,Homme,M2 H (45-49),,FRA (France),CAEN,FR,Finisher,9,,1,Derni,46:56:33,3.41
+2181,Thomas,TRANÇON,Homme,M1 H (40-44),,FRA (France),DOUVRES LA DÉLIVRANDE,FR,Finisher,0,,1,Derni,46:56:38,3.41
+1931,Alain,LE GOUÉ,Homme,M5 H (60-64),,FRA (France),VANNES,FR,Finisher,1,,4,Derni,46:57:38,3.41
+2232,Yannick,GRONDIN,Homme,M3 H (50-54),,FRA (France),ENTRE-DEUX,RE,Finisher,2,,1,Derni,46:57:44,3.41
+2322,Jean Max,LANGEVILLIER,Homme,M3 H (50-54),,FRA (France),LA POSSESSION,RE,Finisher,3,,2,Derni,46:57:50,3.41
+1811,Eva,HOUDEBINE,Femme,SE F (23-34),,FRA (France),PLAINE DES CAFRES,RE,Finisher,4,3,5,Derni,46:59:04,3.41
+2593,Gilbert,DA COSTA,Homme,M2 H (45-49),,FRA (France),VENTABREN,FR,Finisher,5,,2,Derni,47:00:24,3.41
+318,Benjamin,COURADET,Homme,SE H (23-34),,FRA (France),ASSON,FR,Finisher,6,,9,Derni,47:00:26,3.41
+1886,Enguerrand,AUDEBERT,Homme,M1 H (40-44),,FRA (France),CRIQUETOT SUR LONGUEVILLE,FR,Finisher,7,,2,Derni,47:00:29,3.41
+401,Sylvain,DUMOND,Homme,M0 H (35-39),,FRA (France),SAINT-GENEST-MALIFAUX,FR,Finisher,8,,3,Derni,47:00:31,3.41
+91,Hubert,BAZILE,Homme,M0 H (35-39),,GRN (Grenade),REIMS,FR,Finisher,9,,4,Derni,47:01:05,3.41
+2403,Adrien,MARTEAU,Homme,M1 H (40-44),,FRA (France),L'ETANG SALÉ,RE,Finisher,0,,3,Derni,47:01:38,3.41
+244,Tony,CAZABAN,Homme,M3 H (50-54),,FRA (France),BISCARROSSE,FR,Finisher,1,,3,Derni,47:02:53,3.41
+1090,Alexandre,SCHMID,Homme,SE H (23-34),,SUI (Suisse),ROSSENS,CH,Finisher,2,,0,Derni,47:04:18,3.4
+2266,Sandra Claudette,CERVEAU,Femme,M2 F (45-49),,FRA (France),SAINTE CLOTILDE,RE,Finisher,3,4,6,Derni,47:04:57,3.4
+428,Gilles,FABRY,Homme,M3 H (50-54),,FRA (France),LAVÉRUNE,FR,Finisher,4,,4,Derni,47:05:57,3.4
+2346,Nicolas,BUCK,Homme,M1 H (40-44),,FRA (France),ALFORTVILLE,FR,Finisher,5,,4,Derni,47:07:01,3.4
+2031,Jérôme,LEMOINE,Homme,M1 H (40-44),,FRA (France),CHAUVIGNE,FR,Finisher,6,,5,Derni,47:07:50,3.4
+465,Mathieu,FORT,Homme,M0 H (35-39),,FRA (France),ORVAULT,FR,Finisher,7,,5,Derni,47:09:34,3.4
+1451,Etienne,DELATTRE,Homme,M1 H (40-44),,FRA (France),BOUGUENAIS,FR,Finisher,8,,6,Derni,47:09:45,3.4
+123,Franck,BERTEAU,Homme,M0 H (35-39),,FRA (France),PARIS,FR,Finisher,9,,6,Derni,47:10:00,3.4
+2559,Julien,PELLETERET,Homme,M1 H (40-44),,FRA (France),RAVINE DES CABRIS,RE,Finisher,0,,7,Derni,47:10:31,3.4
+2567,Marine Elodie,CHABROL,Femme,SE F (23-34),,FRA (France),SAINT PIERRE,RE,Finisher,1,5,6,Derni,47:11:12,3.4
+1876,Romain,JOUFFROY,Homme,M1 H (40-44),,FRA (France),PARIS,FR,Finisher,2,,8,Derni,47:11:28,3.4
+651,Lukasz,KAKOL,Homme,M1 H (40-44),,POL (Pologne),AMSTERDAM,NL,Finisher,3,,9,Derni,47:11:42,3.4
+1538,Nicolas,VIAL,Homme,M1 H (40-44),,FRA (France),VILLEFRANCHE-SUR-SAÔNE,FR,Finisher,4,,0,Derni,47:12:20,3.39
+2203,Franck,SUTRE,Homme,M3 H (50-54),,FRA (France),VITRE,FR,Finisher,5,,5,Derni,47:12:53,3.39
+1768,Renaud,MEILLAND,Homme,M1 H (40-44),,FRA (France),JUVISY SUR ORGE,FR,Finisher,6,,1,Derni,47:13:39,3.39
+340,Benjamin,DANIS,Homme,M1 H (40-44),,FRA (France),SAINT PAUL,RE,Finisher,7,,2,Derni,47:13:57,3.39
+863,Philippe,MOMPONTET,Homme,M4 H (55-59),,FRA (France),RAVINE DES CABRIS,RE,Finisher,8,,2,Derni,47:14:09,3.39
+2614,David,HOARAU,Homme,M0 H (35-39),,FRA (France),ST JOSEPH,RE,Finisher,9,,7,Derni,47:14:42,3.39
+901,Nicolas,NÉNIL,Homme,M3 H (50-54),,FRA (France),MOISSAC,FR,Finisher,0,,6,Derni,47:16:53,3.39
+1201,Thierry,BIÈS,Homme,M2 H (45-49),,FRA (France),SAINTE CLOTILDE,RE,Finisher,1,,3,Derni,47:17:42,3.39
+263,Tangi,CHARRON,Homme,M1 H (40-44),,FRA (France),SAINT PAUL,RE,Finisher,2,,3,Derni,47:17:56,3.39
+377,Romuald,DORY,Homme,M2 H (45-49),,FRA (France),CHEVRY-COSSIGNY,FR,Finisher,3,,4,Derni,47:18:44,3.39
+187,Bruno,BOUVIER,Homme,M4 H (55-59),,FRA (France),SAINT-NAZAIRE,FR,Finisher,4,,3,Derni,47:19:22,3.39
+992,Pierre,POTEL,Homme,M0 H (35-39),,FRA (France),SAINT-PAUL,RE,Finisher,5,,8,Derni,47:19:50,3.39
+1527,Lionel,BLONDIN,Homme,M5 H (60-64),,FRA (France),CHASSIEU,FR,Finisher,6,,5,Derni,47:20:43,3.38
+1437,Paul Henri,SCHWEIZER,Homme,M5 H (60-64),,FRA (France),PUIMISSON,FR,Finisher,7,,6,Derni,47:22:23,3.38
+290,Alexandre,CLAIN,Homme,SE H (23-34),,FRA (France),TROIS-MARES,RE,Finisher,8,,1,Derni,47:24:36,3.38
+1602,Thierry,VONDERSCHER,Homme,M3 H (50-54),,FRA (France),LA BRESSE,FR,Finisher,9,,7,Derni,47:24:43,3.38
+296,Fabiola Emmanuelle,COCHARD,Femme,M2 F (45-49),,FRA (France),DUCOS,MQ,Finisher,0,6,7,Derni,47:24:56,3.38
+987,Julien,PONCET,Homme,M0 H (35-39),,FRA (France),MARIGNANE,FR,Finisher,1,,9,Derni,47:25:08,3.38
+109,Florent,BENECH,Homme,SE H (23-34),,FRA (France),CASTRES-GIRONDE,FR,Finisher,2,,2,Derni,47:27:08,3.38
+1471,Cedric,LETAILLE,Homme,M2 H (45-49),,FRA (France),HAILLICOURT,FR,Finisher,3,,5,Derni,47:27:29,3.38
+2513,Carl,LEBRETON,Homme,M1 H (40-44),,FRA (France),SAINT DENIS,RE,Finisher,4,,4,Derni,47:27:41,3.38
+1567,Antoine,DOUTTÉ,Homme,M1 H (40-44),,FRA (France),LA PLAINE SAINT PAUL,RE,Finisher,5,,5,Derni,47:28:04,3.38
+2507,Pierre Marie,MARTIN,Homme,SE H (23-34),,FRA (France),PITON SAINT LEU,RE,Finisher,6,,3,Derni,47:28:37,3.38
+2375,Edouard,SEMEDO,Homme,M3 H (50-54),,FRA (France),ALLAUCH,FR,Finisher,7,,8,Derni,47:29:22,3.37
+789,Alain,MAGUEUR,Homme,M3 H (50-54),,FRA (France),SAINT PAUL,RE,Finisher,8,,9,Derni,47:30:13,3.37
+1874,Maximin,VALIN,Homme,M6 H (65-69),,FRA (France),PLERGUER,FR,Finisher,9,,2,Derni,47:32:29,3.37
+811,Moise,MARINIA,Homme,M1 H (40-44),,FRA (France),ST SUZANNE,RE,Finisher,0,,6,Derni,47:33:17,3.37
+2465,Arnaud,ROUSSE,Homme,SE H (23-34),,FRA (France),LE PORT,RE,Finisher,1,,4,Derni,47:33:43,3.37
+931,Cedric,PASERO,Homme,M1 H (40-44),,FRA (France),SIGOULES,FR,Finisher,2,,7,Derni,47:34:09,3.37
+331,Guillaume,CRUEIZE,Homme,M0 H (35-39),,FRA (France),MALAUCÈNE,FR,Finisher,3,,0,Derni,47:35:07,3.37
+1368,François,GOBARD,Homme,M0 H (35-39),,FRA (France),LA MONTAGNE,RE,Finisher,4,,1,Derni,47:35:16,3.37
+1086,Benjamin,SAUNIER,Homme,M0 H (35-39),,FRA (France),CADAUJAC,FR,Finisher,5,,2,Derni,47:35:26,3.37
+612,Maureen,HUCHET,Femme,SE F (23-34),,FRA (France),PONTENX LES FORGES,FR,Finisher,6,7,7,Derni,47:38:17,3.36
+912,Alexander,NUBE,Homme,M3 H (50-54),,GER (Allemagne),MANNHEIM,DE,Finisher,7,,0,Derni,47:38:29,3.36
+920,Grégory,ONISSÉ,Homme,M2 H (45-49),,FRA (France),SAÔNE,FR,Finisher,8,,6,Derni,47:38:34,3.36
+1906,Louise,DUCHEMIN,Femme,SE F (23-34),,FRA (France),PITON ST LEU,RE,Finisher,9,8,8,Derni,47:38:37,3.36
+1507,Alhassane,MAHAMADOU,Homme,M1 H (40-44),,FRA (France),POLLIONNAY,FR,Finisher,0,,8,Derni,47:38:42,3.36
+711,Yann,LE FURAUT,Homme,M3 H (50-54),,FRA (France),MALVILLE,FR,Finisher,1,,1,Derni,47:39:22,3.36
+1369,Frédéric,BOISSÉ,Homme,M1 H (40-44),,FRA (France),SAINT-DENIS,RE,Finisher,2,,9,Derni,47:40:02,3.36
+1158,Guy Thierry,LEVENEUR,Homme,M3 H (50-54),,FRA (France),RAVINE DES CABRIS,RE,Finisher,3,,2,Derni,47:40:50,3.36
+120,Edouard,BERNARD,Homme,M0 H (35-39),,FRA (France),BARBERY,FR,Finisher,4,,3,Derni,47:43:32,3.36
+397,Fred,DUGAND,Homme,M2 H (45-49),,FRA (France),SAINT CHAMOND,FR,Finisher,5,,7,Derni,47:43:50,3.36
+1907,Nicolas,MOUGIN,Homme,M1 H (40-44),,FRA (France),WANCOURT,FR,Finisher,6,,0,Derni,47:44:59,3.36
+1134,Nicolas,VANDECASTEELE,Homme,SE H (23-34),,FRA (France),JOUY-LE-MOUTIER,FR,Finisher,7,,5,Derni,47:45:04,3.36
+2111,Philippe,VANDECASTEELE,Homme,M4 H (55-59),,FRA (France),LE TAMPON,RE,Finisher,8,,4,Derni,47:45:05,3.36
+2107,Frederic,ROUGET,Homme,M2 H (45-49),,FRA (France),BRAS-PANON,RE,Finisher,9,,8,Derni,47:46:16,3.35
+1416,Zelimir,VUKOVIC,Homme,M0 H (35-39),,SRB (Serbie),ST-JOSEPH,RE,Finisher,0,,4,Derni,47:47:03,3.35
+1605,Matthias,BEGUE,Homme,SE H (23-34),,FRA (France),LA POSSESSION,RE,Finisher,1,,6,Derni,47:47:13,3.35
+1536,Claudy,ROBERT,Homme,M3 H (50-54),,FRA (France),LE PORT,RE,Finisher,2,,3,Derni,47:47:17,3.35
+49,Cyrille,ARTUR,Homme,M1 H (40-44),,FRA (France),LA POSSESSION,RE,Finisher,3,,1,Derni,47:47:28,3.35
+1905,Valerie,POULAIN,Femme,M3 F (50-54),,FRA (France),GUIGNEN,FR,Finisher,4,9,6,Derni,47:47:55,3.35
+1799,Fred Clement,IRRILO,Homme,M6 H (65-69),,FRA (France),PITON SAINT LEU,RE,Finisher,5,,3,Derni,47:49:15,3.35
+913,Baptiste,OCTAU,Homme,SE H (23-34),,FRA (France),FRESQUIENNES,FR,Finisher,6,,7,Derni,47:53:18,3.35
+546,Frederic,GRAVINA,Homme,M0 H (35-39),,FRA (France),SAINTE-SUZANNE,RE,Finisher,7,,5,Derni,47:53:42,3.35
+877,Maxime,MORIN,Homme,M1 H (40-44),,FRA (France),LANTIC,FR,Finisher,8,,2,Derni,47:54:08,3.35
+881,Paul,MOTTEZ,Homme,M2 H (45-49),,FRA (France),HEM,FR,Finisher,9,,9,Derni,47:54:57,3.34
+2027,Jacques,MAINCENT,Homme,SE H (23-34),,FRA (France),SAINT LEU,RE,Finisher,0,,8,Derni,47:55:15,3.34
+2260,Julien,FIGUEROA,Homme,SE H (23-34),,FRA (France),LA POSSESSION,RE,Finisher,1,,9,Derni,47:56:00,3.34
+145,Rémy,BLOC’H,Homme,M3 H (50-54),,FRA (France),LANDIVISIAU,FR,Finisher,2,,4,Derni,47:56:08,3.34
+157,Gilles,CORRÈ,Homme,M1 H (40-44),,FRA (France),STE ROSE,RE,Finisher,3,,3,Derni,47:56:40,3.34
+2578,Xavier,CHAU,Homme,M4 H (55-59),,FRA (France),SAINT CYR EN VAL,FR,Finisher,4,,5,Derni,47:59:11,3.34
+1893,Jérémie Mickael,DE LARICHAUDY,Homme,M1 H (40-44),,FRA (France),LA POSSESSION,RE,Finisher,5,,4,Derni,48:00:05,3.34
+2149,Jean François,FONTAINE,Homme,M5 H (60-64),,FRA (France),PLAINE DES CAFRES,RE,Finisher,6,,7,Derni,48:01:50,3.34
+2383,Jean Luc,DEJOB,Homme,M4 H (55-59),,FRA (France),FEURS,FR,Finisher,7,,6,Derni,48:03:15,3.33
+614,Nicolas,HUGUET,Homme,M2 H (45-49),,FRA (France),LÉON,FR,Finisher,8,,0,Derni,48:03:18,3.33
+346,Gwennael,DAVAYAT,Homme,SE H (23-34),,FRA (France),CHAMALIERES,FR,Finisher,9,,0,Derni,48:03:41,3.33
+1738,Anthony,MAHE,Homme,M2 H (45-49),,FRA (France),LANRODEC,FR,Finisher,0,,1,Derni,48:04:08,3.33
+732,Michel,LEBOT,Homme,M6 H (65-69),,FRA (France),SAINT-GILLES LES HAUTS,RE,Finisher,1,,4,Derni,48:04:59,3.33
+1346,Nicolas,LENGLET,Homme,M1 H (40-44),,FRA (France),VILLENEUVE D ASCQ,FR,Finisher,2,,5,Derni,48:06:31,3.33
+1075,Christopher,SAINT-ALME,Homme,SE H (23-34),,FRA (France),SAINT-GERMAIN-EN-LAYE,FR,Finisher,3,,1,Derni,48:07:15,3.33
+1046,Dominique,MARTINEAU,Homme,M3 H (50-54),,FRA (France),MONTAIGU VENDÉE,FR,Finisher,4,,5,Derni,48:07:18,3.33
+2198,Marc,TURZO,Homme,M4 H (55-59),,FRA (France),PLAN DE CUQUES,FR,Finisher,5,,7,Derni,48:07:59,3.33
+1373,Kevin,LARZUL,Homme,M0 H (35-39),,FRA (France),LA SALINE LES BAINS,RE,Finisher,6,,6,Derni,48:08:21,3.33
+1668,Jean Louis,MAHAVE,Homme,M2 H (45-49),,FRA (France),SAINT ANDRÉ,RE,Finisher,7,,2,Derni,48:08:40,3.33
+1853,Armand,HOARAU,Homme,M5 H (60-64),,FRA (France),SAINT DENIS,RE,Finisher,8,,8,Derni,48:08:53,3.33
+1897,Gregory,NAIS,Homme,M2 H (45-49),,FRA (France),LABENNE,FR,Finisher,9,,3,Derni,48:09:13,3.33
+255,Julien,CHAMPROMIS,Homme,SE H (23-34),,FRA (France),LAFRANCAISE,FR,Finisher,0,,2,Derni,48:09:36,3.33
+809,Christelle,MARCOUYOUX,Femme,M2 F (45-49),,FRA (France),ENTRE-DEUX,RE,Finisher,1,0,8,Derni,48:11:45,3.32
+1675,Cyril,ROBERT,Homme,M3 H (50-54),,FRA (France),LE TAMPON,RE,Finisher,2,,6,Derni,48:13:03,3.32
+2064,Jeremy,CALIXTE,Homme,M0 H (35-39),,FRA (France),RAVINE DES CABRIS,RE,Finisher,3,,7,Derni,48:13:25,3.32
+1940,Carl,BESNARDEAU,Homme,M2 H (45-49),,FRA (France),SALINE LES BAINS,RE,Finisher,4,,4,Derni,48:13:41,3.32
+584,Fabrice,HASSEN,Homme,M1 H (40-44),,FRA (France),SAUSSET LES PINS,FR,Finisher,5,,6,Derni,48:14:21,3.32
+1254,Benjamin,BRUNIN,Homme,M0 H (35-39),,BEL (Belgique),CINEY,BE,Finisher,6,,8,Derni,48:17:58,3.32
+1475,Jean-Maxime,BOUCHE,Homme,M0 H (35-39),,FRA (France),LE GOSIER,GP,Finisher,7,,9,Derni,48:21:28,3.31
+1762,Bertrand,DELORD,Homme,M1 H (40-44),,FRA (France),BORDEAUX,FR,Finisher,8,,7,Derni,48:21:41,3.31
+945,Patrick,PEGE,Homme,M4 H (55-59),,FRA (France),LA CHAPELLE SUR ERDRE,FR,Finisher,9,,8,Derni,48:22:28,3.31
+753,Jean-Yves,LEPOT,Homme,M3 H (50-54),,FRA (France),BAILLEVAL,FR,Finisher,0,,7,Derni,48:23:02,3.31
+2273,Kévin,PAUZE,Homme,SE H (23-34),,FRA (France),RAVINE DES CABRIS,RE,Finisher,1,,3,Derni,48:25:17,3.31
+1798,Pascal,VERDIER,Homme,M4 H (55-59),,FRA (France),NANTES,FR,Finisher,2,,9,Derni,48:27:00,3.31
+2068,Laurent,HOAREAU,Homme,SE H (23-34),,FRA (France),SAINT-JOSEPH,RE,Finisher,3,,4,Derni,48:27:12,3.31
+1112,Laurent,SITBON,Homme,M2 H (45-49),,FRA (France),POUILLEY FRANCAIS,FR,Finisher,4,,5,Derni,48:27:17,3.31
+427,Rémi,FABRÈGUE,Homme,M0 H (35-39),,FRA (France),VIRY CHATILLON,FR,Finisher,5,,0,Derni,48:28:00,3.31
+1108,David,SIFONIOS,Homme,M0 H (35-39),,SUI (Suisse),GRANDVAUX,CH,Finisher,6,,1,Derni,48:29:05,3.3
+922,Laurent,PACE,Homme,M3 H (50-54),,FRA (France),SERVON,FR,Finisher,7,,8,Derni,48:29:49,3.3
+1590,Charles,HOARAU,Homme,M6 H (65-69),,FRA (France),CAVAILLON,FR,Finisher,8,,5,Derni,48:30:56,3.3
+2563,Maxime,TEREYGEOL,Homme,M1 H (40-44),,FRA (France),RAVINE DES CABRIS,RE,Finisher,9,,8,Derni,48:31:24,3.3
+2606,Jerome,BAREL,Homme,M2 H (45-49),,FRA (France),ST JOSEPH,RE,Finisher,0,,6,Derni,48:32:09,3.3
+724,Pierre,LEAUTIER,Homme,M5 H (60-64),,FRA (France),HYERES,FR,Finisher,1,,9,Derni,48:32:41,3.3
+22,Yannick,ALICALAPA,Homme,M2 H (45-49),,FRA (France),SAINT-PIERRE,RE,Finisher,2,,7,Derni,48:32:42,3.3
+2144,Kevin,HERVAGAULT,Homme,M1 H (40-44),,FRA (France),SAINT DENIS,RE,Finisher,3,,9,Derni,48:33:02,3.3
+752,Bénédicte,LEPOT,Femme,M3 F (50-54),,FRA (France),BAILLEVAL,FR,Finisher,4,1,7,Derni,48:33:04,3.3
+71,Christian,BAIGUE,Homme,M6 H (65-69),,FRA (France),LIGUGE,FR,Finisher,5,,6,Derni,48:33:14,3.3
+1972,Mathieu,POUJADE,Homme,SE H (23-34),,FRA (France),SAINTE-MARIE,RE,Finisher,6,,5,Derni,48:33:49,3.3
+1012,Michel,RAIMBEAUD,Homme,M3 H (50-54),,FRA (France),MÉSANGER,FR,Finisher,7,,9,Derni,48:33:57,3.3
+1330,Nicolas,CADY,Homme,M0 H (35-39),,FRA (France),MESANGER,FR,Finisher,7,,2,Derni,48:33:57,3.3
+2283,Julien,HAENGGI,Homme,M0 H (35-39),,FRA (France),LES FORGES,FR,Finisher,9,,3,Derni,48:34:37,3.3
+1268,Michaël,BAQUET,Homme,M3 H (50-54),,BEL (Belgique),BOUILLON,BE,Finisher,0,,0,Derni,48:34:47,3.3
+618,Christophe,IDOMENEE,Homme,M1 H (40-44),,FRA (France),SAINT PAUL,RE,Finisher,1,,0,Derni,48:35:07,3.3
+728,Anthony,LEBLANC,Homme,SE H (23-34),,FRA (France),FLERS,FR,Finisher,2,,6,Derni,48:35:39,3.3
+1870,Pascal,GANGLOFF,Homme,M3 H (50-54),,FRA (France),SONCHAMP,FR,Finisher,3,,1,Derni,48:35:58,3.3
+432,Camille,FAGE,Homme,M0 H (35-39),,FRA (France),REIMS,FR,Finisher,4,,4,Derni,48:36:01,3.3
+1101,Christophe,SERGÉ,Homme,M1 H (40-44),,FRA (France),CHANTEPIE,FR,Finisher,5,,1,Derni,48:36:43,3.3
+309,Antoine,CORNILLON,Homme,SE H (23-34),,FRA (France),SAINT MARTIN D'HERES,FR,Finisher,6,,7,Derni,48:37:09,3.3
+908,Mathieu,NOEL,Homme,M4 H (55-59),,FRA (France),LE PORT,RE,Finisher,7,,0,Derni,48:38:30,3.29
+2209,Patrick,CHABRUT,Homme,M1 H (40-44),,FRA (France),EPAGNY,FR,Finisher,8,,2,Derni,48:39:34,3.29
+2359,Elisien Sully David,PUYLAURENT,Homme,M2 H (45-49),,FRA (France),SAINT-LOUIS,RE,Finisher,9,,8,Derni,48:39:46,3.29
+440,Guillaume,FELIDE,Homme,M3 H (50-54),,FRA (France),SAINT PIERRE,RE,Finisher,0,,2,Derni,48:40:03,3.29
+1718,Goulven,MAHE,Homme,SE H (23-34),,FRA (France),SAINT PAUL,RE,Finisher,1,,8,Derni,48:41:21,3.29
+2604,Paul Armand,DAMOUR,Homme,M3 H (50-54),,FRA (France),ST JOSEPH,RE,Finisher,2,,3,Derni,48:42:05,3.29
+1917,Pierre,SASCO,Homme,M2 H (45-49),,FRA (France),BAYONNE,FR,Finisher,3,,9,Derni,48:42:57,3.29
+1157,Christophe,LEYMARIE,Homme,M2 H (45-49),,FRA (France),LEGE-CAP-FERRET,FR,Finisher,4,,0,Derni,48:43:56,3.29
+640,Ludovic,JEGAT,Homme,M1 H (40-44),,FRA (France),ETABLES SUR MER,FR,Finisher,5,,3,Derni,48:44:16,3.29
+985,Vincent,POELMAN,Homme,M2 H (45-49),,BEL (Belgique),UCCLE,BE,Finisher,6,,1,Derni,48:46:39,3.29
+1240,Frédérik,DEMARET,Homme,M1 H (40-44),,BEL (Belgique),BRAIVES,BE,Finisher,7,,4,Derni,48:47:38,3.28
+2477,Arnaud,BIHANNIC,Homme,M1 H (40-44),,FRA (France),CASABLANCA,MA,Finisher,8,,5,Derni,48:48:16,3.28
+2466,Sebastien,TRUBLIN,Homme,M2 H (45-49),,FRA (France),ECULLY,FR,Finisher,9,,2,Derni,48:48:38,3.28
+1251,Salim,SEKKAT,Homme,M1 H (40-44),,GER (Allemagne),CASABLANCA,MA,Finisher,0,,6,Derni,48:48:39,3.28
+1391,David,CUCCOLO,Homme,M3 H (50-54),,FRA (France),BARBERAZ,FR,Finisher,1,,4,Derni,48:49:00,3.28
+1275,Sandrine,TIRODE,Femme,M0 F (35-39),,CAN (Canada),MONTREAL,CA,Finisher,2,2,6,Derni,48:49:59,3.28
+1039,William,RIVIERE,Homme,M1 H (40-44),,FRA (France),PETITE ILE,RE,Finisher,3,,7,Derni,48:50:14,3.28
+1951,Christophe,CHEVALIER,Homme,M1 H (40-44),,FRA (France),ETANG SALE,RE,Finisher,4,,8,Derni,48:51:22,3.28
+1361,Christophe,PECHON,Homme,M1 H (40-44),,FRA (France),CROSNE,FR,Finisher,5,,9,Derni,48:53:01,3.28
+1463,David,CAMBRAY,Homme,M3 H (50-54),,FRA (France),LA POSSESSION,RE,Finisher,6,,5,Derni,48:54:02,3.28
+1873,Patrick,HIVANHOE,Homme,M4 H (55-59),,FRA (France),SAINTE MARIE,RE,Finisher,7,,1,Derni,48:55:04,3.28
+2196,Jean-René,SOUTON,Homme,M2 H (45-49),,FRA (France),LE PORT,RE,Finisher,8,,3,Derni,48:55:12,3.28
+2195,Gwenael,BRODIN,Homme,M3 H (50-54),,FRA (France),YVETOT,FR,Finisher,9,,6,Derni,48:57:21,3.27
+1550,Jean Baptiste,CLAPIER,Homme,M2 H (45-49),,FRA (France),ST SUZANNE,RE,Finisher,0,,4,Derni,48:57:23,3.27
+1883,Kevin,DESCHAMPS,Homme,SE H (23-34),,FRA (France),DOMESSARGUES,FR,Finisher,1,,9,Derni,49:00:03,3.27
+2109,Nicolas,LE COQ,Homme,M1 H (40-44),,FRA (France),SAINT JULIEN,FR,Finisher,2,,0,Derni,49:01:27,3.27
+44,Vincent,ARNOLD,Homme,M1 H (40-44),,FRA (France),ANGERS,FR,Finisher,3,,1,Derni,49:01:43,3.27
+2564,Christian,MAIRE,Homme,M0 H (35-39),,FRA (France),RIVIERE SAINT LOUIS,RE,Finisher,4,,5,Derni,49:01:46,3.27
+62,Fabrice,AZOR,Homme,M2 H (45-49),,FRA (France),SAINT CLÉMENT DE RIVIÈRE,FR,Finisher,5,,5,Derni,49:04:48,3.26
+1868,François-Xavier,TREIL,Homme,M4 H (55-59),,FRA (France),SAINT-PIERRE,RE,Finisher,6,,2,Derni,49:04:55,3.26
+1399,Sylvain,GARBAL,Homme,M2 H (45-49),,FRA (France),SAINTE CLOTILDE,RE,Finisher,7,,6,Derni,49:05:00,3.26
+1067,Laurent,ROYAT,Homme,M2 H (45-49),,FRA (France),ENVAL,FR,Finisher,8,,7,Derni,49:05:35,3.26
+2044,Fabien,HARMAND,Homme,M1 H (40-44),,FRA (France),TOULOUSE,FR,Finisher,9,,2,Derni,49:05:50,3.26
+1607,Cyril,HERVE,Homme,M1 H (40-44),,FRA (France),SAINT-AUBIN-DE-MEDOC,FR,Finisher,0,,3,Derni,49:07:34,3.26
+1715,Sebastien,FERNANDES,Homme,M0 H (35-39),,FRA (France),SAINT SAVIN,FR,Finisher,1,,6,Derni,49:07:49,3.26
+579,Rémi,HABA,Homme,M0 H (35-39),,FRA (France),CHARPEY,FR,Finisher,2,,7,Derni,49:09:54,3.26
+180,Manon,BOURDUGE,Femme,SE F (23-34),,FRA (France),CHATOU,FR,Finisher,3,3,9,Derni,49:10:51,3.26
+448,Alexis,FINOCCHIARO,Homme,M2 H (45-49),,FRA (France),ANGERS,FR,Finisher,4,,8,Derni,49:11:54,3.26
+783,Jérôme,LUCAS,Homme,M2 H (45-49),,FRA (France),LA CHAPELLE SUR ERDRE,FR,Finisher,5,,9,Derni,49:12:54,3.26
+1882,Dominique,DILIGENT,Homme,M2 H (45-49),,FRA (France),SAINTE CLOTILDE,RE,Finisher,6,,0,Derni,49:12:57,3.26
+1393,Stephane,CHICO,Homme,M2 H (45-49),,FRA (France),BALARUC LES BAINS,FR,Finisher,7,,1,Derni,49:13:17,3.26
+1847,Anthony,TOUROUDE,Homme,SE H (23-34),,FRA (France),PUTEAUX,FR,Finisher,8,,0,Derni,49:15:16,3.25
+1297,Stephane,GIRARD,Homme,M1 H (40-44),,NED (Pays-Bas),CHARLEVAL,FR,Finisher,9,,4,Derni,49:15:33,3.25
+1745,Emma,THILLENS,Femme,M2 F (45-49),,FRA (France),CASE PILOTE,MQ,Finisher,9,4,9,Derni,49:15:33,3.25
+1565,Cyril,LE GAL,Homme,M2 H (45-49),,FRA (France),ISSY LES MOULINEAUX,FR,Finisher,1,,2,Derni,49:17:32,3.25
+681,Jean-Philippe,LANNUZEL,Homme,M3 H (50-54),,FRA (France),TREBABU,FR,Finisher,2,,7,Derni,49:19:26,3.25
+54,Vincent,AUDAP,Homme,SE H (23-34),,FRA (France),SAINT LEU,RE,Finisher,3,,1,Derni,49:19:28,3.25
+1077,Muriel,SANS,Femme,M2 F (45-49),,FRA (France),LA RAVINE DES CABRIS,RE,Finisher,4,5,0,Derni,49:20:51,3.25
+2148,Nicolas,LIONEL,Homme,M2 H (45-49),,FRA (France),ST PIERRE,RE,Finisher,5,,3,Derni,49:21:27,3.25
+883,Franck,MOULINIER,Homme,M4 H (55-59),,FRA (France),COMPIEGNE,FR,Finisher,6,,3,Derni,49:23:38,3.24
+672,Patrick,LAMARCHE,Homme,M2 H (45-49),,FRA (France),SAINT-MICHEL-LE-CLOUCQ,FR,Finisher,7,,4,Derni,49:24:24,3.24
+698,Etienne,LAURENT,Homme,M1 H (40-44),,FRA (France),MÉRÉVILLE,FR,Finisher,8,,5,Derni,49:24:38,3.24
+2078,David,EDMOND,Homme,M3 H (50-54),,FRA (France),SAINTE-CLOTILDE,RE,Finisher,9,,8,Derni,49:25:04,3.24
+739,Xavier,LEFEBVRE,Homme,M2 H (45-49),,FRA (France),SAINT PIERRE,RE,Finisher,0,,5,Derni,49:26:23,3.24
+103,Mathias,BELANGER,Homme,SE H (23-34),,FRA (France),SAINT JOSEPH,RE,Finisher,1,,2,Derni,49:27:29,3.24
+317,Patrice,COULARY,Homme,M3 H (50-54),,FRA (France),CISSAC,FR,Finisher,2,,9,Derni,49:29:31,3.24
+946,Ludovic,PEINNET,Homme,M1 H (40-44),,FRA (France),VILLEFRANCHE SUR SAÔNE,FR,Finisher,3,,6,Derni,49:29:36,3.24
+2229,Lorène,COURSIMAULT-TARDIF,Femme,M1 F (40-44),,FRA (France),VENDOME,FR,Finisher,4,6,0,Derni,49:29:56,3.24
+421,Julien,ETHEVE,Homme,M0 H (35-39),,FRA (France),SAINT JOSEPH,RE,Finisher,5,,8,Derni,49:30:45,3.24
+1341,Jean-François,MORIN,Homme,M3 H (50-54),,FRA (France),VERTOU,FR,Finisher,6,,0,Derni,49:30:53,3.24
+635,Antoine,JAUNET,Homme,M1 H (40-44),,FRA (France),NANTES,FR,Finisher,7,,7,Derni,49:31:30,3.24
+1223,Laurent,BONNAFOUS,Homme,M3 H (50-54),,FRA (France),LE TAMPON,RE,Finisher,8,,1,Derni,49:32:23,3.23
+1005,Claude,PRIOUL,Homme,M4 H (55-59),,FRA (France),ST JACQUES,FR,Finisher,9,,4,Derni,49:34:23,3.23
+2539,Henry,PRIOUL,Homme,SE H (23-34),,FRA (France),RENNES,FR,Finisher,0,,3,Derni,49:34:24,3.23
+2021,Gildas,THOMAS,Homme,M2 H (45-49),,FRA (France),SAINT-GRÉGOIRE,FR,Finisher,1,,6,Derni,49:34:33,3.23
+2060,Vincent,PILET,Homme,M2 H (45-49),,FRA (France),AMANLIS,FR,Finisher,2,,7,Derni,49:34:55,3.23
+1481,Giovanni,BARRET,Homme,M1 H (40-44),,FRA (France),PERSAN,FR,Finisher,3,,8,Derni,49:36:12,3.23
+2557,Joseph,NATIVEL,Homme,M5 H (60-64),,FRA (France),GRASSE,FR,Finisher,4,,0,Derni,49:36:22,3.23
+2243,Nicolas,LOPEZ,Homme,M0 H (35-39),,FRA (France),RIVIÈRE,RE,Finisher,5,,9,Derni,49:36:40,3.23
+1591,Alexandre,MUSSARD,Homme,SE H (23-34),,FRA (France),LE TAMPON,RE,Finisher,6,,4,Derni,49:37:56,3.23
+2088,Hubert,NOIRET,Homme,M0 H (35-39),,FRA (France),LA POSSESSION,RE,Finisher,7,,0,Derni,49:38:07,3.23
+2175,Guillaume,WEISS,Homme,M0 H (35-39),,FRA (France),LA POSSESSION,RE,Finisher,7,,0,Derni,49:38:07,3.23
+2216,Sylvain,AUGEREAU,Homme,M1 H (40-44),,FRA (France),RAMBOIILLET,FR,Finisher,9,,9,Derni,49:39:47,3.23
+1594,Laurent,ZETTOR,Homme,M1 H (40-44),,FRA (France),SAINTE SUZANNE,RE,Finisher,0,,0,Derni,49:39:57,3.23
+359,Antoine,DESSAY,Homme,M2 H (45-49),,FRA (France),MONTLOUIS SUR LOIRE,FR,Finisher,1,,8,Derni,49:40:50,3.23
+926,Stéphane,PAPIN,Homme,M2 H (45-49),,FRA (France),NANTES,FR,Finisher,2,,9,Derni,49:40:51,3.23
+1643,Florent,DUBREUIL,Homme,M3 H (50-54),,FRA (France),ST ANDRÉ DE L'EURE,FR,Finisher,3,,2,Derni,49:41:18,3.22
+2529,William,MOHAMED,Homme,M3 H (50-54),,FRA (France),GRAND-COURONNE,FR,Finisher,4,,3,Derni,49:41:19,3.22
+1080,Wilfried,SANY,Homme,M1 H (40-44),,FRA (France),COMMUNAY,FR,Finisher,5,,1,Derni,49:42:02,3.22
+2418,Sébastien,BEURIOT,Homme,M3 H (50-54),,FRA (France),ETAIMPUIS,FR,Finisher,6,,4,Derni,49:42:30,3.22
+2005,Jérémy,DANIAUD,Homme,M0 H (35-39),,FRA (France),AYTRÉ,FR,Finisher,7,,2,Derni,49:43:08,3.22
+215,Patrice,BUSQUETS,Homme,M1 H (40-44),,FRA (France),REYNES,FR,Finisher,8,,2,Derni,49:43:35,3.22
+1877,Stephane,ANGO,Homme,M1 H (40-44),,FRA (France),SAINTE ROSE,RE,Finisher,9,,3,Derni,49:44:01,3.22
+1327,Francois,DOUTRELIGNE,Homme,SE H (23-34),,FRA (France),SAINT GILLES LES BAINS,RE,Finisher,0,,5,Derni,49:44:48,3.22
+738,Aldo,LEDOUX,Homme,M1 H (40-44),,FRA (France),LA MONTAGNE,RE,Finisher,1,,4,Derni,49:45:09,3.22
+993,Jean Pascal,POTHIN,Homme,M4 H (55-59),,FRA (France),BRAS PANON,RE,Finisher,2,,5,Derni,49:46:03,3.22
+830,Didier,MATTEI,Homme,M4 H (55-59),,FRA (France),SAINT- VICTORET,FR,Finisher,3,,6,Derni,49:46:18,3.22
+1283,Jean-Philippe,TIMMERMANS,Homme,M0 H (35-39),,BEL (Belgique),DAVE,BE,Finisher,4,,3,Derni,49:48:05,3.22
+548,David,GRECO,Homme,M2 H (45-49),,FRA (France),GIGNAC,FR,Finisher,5,,0,Derni,49:48:10,3.22
+2143,Amandine,DUMAS,Femme,SE F (23-34),,FRA (France),SAINTE CLOTILDE,RE,Finisher,6,7,0,Derni,49:49:13,3.22
+37,David,ANTRAYGUE,Homme,M3 H (50-54),,FRA (France),SAINTE FORTUNADE,FR,Finisher,7,,5,Derni,49:51:12,3.21
+990,Gisele,PORCEL,Femme,M3 F (50-54),,FRA (France),TROIS MARES,RE,Finisher,8,8,8,Derni,49:52:53,3.21
+1814,Nicolas,RAULT,Homme,SE H (23-34),,FRA (France),LA SALINE,RE,Finisher,9,,6,Derni,49:53:57,3.21
+2116,Sébastien,MAISON,Homme,M2 H (45-49),,FRA (France),SAINT PAUL,RE,Finisher,0,,1,Derni,49:53:59,3.21
+457,Frederic,FOLIO,Homme,M2 H (45-49),,FRA (France),LACROIX FALGARDE,FR,Finisher,1,,2,Derni,49:54:14,3.21
+2364,Marie Gisele,TURPIN,Femme,M4 F (55-59),,FRA (France),SAINT DENIS,RE,Finisher,2,9,3,Derni,49:54:27,3.21
+2201,Didier,SARRAZIN-CAILLET,Homme,M5 H (60-64),,FRA (France),VINEUIL,FR,Finisher,3,,1,Derni,49:54:53,3.21
+1455,Alexandre,TOURNEUX,Homme,M1 H (40-44),,FRA (France),SAINT ANDRE,RE,Finisher,4,,5,Derni,49:57:23,3.21
+2503,David,LELEVET,Homme,M3 H (50-54),,FRA (France),COMBS-LA-VILLE,FR,Finisher,5,,6,Derni,49:57:33,3.21
+869,Nicolas,MONTREUIL,Homme,M1 H (40-44),,FRA (France),OZOUER LE VOULGIS,FR,Finisher,6,,6,Derni,49:57:34,3.21
+2409,Yohan,TECHER,Homme,M0 H (35-39),,FRA (France),LA RIVIÈRE SAINT-LOUIS,RE,Finisher,7,,4,Derni,49:57:40,3.21
+1445,Charly,ROBERT,Homme,M4 H (55-59),,FRA (France),TROIS BASSINS,RE,Finisher,8,,7,Derni,49:58:40,3.21
+6,Adam,KAMKOUM,Homme,SE H (23-34),,FRA (France),LES HOUCHES,FR,Finisher,9,,7,Derni,49:58:57,3.21
+2572,Jean Max,GRONDIN,Homme,M2 H (45-49),,FRA (France),ST PHILIPPE,RE,Finisher,9,,3,Derni,49:58:57,3.21
+38,Elina,ANTRAYGUE,Femme,SE F (23-34),,FRA (France),SAINT DENIS,RE,Finisher,1,0,1,Derni,50:01:13,3.2
+1785,Johnny,FORTANNIER,Homme,M1 H (40-44),,FRA (France),TRELAZE,FR,Finisher,2,,7,Derni,50:01:26,3.2
+2192,Sebastien,TAUDON,Homme,M2 H (45-49),,FRA (France),MONTREUIL SUR LOIR,FR,Finisher,3,,4,Derni,50:01:27,3.2
+466,Ludovic,FOSSEY,Homme,M0 H (35-39),,FRA (France),POTIGNY,FR,Finisher,4,,5,Derni,50:02:02,3.2
+2355,Sandrine,TOURNAY,Femme,M3 F (50-54),,FRA (France),LA MOTTE SERVOLEX,FR,Finisher,5,1,9,Derni,50:03:16,3.2
+958,Yoann,PETITJEAN,Homme,M1 H (40-44),,FRA (France),LE PORT,RE,Finisher,6,,8,Derni,50:03:42,3.2
+1256,Lis,WAGENER - KAYSER,Femme,M0 F (35-39),,LUX (Luxembourg),HEISDORF,LU,Finisher,7,2,7,Derni,50:04:38,3.2
+2316,Frederic,OHANIAN,Homme,M3 H (50-54),,FRA (France),BRAS-PANON,RE,Finisher,8,,7,Derni,50:04:51,3.2
+1727,Sébastien,DEJEAN,Homme,M2 H (45-49),,FRA (France),SAINT BONNET DE ROCHEFORT,FR,Finisher,9,,5,Derni,50:05:45,3.2
+2108,Pascal,RETY,Homme,M3 H (50-54),,FRA (France),DESERTINES,FR,Finisher,9,,8,Derni,50:05:45,3.2
+1010,Annick,QUIRION,Femme,M5 F (60-64),,FRA (France),LA CHAPELLE SUR ERDRE,FR,Finisher,1,3,3,Derni,50:05:49,3.2
+133,Frédéric,BEUCHER,Homme,M1 H (40-44),,FRA (France),CHÉRANCÉ,FR,Finisher,2,,9,Derni,50:06:16,3.2
+735,Philippe,LECHABLE,Homme,M3 H (50-54),,FRA (France),VITRE,FR,Finisher,3,,9,Derni,50:06:17,3.2
+1053,Matthieu,RONGIER,Homme,M0 H (35-39),,FRA (France),JONS,FR,Finisher,3,,6,Derni,50:06:17,3.2
+2093,Sebastien,TURBAN,Homme,M2 H (45-49),,FRA (France),SAINT BRIEUC,FR,Finisher,5,,6,Derni,50:06:36,3.2
+2152,Roberto,WOLFRUM,Homme,M3 H (50-54),,FRA (France),SUCY-EN-BRIE,FR,Finisher,6,,0,Derni,50:06:38,3.2
+606,Patrick,HOAREAU,Homme,M4 H (55-59),,FRA (France),ETANG-SALÉ,RE,Finisher,7,,8,Derni,50:06:43,3.2
+2140,Yann,DEBRAY,Homme,M2 H (45-49),,FRA (France),PORNICHET,FR,Finisher,8,,7,Derni,50:10:06,3.19
+1093,Stephane,SCHNEIDER,Homme,M3 H (50-54),,FRA (France),GRIESHEIM PRES MOLSHEIM,FR,Finisher,9,,1,Derni,50:12:36,3.19
+1578,Jean-Patrice,AUBRY,Homme,M2 H (45-49),,FRA (France),LA POSSESSION,RE,Finisher,0,,8,Derni,50:15:59,3.19
+925,Cyrille,PAJANIANDY,Homme,M3 H (50-54),,FRA (France),SAINTE CLOTILDE,RE,Finisher,1,,2,Derni,50:16:14,3.19
+2396,Harry,PICARD,Homme,M3 H (50-54),,FRA (France),LA POSSESSION,RE,Finisher,2,,3,Derni,50:17:08,3.19
+1523,Sophie,DESHAYES,Femme,M0 F (35-39),,FRA (France),SAINT DÉNIS,RE,Finisher,3,4,8,Derni,50:17:50,3.19
+2592,Clement,GONTHIER,Homme,M1 H (40-44),,FRA (France),BRAS PANON,RE,Finisher,4,,0,Derni,50:18:16,3.19
+1666,Emmanuel,GONTHIER,Homme,M4 H (55-59),,FRA (France),LA CHALOUPE SAINT LEU,RE,Finisher,5,,9,Derni,50:18:20,3.19
+770,Gilbert,LOAEC,Homme,M5 H (60-64),,FRA (France),PLOUDANIEL,FR,Finisher,6,,2,Derni,50:18:30,3.19
+221,Joel,CAER,Homme,M3 H (50-54),,FRA (France),PLOUDANIEL,FR,Finisher,7,,4,Derni,50:18:36,3.19
+1306,Frederic,VEKEMANS,Homme,M3 H (50-54),,BEL (Belgique),VALENCIENNES,FR,Finisher,8,,5,Derni,50:19:07,3.18
+407,Jean-François,DURAND,Homme,M3 H (50-54),,FRA (France),RUEIL MALMAISON,FR,Finisher,9,,6,Derni,50:19:20,3.18
+911,Jean Urbain,NOURRY,Homme,M2 H (45-49),,FRA (France),LA POSSESSION,RE,Finisher,0,,9,Derni,50:20:21,3.18
+2501,François,NICOLAS,Homme,M1 H (40-44),,FRA (France),ANGOULEME,FR,Finisher,1,,1,Derni,50:24:10,3.18
+1351,Julien,DUBOIS,Homme,M1 H (40-44),,FRA (France),TRESSIN,FR,Finisher,2,,2,Derni,50:25:28,3.18
+282,Gaël,CHOUSSEAUD,Homme,M2 H (45-49),,FRA (France),MERLEVENEZ,FR,Finisher,3,,0,Derni,50:25:59,3.18
+1429,Julien,HERVOUËT,Homme,M0 H (35-39),,FRA (France),HAUTE-GOULAINE,FR,Finisher,4,,7,Derni,50:26:21,3.18
+2456,Bodila,NDIKI,Homme,M0 H (35-39),,FRA (France),SAINT DENIS,RE,Finisher,5,,8,Derni,50:27:49,3.18
+852,Vincent,MILLOT,Homme,M0 H (35-39),,FRA (France),AIXE SUR VIENNE,FR,Finisher,6,,9,Derni,50:27:54,3.18
+1611,Marcel,PAYET,Homme,M5 H (60-64),,FRA (France),LA RIVIERE SAINT-LOUIS,RE,Finisher,7,,3,Derni,50:29:18,3.17
+2618,Frederic,DELVO,Homme,M2 H (45-49),,FRA (France),E DES CABRIS,RE,Finisher,8,,1,Derni,50:29:22,3.17
+298,Gaetan,COIFFARD,Homme,M3 H (50-54),,FRA (France),OUDON,FR,Finisher,9,,7,Derni,50:29:55,3.17
+779,Thierry,LOUSTE,Homme,M3 H (50-54),,FRA (France),VENDOME,FR,Finisher,0,,8,Derni,50:30:17,3.17
+774,Frederic,LOUIS,Homme,M4 H (55-59),,FRA (France),LA POSSESSION,RE,Finisher,1,,0,Derni,50:30:33,3.17
+1195,Erwan,VALY,Homme,M2 H (45-49),,FRA (France),LA SALINE LES BAINS,RE,Finisher,2,,2,Derni,50:30:47,3.17
+808,Ludovic,MARCHIVE,Homme,M3 H (50-54),,FRA (France),ANGOULÊME,FR,Finisher,3,,9,Derni,50:31:59,3.17
+2587,Eric,LAURENT,Homme,M3 H (50-54),,FRA (France),MOSNAC,FR,Finisher,4,,0,Derni,50:32:08,3.17
+1282,Jérôme,WIDER,Homme,M0 H (35-39),,SUI (Suisse),LE PONT,CH,Finisher,5,,0,Derni,50:33:03,3.17
+128,Ludovic,BERTIN,Homme,M2 H (45-49),,FRA (France),ST PIERRE EN FAUCIGNY,FR,Finisher,6,,3,Derni,50:35:43,3.17
+163,Laurent,BORDES,Homme,M2 H (45-49),,FRA (France),LE BERNICA,RE,Finisher,7,,4,Derni,50:36:12,3.17
+1808,Ghislain,GUY,Homme,M2 H (45-49),,FRA (France),CAMBON,FR,Finisher,8,,5,Derni,50:37:21,3.17
+1356,Bernard,GAUTIER,Homme,M3 H (50-54),,FRA (France),LANDERNEAU,FR,Finisher,9,,1,Derni,50:38:44,3.16
+2114,Cyrille,LAPLANCHE,Homme,M3 H (50-54),,FRA (France),PARAY LE MONIAL,FR,Finisher,0,,2,Derni,50:39:44,3.16
+441,Philippe,FERAT,Homme,M3 H (50-54),,FRA (France),NOÉ,FR,Finisher,1,,3,Derni,50:39:51,3.16
+27,Julien,AMALBERT,Homme,M2 H (45-49),,FRA (France),SAINT SORLIN EN BUGEY,FR,Finisher,2,,6,Derni,50:39:54,3.16
+1036,Antoine,RIMPÔT,Homme,M1 H (40-44),,FRA (France),SAINT MALO,FR,Finisher,3,,3,Derni,50:41:34,3.16
+2276,Jonathan,DOBARIA,Homme,M0 H (35-39),,FRA (France),BRAS-PANON,RE,Finisher,4,,1,Derni,50:41:48,3.16
+2106,Damien,HARAND,Homme,M3 H (50-54),,FRA (France),REMOULINS,FR,Finisher,5,,4,Derni,50:43:28,3.16
+1164,Christophe,MOREL,Homme,M0 H (35-39),,FRA (France),GONNEVILLE SUR SCIE,FR,Finisher,6,,2,Derni,50:45:11,3.16
+13,Jessy,AIPERT,Homme,M1 H (40-44),,FRA (France),BOUGIVAL,FR,Finisher,7,,4,Derni,50:48:18,3.15
+2048,Michel,OGHEARD,Homme,M4 H (55-59),,FRA (France),ORCEMONT,FR,Finisher,8,,1,Derni,50:49:51,3.15
+505,Thierry,GARRIGUE,Homme,M3 H (50-54),,FRA (France),SAINT GEORGES DE RENNEINS,FR,Finisher,9,,5,Derni,50:49:55,3.15
+2480,Marie,WIEGERT,Femme,M0 F (35-39),,FRA (France),SAINT-GILLES-LES-BAINS,RE,Finisher,0,5,9,Derni,50:51:14,3.15
+199,Bruno,BREYTON,Homme,M3 H (50-54),,FRA (France),CLAVIERS,FR,Finisher,1,,6,Derni,50:51:30,3.15
+470,Alain,FOURGEAUD,Homme,M4 H (55-59),,FRA (France),PIRIAC SUR MER,FR,Finisher,2,,2,Derni,50:52:11,3.15
+497,Loic,GARA,Homme,SE H (23-34),,FRA (France),PITON SAINT-LEU,RE,Finisher,3,,8,Derni,50:53:53,3.15
+788,Mathieu,MAGRIN,Homme,M2 H (45-49),,FRA (France),SAINTE-CLOTILDE,RE,Finisher,4,,7,Derni,50:54:51,3.15
+1145,Ted,SALLÉ,Homme,M1 H (40-44),,FRA (France),SAINT PAUL,RE,Finisher,5,,5,Derni,50:54:58,3.15
+2225,Yoann,GUILHEM-DUCLEON,Homme,SE H (23-34),,FRA (France),SAINT-PIERRE,RE,Finisher,6,,9,Derni,50:56:05,3.15
+2366,Jean Sylvio,VELNA,Homme,M3 H (50-54),,FRA (France),ETANG-SALE,RE,Finisher,7,,7,Derni,50:56:12,3.15
+921,Robert,ORTIZ,Homme,M4 H (55-59),,FRA (France),MARSEILLE,FR,Finisher,8,,3,Derni,50:57:30,3.14
+1210,Jonathan,WACKER,Homme,M0 H (35-39),,FRA (France),SAINT LEU,RE,Finisher,9,,3,Derni,50:59:08,3.14
+1667,Jérémy,SEILER,Homme,SE H (23-34),,FRA (France),SAINT LEU,RE,Finisher,0,,0,Derni,50:59:13,3.14
+2278,Nicolas,ROUSSIER,Homme,M2 H (45-49),,FRA (France),DIGOIN,FR,Finisher,1,,8,Derni,50:59:43,3.14
+1684,Michel,BOUTTE,Homme,M3 H (50-54),,FRA (France),SAINT SORLIN EN BUGEY,FR,Finisher,2,,8,Derni,50:59:55,3.14
+1193,Loïc,KEROUANTON,Homme,M3 H (50-54),,FRA (France),PIBRAC,FR,Finisher,3,,9,Derni,51:00:18,3.14
+1421,Thoai,BUI,Homme,M0 H (35-39),,FRA (France),CHOISY-LE-ROI,FR,Finisher,4,,4,Derni,51:00:56,3.14
+1433,Romain,ALVES,Homme,M1 H (40-44),,FRA (France),DOMECY SUR CURE,FR,Finisher,5,,6,Derni,51:00:59,3.14
+2385,Thierry,VAYSSE,Homme,M2 H (45-49),,FRA (France),GIGNAC,FR,Finisher,6,,9,Derni,51:04:13,3.14
+1397,Fatma,BENKACI,Femme,SE F (23-34),,FRA (France),PORT DE BOUC,FR,Finisher,7,6,2,Derni,51:05:50,3.14
+1135,Nicolas,VALGUEBLASSE,Homme,M3 H (50-54),,FRA (France),SORGUES,FR,Finisher,8,,0,Derni,51:06:16,3.14
+472,Jessica,FRANCO,Femme,M0 F (35-39),,FRA (France),PAU,FR,Finisher,9,7,0,Derni,51:09:11,3.13
+1714,Christophe,VAYSSETTES,Homme,M2 H (45-49),,FRA (France),SEVERAC L'EGLISE,FR,Finisher,0,,0,Derni,51:11:25,3.13
+1398,Sebastien,THOMAS,Homme,M1 H (40-44),,FRA (France),L UNION,FR,Finisher,1,,7,Derni,51:11:29,3.13
+400,Morgane,DUMOLLARD,Femme,SE F (23-34),,SUI (Suisse),CHÂTEL-SAINT-DENIS,CH,Finisher,2,8,3,Derni,51:11:30,3.13
+1132,Frédéric,VAUCLAIR,Homme,M1 H (40-44),,SUI (Suisse),CHÂTEL-ST-DENIS,CH,Finisher,2,,8,Derni,51:11:30,3.13
+847,Yves,MICHON,Homme,M3 H (50-54),,FRA (France),FOISSIAT,FR,Finisher,4,,1,Derni,51:11:56,3.13
+2492,Adrien,ZEGRE,Homme,M0 H (35-39),,FRA (France),LA POSSESSION,RE,Finisher,5,,5,Derni,51:12:19,3.13
+90,Gilles,BAYLE,Homme,M1 H (40-44),,FRA (France),CARNOUX EN PROVENCE,FR,Finisher,6,,9,Derni,51:12:42,3.13
+1287,Jose Manuel,MOTA,Homme,M5 H (60-64),,POR (Portugal),ENTRONCAMENTO,PT,Finisher,7,,4,Derni,51:15:15,3.13
+567,Loic,GUILLAUME,Homme,SE H (23-34),,FRA (France),LYON,FR,Finisher,8,,1,Derni,51:16:20,3.13
+2562,Gilbert,BASSONVILLE,Homme,M2 H (45-49),,FRA (France),CILAOS,RE,Finisher,9,,1,Derni,51:17:49,3.12
+60,Jean Marie,AVRIL,Homme,M4 H (55-59),,FRA (France),SAINTE CHRISTINE,FR,Finisher,0,,4,Derni,51:20:32,3.12
+1766,Emilie,LE GUEDARD,Femme,M1 F (40-44),,FRA (France),PLOUFRAGAN,FR,Finisher,1,9,1,Derni,51:20:43,3.12
+1871,Jean-Noel,PINEAU,Homme,M3 H (50-54),,FRA (France),DOMLOUP,FR,Finisher,2,,2,Derni,51:25:17,3.12
+654,Anthony,KISHI,Homme,SE H (23-34),,FRA (France),SAINTE MARIE,RE,Finisher,3,,2,Derni,51:26:57,3.11
+2161,Maxime,PAILLE,Homme,SE H (23-34),,FRA (France),NANTES,FR,Finisher,4,,3,Derni,51:27:42,3.11
+780,Virginie,LOUVARD,Femme,M5 F (60-64),,FRA (France),RENNES,FR,Finisher,5,0,4,Derni,51:27:57,3.11
+971,Gilles,PIERA,Homme,SE H (23-34),,FRA (France),STRASBOURG,FR,Finisher,6,,4,Derni,51:28:00,3.11
+194,Cyrille,BRAS,Homme,M2 H (45-49),,FRA (France),SOISY SUR SEINE,FR,Finisher,7,,2,Derni,51:28:53,3.11
+1993,Olivier,CLAIN,Homme,M2 H (45-49),,FRA (France),SAINT PIERRE,RE,Finisher,8,,3,Derni,51:31:12,3.11
+963,Guillaume,PICARD,Homme,M1 H (40-44),,FRA (France),ORNAISONS,FR,Finisher,9,,0,Derni,51:32:44,3.11
+814,Jimmy,MARKA,Homme,M1 H (40-44),,FRA (France),ATHIS MONS,FR,Finisher,0,,1,Derni,51:33:54,3.11
+2433,Gregory,METAIREAU,Homme,M3 H (50-54),,FRA (France),44310 - ST PHILBERT DE GRAND LIEU,FR,Finisher,1,,3,Derni,51:34:26,3.11
+1760,Olivier,FRANCO,Homme,M1 H (40-44),,FRA (France),ST MAURICE,FR,Finisher,2,,2,Derni,51:36:12,3.11
+776,Kevin,LOUISIN,Homme,SE H (23-34),,FRA (France),LA SALINE,RE,Finisher,3,,5,Derni,51:37:13,3.1
+2315,Victor,DAVID,Homme,SE H (23-34),,FRA (France),ALFORTVILLE,FR,Finisher,4,,6,Derni,51:38:47,3.1
+1843,Cedric,CAUVIN,Homme,M2 H (45-49),,FRA (France),PITON SAINT LEU,RE,Finisher,5,,4,Derni,51:39:26,3.1
+2497,Yoan,BENARD,Homme,SE H (23-34),,FRA (France),BASSENS,FR,Finisher,6,,7,Derni,51:40:42,3.1
+419,Fabrice,ESPERANCE,Homme,M3 H (50-54),,FRA (France),SAINT-PAUL,RE,Finisher,7,,4,Derni,51:41:20,3.1
+1313,Fabien,SLOBODZIAN,Homme,M2 H (45-49),,FRA (France),RETHONDES,FR,Finisher,8,,5,Derni,51:44:33,3.1
+1943,Jérôme,GUIRONNET,Homme,M0 H (35-39),,FRA (France),SAINTE CLOTILDE,RE,Finisher,9,,6,Derni,51:45:06,3.1
+450,Didier,FLAMARY,Homme,M3 H (50-54),,FRA (France),GAGNAC SUR CERE,FR,Finisher,0,,5,Derni,51:46:01,3.1
+2543,Sophie,LEHAIR,Femme,SE F (23-34),,FRA (France),ST-GILLES-LES-HAUTS,RE,Finisher,1,1,4,Derni,51:48:27,3.09
+1252,Jorge,DAVIM MARTINS,Homme,M5 H (60-64),,POR (Portugal),MOLINET,FR,Finisher,2,,5,Derni,51:48:46,3.09
+2556,Henry,DESAILLY,Homme,M2 H (45-49),,FRA (France),SAINT PIERRE,RE,Finisher,3,,6,Derni,51:48:55,3.09
+2582,Frank,HERPIN,Homme,M1 H (40-44),,FRA (France),ST PIERRE,RE,Finisher,4,,3,Derni,51:48:56,3.09
+823,Stephane,MARTINEZ,Homme,M3 H (50-54),,FRA (France),STE OLIVE,FR,Finisher,5,,6,Derni,51:50:10,3.09
+2387,Richard,DORSEUIL,Homme,M4 H (55-59),,FRA (France),RAVINE DES CABRIS,RE,Finisher,6,,5,Derni,51:51:16,3.09
+1741,Anthony,SAUTRON,Homme,M1 H (40-44),,FRA (France),SAINT BENOIT,RE,Finisher,7,,4,Derni,51:51:47,3.09
+650,Stephane,KACZMAREK,Homme,M2 H (45-49),,FRA (France),MARLY,FR,Finisher,8,,7,Derni,51:52:47,3.09
+874,Guibert,MOREL,Homme,M2 H (45-49),,FRA (France),SAINT JOSEPH,RE,Finisher,9,,8,Derni,51:53:54,3.09
+1420,Freddy,SERVEAUX,Homme,M2 H (45-49),,FRA (France),VALENCE,FR,Finisher,0,,9,Derni,51:54:26,3.09
+761,Philippe,LETESSIER,Homme,M5 H (60-64),,FRA (France),LONGUEVILLE,FR,Finisher,1,,6,Derni,51:54:37,3.09
+1579,Darryl,DE BOISVILLIERS,Homme,M0 H (35-39),,FRA (France),LA POSSESSION,RE,Finisher,2,,7,Derni,51:55:23,3.09
+1329,Nelson,HOURLIER,Homme,SE H (23-34),,FRA (France),MORLON,CH,Finisher,3,,8,Derni,51:56:39,3.08
+578,Daniel,GUYOT,Homme,M5 H (60-64),,FRA (France),SAINT-DENIS,RE,Finisher,4,,7,Derni,51:56:59,3.08
+1175,Marion,JALABERT LIMOUZY,Femme,SE F (23-34),,FRA (France),MEYRALS,FR,Finisher,5,2,5,Derni,51:58:13,3.08
+1176,Laurent,JALABERT,Homme,M3 H (50-54),,FRA (France),MEYRALS,FR,Finisher,6,,7,Derni,51:58:16,3.08
+395,Thierry,DUFAUD,Homme,M4 H (55-59),,FRA (France),NAILLY,FR,Finisher,7,,6,Derni,51:58:25,3.08
+948,Frederic,PENDERIES,Homme,M2 H (45-49),,FRA (France),LEOJAC,FR,Finisher,8,,0,Derni,51:58:39,3.08
+866,Damien,MONNET-BESSON,Homme,M1 H (40-44),,FRA (France),01100 - MARTIGNAT,FR,Finisher,9,,5,Derni,51:59:25,3.08
+1981,Guillaume,GAUCHERIN,Homme,SE H (23-34),,FRA (France),PEZE LE ROBERT,FR,Finisher,0,,9,Derni,52:04:09,3.08
+1264,Michaël,CRAUSAZ,Homme,SE H (23-34),,SUI (Suisse),AYENT,CH,Finisher,1,,0,Derni,52:04:12,3.08
+2180,Jean Jacky,TORINIERE,Homme,M2 H (45-49),,FRA (France),LA POSSESSION,RE,Finisher,2,,1,Derni,52:06:14,3.08
+1919,Freddy,LECLERC,Homme,M1 H (40-44),,FRA (France),LA MONTAGNE,RE,Finisher,3,,6,Derni,52:06:16,3.08
+343,Emilie,DARNAND,Femme,M1 F (40-44),,FRA (France),SAINT GERMAIN NUELLES,FR,Finisher,4,3,2,Derni,52:13:01,3.07
+929,Nathan,PARJADIS,Homme,SE H (23-34),,FRA (France),BORDEAUX,FR,Finisher,5,,1,Derni,52:15:44,3.07
+1152,Thierry,LOBEROT,Homme,M4 H (55-59),,FRA (France),ILLOUD,FR,Finisher,6,,7,Derni,52:15:59,3.07
+1144,Arnaud,NEZOSI,Homme,M1 H (40-44),,FRA (France),SAINTE MARIE,RE,Finisher,7,,7,Derni,52:18:59,3.06
+1355,Sylvain,GAUTHIER,Homme,M3 H (50-54),,FRA (France),SAINT AMAND LONGPRÉ,FR,Finisher,8,,8,Derni,52:19:34,3.06
+1406,Yves,WALTER,Homme,M4 H (55-59),,FRA (France),OLLIOULES,FR,Finisher,9,,8,Derni,52:20:59,3.06
+1266,Nicolas,TOPART,Homme,M0 H (35-39),,BEL (Belgique),BLEHARIES,BE,Finisher,0,,8,Derni,52:21:14,3.06
+1622,Frédéric,LE FLOCH,Homme,M1 H (40-44),,FRA (France),GUIDEL,FR,Finisher,1,,8,Derni,52:22:04,3.06
+156,Samy,BONIFACIE,Homme,M2 H (45-49),,FRA (France),FORT DE FRANCE,MQ,Finisher,2,,2,Derni,52:22:12,3.06
+379,Yves,DOUSSAL,Homme,M0 H (35-39),,FRA (France),GUIDEL,FR,Finisher,3,,9,Derni,52:22:33,3.06
+2308,Alain,DEMILE,Homme,M3 H (50-54),,FRA (France),SAINT PIERRE,RE,Finisher,4,,9,Derni,52:22:44,3.06
+2502,Olivier,VANÇON,Homme,M4 H (55-59),,FRA (France),SEUR,FR,Finisher,5,,9,Derni,52:23:31,3.06
+1494,Olivier,BESNARD,Homme,SE H (23-34),,FRA (France),SAINT LEU,RE,Finisher,6,,2,Derni,52:24:07,3.06
+305,Florian,COMBAUD,Homme,SE H (23-34),,FRA (France),GENNEVILLIERS,FR,Finisher,7,,3,Derni,52:26:04,3.06
+1232,Cedric,MERIENNE,Homme,M1 H (40-44),,FRA (France),LA BIGOTTIÉRE,FR,Finisher,8,,9,Derni,52:26:49,3.06
+1233,Anthony,BERTHOMÉ,Homme,M1 H (40-44),,FRA (France),MARTIGNÉ SUR MAYENNE,FR,Finisher,9,,0,Derni,52:26:51,3.06
+1183,Christophe,LESNE,Homme,M2 H (45-49),,FRA (France),VENETTE,FR,Finisher,0,,3,Derni,52:27:10,3.05
+1746,Vincent,MELAN,Homme,SE H (23-34),,FRA (France),LA SALINE LES BAINS,RE,Finisher,1,,4,Derni,52:28:53,3.05
+1206,Roinito,TESTAN,Homme,M2 H (45-49),,FRA (France),LA MONTAGNE,RE,Finisher,2,,4,Derni,52:29:39,3.05
+734,Bruno,LECAS,Homme,M4 H (55-59),,FRA (France),DINAN,FR,Finisher,3,,0,Derni,52:29:40,3.05
+1817,Yann,MARCHIENNE,Homme,M1 H (40-44),,FRA (France),LA GARENNE COLOMBES,FR,Finisher,4,,1,Derni,52:30:11,3.05
+1693,Stephane,DEMOULIN,Homme,M0 H (35-39),,FRA (France),ST PIERRE,RE,Finisher,5,,0,Derni,52:33:13,3.05
+2168,Christophe,RÉVILLION,Homme,M0 H (35-39),,FRA (France),SAINT PIERRE,RE,Finisher,6,,1,Derni,52:33:14,3.05
+843,Nicolas,MESSIGHAOUI,Homme,M4 H (55-59),,FRA (France),FLAG****,FR,Finisher,7,,1,Derni,52:34:46,3.05
+2449,Jean-Marie,JOUZEL,Homme,M2 H (45-49),,FRA (France),AMANLIS,FR,Finisher,8,,5,Derni,52:36:24,3.05
+1431,Michel,PORHEL,Homme,M6 H (65-69),,FRA (France),ENTRAMMES,FR,Finisher,9,,7,Derni,52:37:50,3.04
+836,Michel,MAZZOLA,Homme,M4 H (55-59),,FRA (France),SAINT BRICE SOUS FORET,FR,Finisher,0,,2,Derni,52:40:10,3.04
+2040,Fredy,TESTAN,Homme,M2 H (45-49),,FRA (France),SAINTE SUZANNE,RE,Finisher,1,,6,Derni,52:41:07,3.04
+631,Romain,JACQUIER,Homme,SE H (23-34),,FRA (France),DOMARIN,FR,Finisher,2,,5,Derni,52:42:03,3.04
+2595,Philippe,GOFFARD,Homme,M3 H (50-54),,BEL (Belgique),LASNE,BE,Finisher,3,,0,Derni,52:45:16,3.04
+949,Antoine,PEREZ-MARTIN,Homme,SE H (23-34),,FRA (France),BIÈVRES,FR,Finisher,4,,6,Derni,52:45:23,3.04
+1653,Olivier,ORSET,Homme,M3 H (50-54),,FRA (France),SAINTE JULIE,FR,Finisher,5,,1,Derni,52:47:13,3.04
+1535,Michel,ROMERO,Homme,M5 H (60-64),,FRA (France),SAINT ILLIERS LE BOIS,FR,Finisher,6,,8,Derni,52:48:00,3.03
+1526,Matthieu,LIBEER,Homme,M1 H (40-44),,FRA (France),LYON,FR,Finisher,7,,2,Derni,52:48:47,3.03
+867,Michaël,MONSIEUR,Homme,M1 H (40-44),,BEL (Belgique),NIVELLES,BE,Finisher,8,,3,Derni,52:50:44,3.03
+760,Benoît,LETELLIER,Homme,M1 H (40-44),,FRA (France),SAINT GERMAIN VILLAGE,FR,Finisher,9,,4,Derni,52:51:38,3.03
+736,Laurent,LECHAT,Homme,M3 H (50-54),,FRA (France),SAINT-GÉLY-DU-FESC,FR,Finisher,0,,2,Derni,52:53:10,3.03
+919,Mathieu,ONDET,Homme,M1 H (40-44),,FRA (France),LONGEVILLE SUR MER,FR,Finisher,1,,5,Derni,52:53:52,3.03
+1250,Damien,SEMELY,Homme,SE H (23-34),,SUI (Suisse),BAGNERES DE LUCHON,FR,Finisher,2,,7,Derni,52:55:02,3.03
+1698,Benoit,LALARME,Homme,M1 H (40-44),,FRA (France),FOURG,FR,Finisher,3,,6,Derni,52:55:05,3.03
+973,Jean-Paul,PIERRAT,Homme,M5 H (60-64),,FRA (France),SAINT-AMÉ,FR,Finisher,4,,9,Derni,52:55:26,3.03
+705,Denis René Michel,LE BON,Homme,M5 H (60-64),,FRA (France),LE TAMPON,RE,Finisher,5,,0,Derni,52:57:23,3.03
+784,Hugo,LUIZY,Homme,M0 H (35-39),,FRA (France),PITON ST LEU,RE,Finisher,6,,2,Derni,52:57:36,3.03
+740,Mathieu,LEGENT,Homme,M2 H (45-49),,FRA (France),MORIERES LES AVIGNON,FR,Finisher,7,,7,Derni,52:58:18,3.03
+960,Ella,PEYRARD,Femme,SE F (23-34),,FRA (France),TREVOUX,FR,Finisher,8,4,6,Derni,52:59:48,3.02
+825,Sandrine,MARTINOT,Femme,M2 F (45-49),,BEL (Belgique),NIVELLES,BE,Finisher,9,5,1,Derni,53:00:45,3.02
+486,Joelle,GACHEN,Femme,M1 F (40-44),,FRA (France),SAINT LEU,RE,Finisher,0,6,3,Derni,53:01:34,3.02
+94,Philippe,BEAUD,Homme,M1 H (40-44),,FRA (France),PUYBEGON,FR,Finisher,1,,7,Derni,53:02:32,3.02
+186,Patrick,BOUTEILLER,Homme,M5 H (60-64),,FRA (France),LA RIVIÈRE SAINT-LOUIS,RE,Finisher,2,,1,Derni,53:05:26,3.02
+2270,Willy,TURPIN,Homme,M2 H (45-49),,FRA (France),ST PHILIPPE,RE,Finisher,3,,8,Derni,53:07:09,3.02
+2138,Nicolas,ZARADZKI,Homme,M0 H (35-39),,FRA (France),SAINT AUSTREMOINE,FR,Finisher,4,,3,Derni,53:08:56,3.01
+1528,Bruno,ZARADZKI,Homme,SE H (23-34),,FRA (France),SAINT REMÈZE,FR,Finisher,5,,8,Derni,53:09:01,3.01
+2289,Marion,ZARADZKI,Femme,SE F (23-34),,FRA (France),PETITE-ÎLE,RE,Finisher,5,7,7,Derni,53:09:01,3.01
+525,Daniel,GIRAUD,Homme,M2 H (45-49),,FRA (France),BELLEROCHE,FR,Finisher,7,,9,Derni,53:09:35,3.01
+1319,Frédéric,BERNARD,Homme,M4 H (55-59),,FRA (France),COMPREIGNAC,FR,Finisher,8,,3,Derni,53:09:42,3.01
+347,Florian,DAVID,Homme,SE H (23-34),,FRA (France),FRIBOURG,CH,Finisher,9,,9,Derni,53:09:48,3.01
+849,Olivier,MIGNOT,Homme,M2 H (45-49),,FRA (France),PRIGONRIEUX,FR,Finisher,0,,0,Derni,53:10:43,3.01
+2491,Guillaume,VINCELOT,Homme,M0 H (35-39),,FRA (France),ORMENANS,FR,Finisher,1,,4,Derni,53:13:43,3.01
+1286,Frederic,MOMMENS,Homme,M0 H (35-39),,BEL (Belgique),OTTIGNIES,BE,Finisher,2,,5,Derni,53:14:55,3.01
+1566,Jean-Christophe,BENAY,Homme,M2 H (45-49),,FRA (France),TOULOUSE,FR,Finisher,3,,1,Derni,53:18:15,3.01
+410,Eric,DUTOO,Homme,M1 H (40-44),,FRA (France),BORDEAUX,FR,Finisher,4,,8,Derni,53:18:18,3.01
+712,Cécilian,LE GALL,Homme,M2 H (45-49),,FRA (France),SAINT LOUIS,RE,Finisher,5,,2,Derni,53:18:21,3.01
+2548,Palazzi,GAETANO,Homme,M4 H (55-59),,ITA (Italie),PADENGHE SUL GARDA,IT,Finisher,6,,4,Derni,53:18:24,3.01
+1482,Mahefanirina,BRASSAMIN,Femme,M1 F (40-44),,FRA (France),LE TAMPON,RE,Finisher,7,8,4,Derni,53:19:08,3.01
+2063,Rodolphe,PETROU,Homme,M2 H (45-49),,FRA (France),SAINT LEU,RE,Finisher,8,,3,Derni,53:19:15,3.01
+1244,Adam,CYPCAR,Homme,M1 H (40-44),,POL (Pologne),BIGANOS,FR,Finisher,9,,9,Derni,53:19:43,3.0
+983,Marc-Olivier,PLET,Homme,M0 H (35-39),,FRA (France),LA RAVINE DES CABRIS,RE,Finisher,0,,6,Derni,53:20:47,3.0
+2146,Antony,BOYER,Homme,M5 H (60-64),,FRA (France),POSSESSION,RE,Finisher,1,,2,Derni,53:20:53,3.0
+2467,Frédéric,SERY,Homme,M2 H (45-49),,FRA (France),PLAINE DES CAFRES,RE,Finisher,2,,4,Derni,53:24:11,3.0
+1350,Benoit,DUVERLIE,Homme,M4 H (55-59),,FRA (France),SEYSSINET,FR,Finisher,3,,5,Derni,53:26:08,3.0
+1580,Fabrice,BARJOLIN,Homme,M4 H (55-59),,FRA (France),MITRY-MORY,FR,Finisher,4,,6,Derni,53:26:40,3.0
+322,Christophe,COUVE,Homme,M2 H (45-49),,FRA (France),SAINT BENOIT,RE,Finisher,5,,5,Derni,53:27:37,3.0
+1059,Thierry,ROUQUET,Homme,M4 H (55-59),,FRA (France),LAROQUEBROU,FR,Finisher,6,,7,Derni,53:28:27,3.0
+2498,Romuald,PICOT,Homme,M2 H (45-49),,FRA (France),PORT-BRILLET,FR,Finisher,7,,6,Derni,53:30:44,2.99
+2016,Marie Anise,PAUSE,Femme,M4 F (55-59),,FRA (France),LA POSSESSION,RE,Finisher,8,9,4,Derni,53:32:38,2.99
+1449,Xavier,LECHOT,Homme,M2 H (45-49),,FRA (France),LA SALINE,RE,Finisher,9,,7,Derni,53:35:43,2.99
+1955,Thomas,DESCAMPS,Homme,M0 H (35-39),,FRA (France),SAINT-PAUL,RE,Finisher,0,,7,Derni,53:37:01,2.99
+2237,Sébastien,DEMENGEON,Homme,M1 H (40-44),,FRA (France),MARSEILLE,FR,Finisher,1,,0,Derni,53:37:41,2.99
+875,Fabrice,MORILHAT,Homme,M2 H (45-49),,FRA (France),BOIS DE NEFLE SAINT PAUL,RE,Finisher,2,,8,Derni,53:37:51,2.99
+220,François,CADET,Homme,M4 H (55-59),,FRA (France),APPARTEMENT 26,RE,Finisher,3,,8,Derni,53:38:52,2.99
+716,Julien,LE GOUAREGUER,Homme,M0 H (35-39),,FRA (France),PLOUVORN,FR,Finisher,4,,8,Derni,53:38:58,2.99
+121,Vincent,BERNARDEAU,Homme,M0 H (35-39),,FRA (France),ANGOULEME,FR,Finisher,5,,9,Derni,53:39:41,2.99
+1170,Thomas,JEAN-MARIE,Homme,M0 H (35-39),,FRA (France),SAINTE-SUZANNE,RE,Finisher,6,,0,Derni,53:41:25,2.98
+526,Thierry,GIRAULT,Homme,M2 H (45-49),,FRA (France),LOUVIGNE,FR,Finisher,7,,9,Derni,53:43:18,2.98
+190,Serge,BOYER,Homme,M5 H (60-64),,FRA (France),LE GUILLAUME,RE,Finisher,8,,3,Derni,53:43:49,2.98
+248,Pascal,CHAILLOUX,Homme,M5 H (60-64),,FRA (France),PLERIN,FR,Finisher,9,,4,Derni,53:44:41,2.98
+2184,Jean,MONS,Homme,SE H (23-34),,FRA (France),LE TAMPON,RE,Finisher,0,,0,Derni,53:45:03,2.98
+690,Laurent,LATASTE,Homme,M0 H (35-39),,FRA (France),ANGLET,FR,Finisher,1,,1,Derni,53:46:07,2.98
+627,Patrice,ISELI,Homme,M4 H (55-59),,FRA (France),CHATEAU THIERRY,FR,Finisher,2,,9,Derni,53:48:12,2.98
+495,Thibaut,GANIVET,Homme,M2 H (45-49),,FRA (France),SAINT CAPRAIS,FR,Finisher,3,,0,Derni,53:48:59,2.98
+615,Thierry,HURAULT,Homme,M4 H (55-59),,FRA (France),TREBABU,FR,Finisher,4,,0,Derni,53:49:08,2.98
+1224,Vincent,WEBER,Homme,M2 H (45-49),,FRA (France),LA SALINE LES BAINS,RE,Finisher,5,,1,Derni,53:51:34,2.98
+1512,Olivier,WEBER,Homme,M3 H (50-54),,FRA (France),FLINES-LEZ-RACHES,FR,Finisher,6,,3,Derni,53:55:40,2.97
+110,Patrick,BENESCHI,Homme,M1 H (40-44),,FRA (France),MADRID,ES,Finisher,7,,1,Derni,53:55:47,2.97
+2006,Thierry J. Patrice,RAMOUNE,Homme,M1 H (40-44),,FRA (France),ST PIERRE,RE,Finisher,8,,2,Derni,53:56:58,2.97
+304,Olivier,COLOMB,Homme,M0 H (35-39),,FRA (France),PARIS,FR,Finisher,9,,2,Derni,53:57:02,2.97
+67,Charles,BAGAGE,Homme,M2 H (45-49),,FRA (France),LA RIVIÈRE SAINT LOUIS,RE,Finisher,0,,2,Derni,53:58:44,2.97
+2150,Franck,MARIETTE,Homme,M3 H (50-54),,FRA (France),LA ROCHE SUR YON,FR,Finisher,1,,4,Derni,53:59:04,2.97
+1513,Catherine,FOEGLÉ,Femme,M3 F (50-54),,FRA (France),MEISENTHAL,FR,Finisher,2,0,0,Derni,54:01:48,2.97
+1728,Gilles,TATIBOUET,Homme,M4 H (55-59),,FRA (France),SAINT-LEU,RE,Finisher,3,,1,Derni,54:03:13,2.96
+731,Stephanie,LEBOT,Femme,SE F (23-34),,FRA (France),ST PAUL,RE,Finisher,4,1,8,Derni,54:03:44,2.96
+909,Geric,NOGUE,Homme,M2 H (45-49),,FRA (France),CARIGNAN DE BORDEAUX,FR,Finisher,5,,3,Derni,54:04:34,2.96
+1828,Henri Claude,ALAMELAMA,Homme,M5 H (60-64),,FRA (France),SALINE-LES-HAUTS,RE,Finisher,6,,5,Derni,54:05:04,2.96
+68,Sabrina,BAGAGE,Femme,M1 F (40-44),,FRA (France),LA RIVIÈRE SAINT-LOUIS,RE,Finisher,7,2,5,Derni,54:08:40,2.96
+1894,Alexis,HILLION,Homme,SE H (23-34),,FRA (France),QUIMPER,FR,Finisher,8,,1,Derni,54:09:04,2.96
+673,Christophe,LAMAUD,Homme,M2 H (45-49),,FRA (France),SALIGNAC-EYVIGUES,FR,Finisher,9,,4,Derni,54:09:10,2.96
+3,Brigitte,ABRARD,Femme,M5 F (60-64),,FRA (France),PUYDARRIEUX,FR,Finisher,0,3,5,Derni,54:09:13,2.96
+685,Thierry,LARDENOIS,Homme,M5 H (60-64),,FRA (France),NOGENT SUR MARNE,FR,Finisher,1,,6,Derni,54:12:18,2.96
+845,Lucas,MEUNIER,Homme,SE H (23-34),,FRA (France),LA RAVINE DES CABRIS,RE,Finisher,2,,2,Derni,54:14:28,2.95
+910,Laurence,NOGUE,Femme,M2 F (45-49),,FRA (France),CARIGNAN DE BORDEAUX,FR,Finisher,3,4,2,Derni,54:14:34,2.95
+1731,Melissa,ANTIER,Femme,M1 F (40-44),,FRA (France),SAINT-DENIS,RE,Finisher,4,5,6,Derni,54:14:37,2.95
+2574,Sully,VILRUS,Homme,M4 H (55-59),,FRA (France),SAINT PAUL,RE,Finisher,5,,2,Derni,54:16:43,2.95
+292,Gilles,CLAUDEL,Homme,M4 H (55-59),,FRA (France),SAINT LEU,RE,Finisher,6,,3,Derni,54:17:15,2.95
+1285,Didier,CATALDO,Homme,M3 H (50-54),,BEL (Belgique),OLNE,BE,Finisher,7,,5,Derni,54:18:17,2.95
+559,Laurent,GUERIN,Homme,M3 H (50-54),,FRA (France),LA GARDE,FR,Finisher,8,,6,Derni,54:18:31,2.95
+217,Johnny,CABEU,Homme,M4 H (55-59),,FRA (France),SAINT PIERRE,RE,Finisher,9,,4,Derni,54:19:30,2.95
+2569,Jean Francois,HOUPIARPANIN,Homme,M4 H (55-59),,FRA (France),SAINT PAUL,RE,Finisher,0,,5,Derni,54:20:37,2.95
+1349,Damien,FATREZ,Homme,M1 H (40-44),,FRA (France),LANDAS,FR,Finisher,1,,3,Derni,54:20:57,2.95
+1995,Sébastien,MOLINES,Homme,M2 H (45-49),,FRA (France),SAINTE CLOTILDE,FR,Finisher,2,,5,Derni,54:21:22,2.95
+2153,Maxime,VANDENDRIESSCHE,Homme,M0 H (35-39),,FRA (France),SAINT-DENIS,RE,Finisher,3,,3,Derni,54:23:02,2.95
+76,Patrice,BARDAINE,Homme,M3 H (50-54),,FRA (France),LA CHAPELLE ERBRÉE,FR,Finisher,4,,7,Derni,54:25:50,2.94
+939,Eric,PAYET,Homme,M1 H (40-44),,FRA (France),LE TAMPON,RE,Finisher,5,,4,Derni,54:26:01,2.94
+455,Jean Vincent,FLORY,Homme,M1 H (40-44),,FRA (France),LAVERUNE,FR,Finisher,6,,5,Derni,54:29:30,2.94
+2313,Estelle,FEY,Femme,M1 F (40-44),,FRA (France),LUSSERY-VILLARS,CH,Finisher,7,6,7,Derni,54:29:31,2.94
+1032,Josian,RICHAUVET,Homme,M3 H (50-54),,FRA (France),RAVINE DES CABRIS,RE,Finisher,8,,8,Derni,54:29:40,2.94
+370,Fabrice,DIQUELLOU,Homme,M3 H (50-54),,FRA (France),PARIS,FR,Finisher,9,,9,Derni,54:29:54,2.94
+959,Marc,PETITJEAN,Homme,M4 H (55-59),,FRA (France),PARIS,FR,Finisher,0,,6,Derni,54:30:04,2.94
+201,Olivier,BRIEZ,Homme,M2 H (45-49),,FRA (France),MARSEILLE,FR,Finisher,1,,6,Derni,54:31:26,2.94
+464,David,FORGUES,Homme,M3 H (50-54),,FRA (France),PETITE ILE,RE,Finisher,2,,0,Derni,54:31:43,2.94
+1078,Christian,SANTERRE,Homme,M4 H (55-59),,FRA (France),MONT-BONVILLERS,FR,Finisher,3,,7,Derni,54:35:39,2.94
+159,Denis,BONNEF,Homme,M6 H (65-69),,FRA (France),DELLE,FR,Finisher,4,,8,Derni,54:36:47,2.93
+2128,Carine,ROMERO,Femme,M1 F (40-44),,FRA (France),SAINT GENIES DES MOURGUES,FR,Finisher,5,7,8,Derni,54:38:48,2.93
+1107,Nazim,SIDDARMYA,Homme,M2 H (45-49),,FRA (France),SAINT-DENIS,RE,Finisher,6,,7,Derni,54:39:33,2.93
+1141,Pierre,PREBET,Homme,M3 H (50-54),,FRA (France),PARIS,FR,Finisher,7,,1,Derni,54:40:07,2.93
+980,Steve,PLANCHER,Homme,M1 H (40-44),,FRA (France),VAUVERT,FR,Finisher,8,,6,Derni,54:40:39,2.93
+1323,Raphael,SCHOULER,Homme,SE H (23-34),,FRA (France),LILLERS,FR,Finisher,9,,3,Derni,54:40:50,2.93
+1392,Claude,CIBIEN,Homme,M4 H (55-59),,FRA (France),FABREGUES,FR,Finisher,0,,8,Derni,54:41:01,2.93
+246,Yves,CHAGNEUX,Homme,M3 H (50-54),,FRA (France),SALLES ARBUISSONNAS,FR,Finisher,1,,2,Derni,54:43:50,2.93
+1880,Stephanie,GUILLAUME MOUREY,Femme,M2 F (45-49),,FRA (France),FROTEY LES LURE,FR,Finisher,2,8,3,Derni,54:45:39,2.93
+1962,Jean Claude,SABABADY,Homme,M1 H (40-44),,FRA (France),SAINT BENOÎT,RE,Finisher,3,,7,Derni,54:45:49,2.93
+314,Martine,COTTIN,Femme,M5 F (60-64),,FRA (France),SIX FOURS LES PLAGES,FR,Finisher,4,9,6,Derni,54:46:55,2.93
+2408,Claude,SACCO,Homme,M2 H (45-49),,FRA (France),ST PIERRE CEDEX,RE,Finisher,5,,8,Derni,54:48:06,2.92
+2176,Michel,DEBOSSCHER,Homme,M4 H (55-59),,FRA (France),PARIS,FR,Finisher,6,,9,Derni,54:51:28,2.92
+53,Gildas,AUBRY,Homme,M2 H (45-49),,FRA (France),CUILLÉ,FR,Finisher,7,,9,Derni,54:52:59,2.92
+1325,Arnaud,HENROTTE,Homme,SE H (23-34),,BEL (Belgique),PITON SAINT LEU,RE,Finisher,8,,4,Derni,54:53:17,2.92
+1165,Cedric,KOOB,Homme,SE H (23-34),,BEL (Belgique),SAINT GILLES LES BAINS,RE,Finisher,9,,5,Derni,54:53:27,2.92
+272,Tiphanie,CHEBSON,Femme,SE F (23-34),,FRA (France),LONGVIC,FR,Finisher,0,0,9,Derni,54:53:42,2.92
+192,Marius,BOYER,Homme,M4 H (55-59),,FRA (France),TAMPON,RE,Finisher,1,,0,Derni,54:55:12,2.92
+620,Alexis,ILLAND,Homme,SE H (23-34),,FRA (France),GRAND QUEVILLY,FR,Finisher,2,,6,Derni,55:01:24,2.91
+1701,Benjamin,ZILA,Homme,M1 H (40-44),,FRA (France),SAINTE CLOTILDE,RE,Finisher,3,,8,Derni,55:01:28,2.91
+2285,Sébastien,VIALE,Homme,M0 H (35-39),,FRA (France),SAINT DENIS,RE,Finisher,4,,4,Derni,55:01:53,2.91
+1597,Mathieu,ALAERTS,Homme,SE H (23-34),,BEL (Belgique),SAINT GILLES LES BAINS,RE,Finisher,5,,7,Derni,55:03:22,2.91
+482,Florent,FROUX,Homme,M0 H (35-39),,FRA (France),PETITE ILE,RE,Finisher,6,,5,Derni,55:05:14,2.91
+2067,Pascal,HALNA,Homme,M3 H (50-54),,FRA (France),PORDIC,FR,Finisher,7,,3,Derni,55:05:39,2.91
+1189,Annie Claude,GRENIER,Femme,M2 F (45-49),,FRA (France),LE TAMPON,RE,Finisher,8,1,4,Derni,55:07:31,2.91
+1076,Jean-Marie,SANCHEZ,Homme,M2 H (45-49),,FRA (France),REMBERCOURT,FR,Finisher,9,,0,Derni,55:08:33,2.91
+634,Pierre,JANEX,Homme,M4 H (55-59),,FRA (France),ST CYR L ECOLE,FR,Finisher,0,,1,Derni,55:09:59,2.9
+2489,Christophe,DEROUET,Homme,M4 H (55-59),,FRA (France),PLOUGASTEL DAOULAS,FR,Finisher,1,,2,Derni,55:10:01,2.9
+2197,Jean-Michel,TALOTOKY,Homme,M1 H (40-44),,FRA (France),SAINTE-MARIE,RE,Finisher,2,,9,Derni,55:11:54,2.9
+1295,Giovanni,VADAMOOTOO,Homme,SE H (23-34),,MRI (Maurice),QUARTIER MILITAIRE,MU,Finisher,3,,8,Derni,55:13:17,2.9
+1247,Peter,VAN DER HEIJDEN,Homme,M3 H (50-54),,NED (Pays-Bas),LIEMPDE,NL,Finisher,4,,4,Derni,55:15:04,2.9
+2179,Sebastien,SABI,Homme,M0 H (35-39),,FRA (France),LES AVIRONS,RE,Finisher,5,,6,Derni,55:17:32,2.9
+1186,Pierre,BASSET,Homme,SE H (23-34),,FRA (France),MTSAMBORO,YT,Finisher,6,,9,Derni,55:18:31,2.9
+1534,Dmitrii,REMEZKOV,Homme,M1 H (40-44),,FRA (France),GRASSE,FR,Finisher,7,,0,Derni,55:19:40,2.9
+1221,Maxence,BOULLÉ,Homme,SE H (23-34),,FRA (France),MTSAMBORO,YT,Finisher,8,,0,Derni,55:19:44,2.9
+1623,Stéphane,CLOAREC,Homme,M3 H (50-54),,FRA (France),PLOUGASTEL,FR,Finisher,9,,5,Derni,55:20:00,2.9
+1859,Florence,CLOAREC,Femme,M2 F (45-49),,FRA (France),PLOUGASTEL DAOULAS,FR,Finisher,0,2,5,Derni,55:20:02,2.9
+2281,Gilles,TOURNAY,Homme,M3 H (50-54),,FRA (France),LA MOTTE SERVOLEX,FR,Finisher,1,,6,Derni,55:20:06,2.9
+652,Frederic,KARAKANIAN,Homme,M4 H (55-59),,FRA (France),MIRAMAS,FR,Finisher,2,,3,Derni,55:21:47,2.89
+2226,Vincent,THOUENON,Homme,M1 H (40-44),,FRA (France),ST DENIS,RE,Finisher,3,,1,Derni,55:22:03,2.89
+1083,Jerome,SARTRE,Homme,M3 H (50-54),,FRA (France),CROLLES,FR,Finisher,4,,7,Derni,55:22:17,2.89
+1858,Jean Christophe,PITARQUE,Homme,M5 H (60-64),,FRA (France),SAINTE CLOTILDE,RE,Finisher,5,,7,Derni,55:22:59,2.89
+645,Cyrielle,JOURNOT,Femme,SE F (23-34),,FRA (France),LES ECORCES,FR,Finisher,6,3,0,Derni,55:24:45,2.89
+2585,Bertrand,OUVRARD,Homme,M6 H (65-69),,FRA (France),ST NAZAIRE,FR,Finisher,7,,9,Derni,55:25:20,2.89
+1869,Arthur,SEGURET,Homme,M0 H (35-39),,FRA (France),ST PIERRE,RE,Finisher,8,,7,Derni,55:26:27,2.89
+1182,Philippe,BASSET,Homme,M5 H (60-64),,FRA (France),NANTEUIL-LÈS-MEAUX,FR,Finisher,9,,8,Derni,55:28:27,2.89
+1592,Hubert,DE DUCLA,Homme,M2 H (45-49),,FRA (France),SAINTE CLOTILDE,RE,Finisher,0,,1,Derni,55:29:36,2.89
+943,Olivier,PECONDON,Homme,M3 H (50-54),,FRA (France),AGEN,FR,Finisher,1,,8,Derni,55:29:42,2.89
+2469,Henri-Michel,PERRINE,Homme,M1 H (40-44),,FRA (France),SAINT-ANDRE,RE,Finisher,2,,2,Derni,55:30:22,2.89
+1255,Themy,DEL CAMPO BARAJAS,Homme,M1 H (40-44),,MEX (Mexique),OTTERBURN PARK,CA,Finisher,3,,3,Derni,55:30:41,2.89
+601,Olivier,HOARAU,Homme,M2 H (45-49),,FRA (France),SAINT BENOÏT,RE,Finisher,4,,2,Derni,55:33:34,2.88
+1664,Adrien,LAUTREFIN,Homme,M0 H (35-39),,FRA (France),SAINT-PAUL,RE,Finisher,5,,8,Derni,55:35:37,2.88
+2603,Josian,BAYARD,Homme,M2 H (45-49),,FRA (France),ST JOSEPH,RE,Finisher,6,,3,Derni,55:35:56,2.88
+15,Brahim,AIT OUMGHAR,Homme,M1 H (40-44),,MAR (Maroc),KARIAT SALE  RABAT,MA,Finisher,7,,4,Derni,55:36:25,2.88
+1343,Clement,MENTION,Homme,ES H (20-22),,FRA (France),SAVIGNY LE TEMPLE,FR,Finisher,8,,1,Derni,55:40:36,2.88
+41,Nicolas,ATRUX TALLAU,Homme,M0 H (35-39),,FRA (France),THONES,FR,Finisher,9,,9,Derni,55:41:26,2.88
+2534,Laurent,FALCOZ,Homme,M2 H (45-49),,FRA (France),SASSENAGE,FR,Finisher,0,,4,Derni,55:42:17,2.88
+1818,Sophie,FAUSTIN,Femme,M3 F (50-54),,FRA (France),SAINTE CLOTILDE,RE,Finisher,1,4,1,Derni,55:42:28,2.88
+2601,Olivier,GASTRIN,Homme,M1 H (40-44),,FRA (France),SAINT JOSEPH,RE,Finisher,2,,5,Derni,55:45:58,2.87
+1289,Bruno,BOURGUIGNON,Homme,M4 H (55-59),,BEL (Belgique),TERVUREN,BE,Finisher,3,,4,Derni,55:47:26,2.87
+2215,Pierrick,HIBON,Homme,SE H (23-34),,FRA (France),PITON ST LEU,RE,Finisher,4,,1,Derni,55:48:48,2.87
+484,Frederic,FUMERY,Homme,M1 H (40-44),,FRA (France),HÔPITAL DU GROS-BOIS,FR,Finisher,5,,6,Derni,55:49:23,2.87
+1167,Christelle,KLEPACZ,Femme,M0 F (35-39),,FRA (France),PONT-À-MOUSSON,FR,Finisher,6,5,1,Derni,55:49:53,2.87
+1683,Laurent,FLYE SAINTE MARIE,Homme,M2 H (45-49),,FRA (France),ETANG SALE,RE,Finisher,7,,5,Derni,55:54:22,2.87
+555,Irma,GROOTSCHOLTEN,Femme,M2 F (45-49),,NED (Pays-Bas),WATERINGEN,NL,Finisher,8,6,6,Derni,55:55:04,2.87
+1453,Laurent,WACKER,Homme,M2 H (45-49),,FRA (France),SAINT LEU,RE,Finisher,9,,6,Derni,55:55:15,2.87
+2219,Pascal,ROLLIN,Homme,M3 H (50-54),,FRA (France),BESANCON,FR,Finisher,0,,9,Derni,55:57:06,2.86
+1360,Gianni,LOCARINI,Homme,SE H (23-34),,FRA (France),PARIS,FR,Finisher,1,,2,Derni,55:58:44,2.86
+2478,Sabrina,FONTAINE,Femme,M0 F (35-39),,FRA (France),SAINT DENIS,RE,Finisher,2,7,2,Derni,55:59:01,2.86
+1890,Mireille,VELIA TOUSSAINT,Femme,M3 F (50-54),,FRA (France),LA MONTAGNE,RE,Finisher,3,8,2,Derni,56:01:14,2.86
+1235,Pascual,GIL ROLDAN,Homme,M3 H (50-54),,ESP (Espagne),LYON,FR,Finisher,4,,0,Derni,56:02:19,2.86
+33,Yannick,ANDRE,Homme,M5 H (60-64),,FRA (France),ALBIES,FR,Finisher,5,,9,Derni,56:04:03,2.86
+393,Sarah,DUCHOUD,Femme,M1 F (40-44),,SUI (Suisse),SAVIÈSE,CH,Finisher,6,9,9,Derni,56:05:23,2.86
+2401,Didier Pierre,PAYET,Homme,M3 H (50-54),,FRA (France),LE TAMPON,RE,Finisher,6,,1,Derni,56:05:23,2.86
+1298,Xavier,DUCHOUD,Homme,M1 H (40-44),,SUI (Suisse),DAILLENS,CH,Finisher,8,,7,Derni,56:05:24,2.86
+2141,Jeremy,CAMELIN,Homme,M1 H (40-44),,FRA (France),PLAINE DES CAFRES,RE,Finisher,9,,8,Derni,56:07:30,2.86
+1805,Jerome,PAILLARD,Homme,M3 H (50-54),,FRA (France),SAINT JOSEPH,RE,Finisher,0,,2,Derni,56:08:22,2.85
+649,Josélito,K/BIDI,Homme,M2 H (45-49),,FRA (France),SAINT DENIS,RE,Finisher,1,,7,Derni,56:09:32,2.85
+52,Joseph,ATTIAVE,Homme,M1 H (40-44),,FRA (France),SAINT BENOÎT,RE,Finisher,2,,9,Derni,56:10:15,2.85
+2015,Jean Vincent,LABIE,Homme,M3 H (50-54),,FRA (France),SAINT-DENIS,RE,Finisher,3,,3,Derni,56:10:37,2.85
+1857,Wolfgang,LEGOFF,Homme,M2 H (45-49),,FRA (France),RENNES,FR,Finisher,4,,8,Derni,56:13:15,2.85
+1153,Bruno,LIVERTOUX,Homme,M2 H (45-49),,FRA (France),ROYAT,FR,Finisher,5,,9,Derni,56:13:44,2.85
+1637,Sylvain,BODI,Homme,M1 H (40-44),,FRA (France),PLERIN,FR,Finisher,6,,0,Derni,56:14:02,2.85
+2412,Lois,CONTE,Homme,SE H (23-34),,FRA (France),SAINTE-MARIE,RE,Finisher,7,,3,Derni,56:14:11,2.85
+588,Nassir,HEDARALY,Homme,M1 H (40-44),,FRA (France),LE PORT,RE,Finisher,8,,1,Derni,56:14:58,2.85
+834,Françoise,MAYET,Femme,M4 F (55-59),,FRA (France),LA POSSESSION,RE,Finisher,9,0,5,Derni,56:17:29,2.85
+820,Laurent,MARTIN,Homme,M3 H (50-54),,FRA (France),PROVEYSIEUX,FR,Finisher,0,,4,Derni,56:23:40,2.84
+1130,Philippe,VERBRUGGEN,Homme,M1 H (40-44),,BEL (Belgique),RHODE-SAINT-GENÈSE,BE,Finisher,1,,2,Derni,56:24:52,2.84
+214,Laurent,BUSCHECK,Homme,M3 H (50-54),,FRA (France),WATTWILLER,FR,Finisher,2,,5,Derni,56:25:40,2.84
+1752,Alexandre,BRETON,Homme,M1 H (40-44),,FRA (France),LES HAUTS GENEVEYS,CH,Finisher,3,,3,Derni,56:26:23,2.84
+2319,Yoland,LEFEVRE,Homme,M3 H (50-54),,FRA (France),ST JOSEPH,RE,Finisher,4,,6,Derni,56:27:08,2.84
+1438,Sebastien,RESTELLINI,Homme,SE H (23-34),,FRA (France),SAINT LEU,RE,Finisher,5,,4,Derni,56:29:21,2.84
+1923,Didier,BLANCARD,Homme,M3 H (50-54),,FRA (France),SAINT ANDRE,RE,Finisher,6,,7,Derni,56:30:19,2.84
+320,Marie-Jose,COUTE,Femme,M5 F (60-64),,FRA (France),RIVIERE SALEE,MQ,Finisher,7,1,7,Derni,56:31:29,2.83
+175,Ugo,BOUISSAGUET,Homme,SE H (23-34),,FRA (France),SAINT DENIS,RE,Finisher,8,,5,Derni,56:32:26,2.83
+2245,Sabine,CAZALOT,Femme,M2 F (45-49),,FRA (France),LAVERNOSE LACASSE,FR,Finisher,9,2,7,Derni,56:35:20,2.83
+950,Viviane,PERIGNON,Femme,M3 F (50-54),,FRA (France),CERNAY LA VILLE,FR,Finisher,0,3,3,Derni,56:36:01,2.83
+554,Idriss,GRONDIN,Homme,M1 H (40-44),,FRA (France),LE PORT,RE,Finisher,1,,4,Derni,56:36:27,2.83
+20,David,ALEXANDRE,Homme,M2 H (45-49),,FRA (France),NIORT,FR,Finisher,2,,0,Derni,56:36:32,2.83
+266,François,VICQ,Homme,M2 H (45-49),,FRA (France),CHATELAILLON PLAGE,FR,Finisher,3,,1,Derni,56:36:36,2.83
+357,Xavier,DESPRINGRE,Homme,M5 H (60-64),,FRA (France),BOLLENE,FR,Finisher,4,,0,Derni,56:38:37,2.83
+358,Françoise,DESPRINGRE,Femme,M5 F (60-64),,FRA (France),BOLLENE,FR,Finisher,4,4,8,Derni,56:38:37,2.83
+2393,Benjamin,FAUTRAT,Homme,SE H (23-34),,FRA (France),SAINT-PIERRE LA REUNION,RE,Finisher,6,,6,Derni,56:40:20,2.83
+540,Nathalie,GOUY,Femme,M1 F (40-44),,FRA (France),SAINT EGREVE,FR,Finisher,7,5,0,Derni,56:43:41,2.82
+682,Marco,LANZENI,Homme,M3 H (50-54),,ITA (Italie),PRE SAINT DIDIER,IT,Finisher,8,,8,Derni,56:43:43,2.82
+1332,Franck,VAUDRY,Homme,M0 H (35-39),,FRA (France),LE HAVRE,FR,Finisher,9,,0,Derni,56:49:06,2.82
+706,Laurent,LE BOULANGER,Homme,M2 H (45-49),,FRA (France),PLOEUC L'HERMITAGE,FR,Finisher,0,,2,Derni,56:49:33,2.82
+1851,Mathieu,BARBEIRA,Homme,M0 H (35-39),,FRA (France),BOIS DE NEFLES ST PAUL,RE,Finisher,1,,1,Derni,56:50:25,2.82
+1899,Jhony Bernard,PHOCION,Homme,M4 H (55-59),,FRA (France),LA MONTAGNE,RE,Finisher,2,,5,Derni,56:52:51,2.82
+424,Bruno,EUZENAT,Homme,M4 H (55-59),,FRA (France),NANTES,FR,Finisher,3,,6,Derni,56:53:02,2.82
+1310,Ludovic,LAUWERS,Homme,M3 H (50-54),,FRA (France),LILLE,FR,Finisher,4,,9,Derni,56:54:30,2.82
+630,Patrick,JACQUET,Homme,M1 H (40-44),,FRA (France),LA POSSESSION,RE,Finisher,5,,5,Derni,56:55:54,2.81
+2167,Thierry,ETHEVE,Homme,M3 H (50-54),,FRA (France),ST LEU,RE,Finisher,6,,0,Derni,56:57:00,2.81
+897,Jean-Michel,NAUDAT,Homme,M4 H (55-59),,FRA (France),SAINT PAUL,RE,Finisher,7,,7,Derni,56:57:08,2.81
+1572,Simon,DEMAREST,Homme,SE H (23-34),,FRA (France),LE HAVRE,FR,Finisher,8,,7,Derni,56:59:06,2.81
+2272,Sylvie,TIBERE,Femme,M0 F (35-39),,FRA (France),SAINT PAUL,RE,Finisher,9,6,3,Derni,57:01:03,2.81
+1821,Jean-Luc,MARIMOUTOU,Homme,M3 H (50-54),,FRA (France),SAINT-ANDRE,RE,Finisher,0,,1,Derni,57:04:26,2.81
+812,Raphaël,MARITAUD,Homme,M0 H (35-39),,FRA (France),LYON,FR,Finisher,1,,2,Derni,57:04:54,2.81
+1269,Grégory,MASSART,Homme,M0 H (35-39),,BEL (Belgique),GRAIDE,BE,Finisher,2,,3,Derni,57:05:26,2.81
+189,Pascal,BOYER,Homme,M3 H (50-54),,FRA (France),LIBREVILLE,GA,Finisher,3,,2,Derni,57:05:27,2.81
+1178,Katrien,JACQUES,Femme,M1 F (40-44),,BEL (Belgique),GRAIDE,BE,Finisher,3,7,1,Derni,57:05:27,2.81
+1470,Tony,CORNUAULT,Homme,M1 H (40-44),,FRA (France),BRAS PANON,RE,Finisher,5,,6,Derni,57:05:48,2.81
+2279,Sebastien,PRIMAULT,Homme,M2 H (45-49),,FRA (France),VILLERABLE,FR,Finisher,6,,3,Derni,57:05:56,2.81
+143,Thierry,BLANC,Homme,M4 H (55-59),,FRA (France),FOISSIAT,FR,Finisher,7,,8,Derni,57:06:47,2.81
+468,Marie Pierre,FOUQUERAY,Femme,M3 F (50-54),,FRA (France),NANTES,FR,Finisher,8,8,4,Derni,57:06:59,2.81
+1806,Philippe,LE GOFF,Homme,M4 H (55-59),,FRA (France),LANDELEAU,FR,Finisher,9,,9,Derni,57:07:22,2.81
+245,Sullivan,CHABOT,Homme,M2 H (45-49),,FRA (France),SAINT PAUL,RE,Finisher,0,,4,Derni,57:10:49,2.8
+2132,Sebastien,VINEL,Homme,M2 H (45-49),,FRA (France),ST PIERRE,RE,Finisher,1,,5,Derni,57:10:53,2.8
+2202,Thierry,QUESNE,Homme,M4 H (55-59),,FRA (France),VIGNEUX-SUR-SEINE,FR,Finisher,2,,0,Derni,57:13:38,2.8
+2454,Richard,VOILQUIN,Homme,M3 H (50-54),,FRA (France),PUTEAUX,FR,Finisher,3,,3,Derni,57:16:12,2.8
+418,Thierry,ESPAGNET,Homme,M4 H (55-59),,FRA (France),MARIGOT,FR,Finisher,4,,1,Derni,57:16:21,2.8
+365,Sylvain,DIAZ,Homme,M3 H (50-54),,FRA (France),LA PLAINE DES PALMISTES,RE,Finisher,5,,4,Derni,57:17:02,2.8
+1138,Jean Michel,VACHON,Homme,M4 H (55-59),,FRA (France),FONTAINES LES DIJON,FR,Finisher,6,,2,Derni,57:17:31,2.8
+2382,Francois Xavier,AMIEL,Homme,M1 H (40-44),,FRA (France),LE RAINCY,FR,Finisher,7,,7,Derni,57:17:33,2.8
+258,Germain,CHAPOT,Homme,SE H (23-34),,FRA (France),LYON,FR,Finisher,8,,8,Derni,57:17:35,2.8
+730,Johny,LEBON,Homme,M2 H (45-49),,FRA (France),LIVRY GARGAN,FR,Finisher,9,,6,Derni,57:17:36,2.8
+2121,Martial,DELAPIERRE,Homme,M2 H (45-49),,FRA (France),DOUDEVILLE,FR,Finisher,0,,7,Derni,57:20:16,2.79
+2083,Stephane,DELAMARE,Homme,M5 H (60-64),,FRA (France),YERVILLE,FR,Finisher,1,,1,Derni,57:20:17,2.79
+96,Benoit,BEAUFILS,Homme,M3 H (50-54),,FRA (France),SAINT BERTHEVIN,FR,Finisher,2,,5,Derni,57:20:18,2.79
+1558,Christophe,OLLIVIER,Homme,M5 H (60-64),,FRA (France),JOINVILLE LE PONT,FR,Finisher,3,,2,Derni,57:20:23,2.79
+785,David-Pol,LUTTENBACHER,Homme,M2 H (45-49),,FRA (France),LA POSSESSION,RE,Finisher,4,,8,Derni,57:20:54,2.79
+1443,Quentin,RICHIER,Homme,SE H (23-34),,FRA (France),SAINT DENIS,RE,Finisher,5,,9,Derni,57:22:00,2.79
+976,Ronan,PINCEMIN,Homme,M0 H (35-39),,FRA (France),LANNION,FR,Finisher,6,,4,Derni,57:23:46,2.79
+1530,Joachim,GONNEAU,Homme,M5 H (60-64),,FRA (France),POSSESSION,RE,Finisher,7,,3,Derni,57:26:36,2.79
+2136,Marc,GASQUE,Homme,M4 H (55-59),,FRA (France),CARNOULES,FR,Finisher,8,,3,Derni,57:27:18,2.79
+871,Patrice,MOREL,Homme,M3 H (50-54),,FRA (France),PLEBOULLE,FR,Finisher,9,,6,Derni,57:30:09,2.79
+757,Gaetan,LESGUER,Homme,M3 H (50-54),,FRA (France),L'HOTELLERIE DE FLÉE,FR,Finisher,0,,7,Derni,57:30:12,2.79
+713,Gilles,LE GALL,Homme,M4 H (55-59),,FRA (France),ITTEVILLE,FR,Finisher,1,,4,Derni,57:30:13,2.79
+840,Vincent,MERCIER,Homme,M2 H (45-49),,FRA (France),VERT LE PETIT,FR,Finisher,2,,9,Derni,57:30:16,2.79
+1747,Guillaume,BEAUFILS,Homme,M1 H (40-44),,FRA (France),TROUVILLE ALLIQUERVILLE,FR,Finisher,2,,8,Derni,57:30:16,2.79
+566,Yann,GUILLAUME,Homme,M3 H (50-54),,FRA (France),CASTRES GIRONDE,FR,Finisher,4,,8,Derni,57:31:35,2.79
+2020,Bertrand,OLLIVIER,Homme,M1 H (40-44),,FRA (France),CANTELOUP,FR,Finisher,5,,9,Derni,57:34:14,2.78
+719,Marc,LE GUIGNER,Homme,M4 H (55-59),,FRA (France),ROSPEZ,FR,Finisher,6,,5,Derni,57:34:52,2.78
+1301,Paul,GAFITA,Homme,M1 H (40-44),,ROU (Roumanie),BAGNOLES DE L'ORNE,FR,Finisher,7,,0,Derni,57:35:29,2.78
+408,Christophe,DURAND,Homme,M3 H (50-54),,FRA (France),SAINT MARTIN,FR,Finisher,8,,9,Derni,57:36:20,2.78
+1520,Denis,REVELLE,Homme,M5 H (60-64),,FRA (France),SAINTE SUZANNE,RE,Finisher,9,,4,Derni,57:37:05,2.78
+2052,Julie,DE LUCA,Femme,SE F (23-34),,FRA (France),DOIZIEUX,FR,Finisher,0,9,1,Derni,57:38:40,2.78
+979,Pierrick,PITIOT,Homme,M0 H (35-39),,FRA (France),DOIZIEUX,FR,Finisher,1,,5,Derni,57:38:42,2.78
+2013,Didier Albert,HOARAU,Homme,M1 H (40-44),,FRA (France),SAINT JOSEPH,RE,Finisher,2,,1,Derni,57:39:29,2.78
+1006,Jean Luc,PRUGNERES,Homme,M5 H (60-64),,FRA (France),LA POSSESSION,RE,Finisher,3,,5,Derni,57:39:31,2.78
+240,Romain,CASTELLO,Homme,M0 H (35-39),,FRA (France),SAINT PIERRE,RE,Finisher,4,,6,Derni,57:39:34,2.78
+2327,Sophie,MERCIER,Femme,M3 F (50-54),,FRA (France),VERT LE PETIT,FR,Finisher,5,0,5,Derni,57:40:17,2.78
+2191,Fabien,VITRY,Homme,M0 H (35-39),,FRA (France),SAINT DENIS,RE,Finisher,6,,7,Derni,57:40:19,2.78
+2193,Jean Bernard,HOARAU,Homme,M2 H (45-49),,FRA (France),SAINT JOSEPH,RE,Finisher,7,,0,Derni,57:40:23,2.78
+2493,Valerie,CONNAN,Femme,M1 F (40-44),,FRA (France),UTUROA,PF,Finisher,8,1,2,Derni,57:41:02,2.78
+118,Rudy,BERILE,Homme,M0 H (35-39),,FRA (France),SAINT-DENIS,RE,Finisher,9,,8,Derni,57:41:14,2.78
+2405,Sylvain,MOREL,Homme,M0 H (35-39),,FRA (France),LA MONTAGNE,RE,Finisher,0,,9,Derni,57:41:38,2.78
+1992,Arnaud,FRANCOISE,Homme,M2 H (45-49),,FRA (France),IFS,FR,Finisher,1,,1,Derni,57:44:14,2.78
+2462,Matthieu,DEBRIS,Homme,M3 H (50-54),,FRA (France),HÉROUVILLE SAINT-CLAIR,FR,Finisher,2,,0,Derni,57:44:15,2.78
+1074,Michel,SAIDI,Homme,M4 H (55-59),,FRA (France),LA PLAINE DES CAFRES,RE,Finisher,3,,6,Derni,57:44:46,2.77
+535,Eric,GONNET,Homme,M5 H (60-64),,FRA (France),CRAS SUR REYSSOUZE,FR,Finisher,4,,6,Derni,57:45:02,2.77
+1662,Jean Claude,ESPARON,Homme,M5 H (60-64),,FRA (France),SAINT DENIS,RE,Finisher,5,,7,Derni,57:47:43,2.77
+1219,Laurence,MAGE,Femme,M3 F (50-54),,FRA (France),LOUBRESSAC,FR,Finisher,6,2,6,Derni,57:48:59,2.77
+1710,Jean-Christophe,BOUBAULT,Homme,M3 H (50-54),,FRA (France),SAINT LOUIS,RE,Finisher,6,,1,Derni,57:48:59,2.77
+982,Benjamin,PLESSIS,Homme,M0 H (35-39),,FRA (France),MONTROUGE,FR,Finisher,8,,0,Derni,57:50:39,2.77
+126,Florian,BERTHIER,Homme,M0 H (35-39),,FRA (France),REPLONGES,FR,Finisher,9,,1,Derni,57:51:08,2.77
+1103,Frédéric,SERRE,Homme,M3 H (50-54),,FRA (France),OBERSAASHEIM,FR,Finisher,0,,2,Derni,57:53:26,2.77
+857,Laurence,MODIN,Femme,M4 F (55-59),,FRA (France),GUJAN MESTRAS,FR,Finisher,1,3,6,Derni,57:53:58,2.77
+2157,Eddy,MARIANNE,Homme,M1 H (40-44),,FRA (France),SAINT PAUL,RE,Finisher,2,,2,Derni,57:55:07,2.77
+480,Jean-Louis,FROIDEFOND,Homme,M3 H (50-54),,FRA (France),SALLES ARBUISSONNAS,FR,Finisher,3,,3,Derni,57:57:21,2.76
+99,Francis,BEGUE,Homme,M4 H (55-59),,FRA (France),SAINTE CLOTILDE,RE,Finisher,4,,7,Derni,57:57:49,2.76
+1813,Frédéric,KERMOUNE,Homme,M3 H (50-54),,FRA (France),SAINT GILLES LES BAINS,RE,Finisher,5,,4,Derni,57:57:52,2.76
+737,Alexandre,LECLERCQ,Homme,SE H (23-34),,BEL (Belgique),LA MONTAGNE,RE,Finisher,6,,0,Derni,57:59:52,2.76
+1957,Zacharie,LABIB,Homme,M0 H (35-39),,FRA (France),NANTERRE,FR,Finisher,7,,2,Derni,58:00:04,2.76
+2098,Yannick,LEROSEY,Homme,M4 H (55-59),,FRA (France),BIHOREL,FR,Finisher,8,,8,Derni,58:02:48,2.76
+338,Guillaume,DALLE,Homme,M1 H (40-44),,FRA (France),PLOUGAR,FR,Finisher,9,,3,Derni,58:03:47,2.76
+55,Nicolas,AUGE,Homme,M0 H (35-39),,FRA (France),GRAULHET,FR,Finisher,0,,3,Derni,58:03:51,2.76
+434,Paul,FARGES,Homme,M3 H (50-54),,FRA (France),LAMORLAYE,FR,Finisher,1,,5,Derni,58:04:02,2.76
+2302,Jean Yves,GEDEAS,Homme,M3 H (50-54),,FRA (France),RIVIÈRE SAINT-LOUIS,RE,Finisher,2,,6,Derni,58:04:26,2.76
+1670,Gilles,GRONDIN,Homme,M3 H (50-54),,FRA (France),SOULUTRÈ,FR,Finisher,3,,7,Derni,58:05:14,2.76
+1415,Jean-Sébastien,PERRET,Homme,M3 H (50-54),,FRA (France),SAINT LOUIS,RE,Finisher,4,,8,Derni,58:05:48,2.76
+2253,Joseph Sebastien,VIDOT,Homme,M1 H (40-44),,FRA (France),LE GUILLAUME,RE,Finisher,5,,4,Derni,58:06:36,2.76
+1980,Guillaume,SOULLARD,Homme,M1 H (40-44),,FRA (France),LA MONTAGNE,FR,Finisher,6,,5,Derni,58:09:01,2.76
+511,Fanny,GAY,Femme,M0 F (35-39),,FRA (France),SAINT PAUL,RE,Finisher,7,4,4,Derni,58:10:09,2.75
+2554,Yannick,LEBRUN,Homme,M3 H (50-54),,FRA (France),LE HAVRE,FR,Finisher,8,,9,Derni,58:10:12,2.75
+391,Henri-Paul,DUCHEMANN,Homme,M3 H (50-54),,FRA (France),SAINT PHILIPPE,RE,Finisher,9,,0,Derni,58:12:22,2.75
+242,Laurent,CATHERINNE,Homme,M2 H (45-49),,FRA (France),VERLHAC TESCOU,FR,Finisher,0,,2,Derni,58:12:59,2.75
+2581,Nathanaël,JURICIC,Homme,M2 H (45-49),,FRA (France),SAINT LEU,RE,Finisher,1,,3,Derni,58:14:21,2.75
+777,Serge,LOUPY,Homme,M4 H (55-59),,FRA (France),ARGENTRE,FR,Finisher,2,,9,Derni,58:16:47,2.75
+1230,Laure,LE POMMELLEC,Femme,M3 F (50-54),,FRA (France),MANOSQUE,FR,Finisher,3,5,7,Derni,58:17:14,2.75
+113,William,MUSSARD,Homme,M2 H (45-49),,FRA (France),SAINTE CLOTILDE,RE,Finisher,4,,4,Derni,58:18:24,2.75
+2292,Didier,TAUZIET,Homme,M3 H (50-54),,FRA (France),VIGNEUX SUR SEINE,FR,Finisher,5,,1,Derni,58:19:38,2.75
+1968,Yohann,SERRAND,Homme,M2 H (45-49),,FRA (France),RENNES,FR,Finisher,6,,5,Derni,58:20:37,2.75
+2262,Jimmy Jean Fred,BLIN,Homme,M3 H (50-54),,FRA (France),SAINT-DENIS,RE,Finisher,7,,2,Derni,58:22:23,2.75
+152,Damien,BOIRON-ZELI,Homme,M2 H (45-49),,FRA (France),BOIS DE NEFLE SAINT PAUL,RE,Finisher,8,,6,Derni,58:24:20,2.74
+1982,Frédéric,GRONDIN,Homme,M0 H (35-39),,FRA (France),RAVINE DES CABRIS,RE,Finisher,9,,4,Derni,58:24:31,2.74
+2422,Wilfrid,BARREAU,Homme,M1 H (40-44),,FRA (France),LA PLANCHE,FR,Finisher,0,,6,Derni,58:24:43,2.74
+2076,Remi,DHILLIT,Homme,SE H (23-34),,FRA (France),ETANG SALÉ,RE,Finisher,1,,1,Derni,58:24:58,2.74
+545,Stéphane,GRANDIN,Homme,M4 H (55-59),,FRA (France),ANGERS,FR,Finisher,2,,0,Derni,58:26:44,2.74
+1733,Yaelis,SIMON,Femme,SE F (23-34),,FRA (France),RAVINE DES CABRIS,RE,Finisher,3,6,2,Derni,58:26:54,2.74
+806,Richard,MARCHAND,Homme,M3 H (50-54),,FRA (France),MONTREUIL-JUIGNÉ,FR,Finisher,4,,3,Derni,58:26:57,2.74
+98,Jose,BEGUE,Homme,M3 H (50-54),,FRA (France),SAINT DENIS,RE,Finisher,5,,4,Derni,58:27:02,2.74
+2515,Jean Luc,MARTIN,Homme,M4 H (55-59),,FRA (France),SAINT LEU,RE,Finisher,6,,1,Derni,58:27:12,2.74
+1625,Ben Ali,AHMED,Homme,M3 H (50-54),,COM (Comores),LE TAMPON,RE,Finisher,7,,5,Derni,58:30:05,2.74
+986,Lénaïg,POISSEMEUX,Femme,M1 F (40-44),,FRA (France),SAINT PAUL,RE,Finisher,8,7,3,Derni,58:31:11,2.74
+2540,Dominique,JULIE,Homme,M2 H (45-49),,FRA (France),LE PORT,RE,Finisher,9,,7,Derni,58:32:33,2.74
+1571,Ingrid,VIRAPIN,Femme,M0 F (35-39),,FRA (France),LE PORT,RE,Finisher,0,8,5,Derni,58:32:34,2.74
+1977,Adele,PUYPE,Femme,SE F (23-34),,FRA (France),ST PIERRE,FR,Finisher,1,9,3,Derni,58:32:46,2.74
+1340,Maxence,PARFAIT,Homme,M1 H (40-44),,FRA (France),LES HERBIERS,FR,Finisher,2,,7,Derni,58:32:58,2.74
+766,Massimo,LIBRIZZI,Homme,SE H (23-34),,FRA (France),LA RIVIÈRE SAINT LOUIS,RE,Finisher,3,,2,Derni,58:32:59,2.74
+636,Damien,JEANNENEZ,Homme,SE H (23-34),,FRA (France),LAGNIEU,FR,Finisher,4,,3,Derni,58:33:54,2.74
+1299,Franck,TORRES FIGUERAS,Homme,M3 H (50-54),,ESP (Espagne),SANT CUGAT,ES,Finisher,4,,6,Derni,58:33:54,2.74
+1699,Lucay,MIRANVILLE,Homme,M4 H (55-59),,FRA (France),SAINT PAUL,RE,Finisher,6,,2,Derni,58:34:37,2.74
+646,Nathalie,JOUSSET,Femme,M3 F (50-54),,FRA (France),ANGERS,FR,Finisher,7,0,8,Derni,58:36:29,2.73
+2463,Maxence,SEGOND,Homme,SE H (23-34),,FRA (France),PARIS 18,FR,Finisher,8,,4,Derni,58:36:39,2.73
+1146,Thierry,LUGUY,Femme,M0 F (35-39),,FRA (France),ST PHILIPPE,RE,Finisher,9,1,6,Derni,58:38:20,2.73
+1827,Ewen,QUELLEC,Homme,SE H (23-34),,FRA (France),BORDEAUX,FR,Finisher,0,,5,Derni,58:39:41,2.73
+399,Jean-Baptiste,DULAU,Homme,M4 H (55-59),,FRA (France),MONTROUGE,FR,Finisher,1,,3,Derni,58:41:06,2.73
+1975,Jean Luc,DOMINIQUE,Homme,M5 H (60-64),,FRA (France),SAINTE MARIE,RE,Finisher,2,,8,Derni,58:42:05,2.73
+1569,Bruno,FABRE,Homme,M1 H (40-44),,FRA (France),STE MARIE,RE,Finisher,3,,8,Derni,58:43:53,2.73
+2134,Olivier,MOIOLI,Homme,M1 H (40-44),,FRA (France),SAINT-GILLES-LES-BAINS,RE,Finisher,4,,9,Derni,58:44:45,2.73
+336,Laurent,DAGUENEL,Homme,M3 H (50-54),,FRA (France),BORDEAUX,FR,Finisher,5,,7,Derni,58:45:47,2.73
+577,Christophe,GUTTON,Homme,M3 H (50-54),,FRA (France),BRIGNAIS,FR,Finisher,6,,8,Derni,58:48:04,2.73
+844,Jean Dany,MESSINE,Homme,M3 H (50-54),,FRA (France),PLATEAU CAILLOUX ST PAUL,RE,Finisher,7,,9,Derni,58:48:24,2.72
+493,Charles,GAMBLIN,Homme,SE H (23-34),,FRA (France),SAINT-PIERRE,RE,Finisher,8,,6,Derni,58:50:14,2.72
+2133,Claire,CHAMPEIX,Femme,M4 F (55-59),,FRA (France),SAINT NEXANS,FR,Finisher,8,2,7,Derni,58:50:14,2.72
+680,Jerome,LANNIAUX,Homme,M2 H (45-49),,FRA (France),VERSAILLES,FR,Finisher,0,,8,Derni,58:51:04,2.72
+2318,Edouard,BERNIER,Homme,M0 H (35-39),,FRA (France),MORDELLES,FR,Finisher,1,,5,Derni,58:51:29,2.72
+243,Eddy,CAYEUX,Homme,M3 H (50-54),,FRA (France),HONFLEUR,FR,Finisher,2,,0,Derni,58:52:08,2.72
+2300,Charles,LAURET,Homme,M1 H (40-44),,FRA (France),SAINTE-CLOTILDE,RE,Finisher,3,,0,Derni,58:52:20,2.72
+2356,Thierry,VALLEE,Homme,M5 H (60-64),,FRA (France),RENNES,FR,Finisher,4,,9,Derni,58:52:36,2.72
+1154,Christophe,LIONNET,Homme,M3 H (50-54),,FRA (France),SAINT-CLAUDE,GP,Finisher,5,,1,Derni,58:52:59,2.72
+2400,Damien,HÉRON,Homme,SE H (23-34),,FRA (France),STE CLOTILDE,RE,Finisher,6,,7,Derni,58:54:24,2.72
+2399,Matthieu,BILLARD,Homme,SE H (23-34),,FRA (France),LA POSSESSION,RE,Finisher,7,,8,Derni,58:54:28,2.72
+1389,Stephane,WECLEWSKI,Homme,M1 H (40-44),,FRA (France),SAINT FERREOL D AUROURE,FR,Finisher,8,,1,Derni,58:55:38,2.72
+1700,Yannick,DOBARIA,Homme,M0 H (35-39),,FRA (France),LA POSSESSION,RE,Finisher,9,,6,Derni,58:56:33,2.72
+1704,Jean Denis,PAVIEL,Homme,M3 H (50-54),,FRA (France),SAINT PAUL,RE,Finisher,0,,2,Derni,58:56:39,2.72
+2079,Gregory,VANDEL,Homme,M0 H (35-39),,FRA (France),BOIS-GUILLAUME,FR,Finisher,1,,7,Derni,58:56:45,2.72
+1498,Ludovic,ORÉO,Homme,M1 H (40-44),,FRA (France),LA POSSESSION,RE,Finisher,2,,2,Derni,58:58:53,2.72
+1998,Samuel Hugo,FONTAINE,Homme,M3 H (50-54),,FRA (France),SAINT PIERRE,RE,Finisher,3,,3,Derni,58:59:02,2.72
+860,Francis,MOKHTARI,Homme,M3 H (50-54),,FRA (France),SAINT-BENOIT,RE,Finisher,4,,4,Derni,58:59:34,2.72
+127,Thierry,BERTHOUD,Homme,M3 H (50-54),,FRA (France),VERNEUIL SUR SEINE,FR,Finisher,5,,5,Derni,59:00:01,2.72
+2206,Loic,POSE,Homme,SE H (23-34),,FRA (France),SAINTE MARIE,RE,Finisher,6,,9,Derni,59:00:20,2.72
+437,Mathieu,FAUT,Homme,M0 H (35-39),,FRA (France),TOULOUSE,FR,Finisher,7,,8,Derni,59:00:40,2.72
+1655,Alix,SINDRAYE,Homme,M1 H (40-44),,FRA (France),SAINTE SUZANNE,RE,Finisher,8,,3,Derni,59:01:06,2.72
+478,Laurent,FRION,Homme,M2 H (45-49),,FRA (France),MAUGUIO,FR,Finisher,9,,9,Derni,59:04:55,2.71
+1782,Patrick,PAVIEL,Homme,M3 H (50-54),,FRA (France),LA POSSESSION,RE,Finisher,0,,6,Derni,59:06:42,2.71
+1515,Eric,GARCIA,Homme,M3 H (50-54),,FRA (France),ST GILLES LES BAINS,RE,Finisher,1,,7,Derni,59:07:55,2.71
+1220,Youen,PRIGENT,Homme,M0 H (35-39),,FRA (France),LA POSSESSION,RE,Finisher,2,,9,Derni,59:08:41,2.71
+1448,Agathe,BUTCHLE,Femme,M5 F (60-64),,FRA (France),LA PLAINE DES PALMISTES,RE,Finisher,3,3,9,Derni,59:09:36,2.71
+29,Stéphanie,AMEY,Femme,M2 F (45-49),,FRA (France),FOS SUR MER,FR,Finisher,4,4,8,Derni,59:09:43,2.71
+639,Celine,JEANNOT,Femme,M1 F (40-44),,FRA (France),MARSEILLE,FR,Finisher,5,5,4,Derni,59:11:59,2.71
+1308,Karine,FRAISSEIX,Femme,M3 F (50-54),,FRA (France),SAINT CLAUDE,GP,Finisher,6,6,9,Derni,59:13:01,2.71
+2413,Johanna,SIOCHE,Femme,M0 F (35-39),,FRA (France),SAINT-JOSEPH,RE,Finisher,7,7,7,Derni,59:13:05,2.71
+1500,Thibault,JOLIVARD,Homme,M0 H (35-39),,FRA (France),BASTELICACCIA,FR,Finisher,8,,0,Derni,59:13:38,2.71
+1904,Mickael,CARCAUD,Homme,SE H (23-34),,FRA (France),SAINT DENIS,RE,Finisher,9,,0,Derni,59:13:48,2.71
+164,Jean Eric,BORDIER,Homme,M4 H (55-59),,FRA (France),LA POSSESSION,RE,Finisher,0,,4,Derni,59:15:42,2.7
+1184,Loué,PIERRE,Homme,M2 H (45-49),,FRA (France),CHAM,CH,Finisher,1,,0,Derni,59:19:03,2.7
+28,Xavier,AMEY,Homme,M2 H (45-49),,FRA (France),FOS-SUR-MER,FR,Finisher,2,,1,Derni,59:19:37,2.7
+39,Clement,AQUILINA,Homme,M0 H (35-39),,FRA (France),ST DENIS,RE,Finisher,3,,1,Derni,59:22:39,2.7
+2426,Pierre-Emmanuel,DUCLOY,Homme,M0 H (35-39),,FRA (France),LE TOUQUET PARIS PLAGE,FR,Finisher,4,,2,Derni,59:23:33,2.7
+2183,Yann,LORAND,Homme,M4 H (55-59),,FRA (France),DZAOUDZI,YT,Finisher,5,,5,Derni,59:23:48,2.7
+394,Christophe,DUCROIX,Homme,M3 H (50-54),,FRA (France),SAINT MARTIN LESTRA,FR,Finisher,6,,8,Derni,59:23:58,2.7
+50,Nicolas,ARVIEUX,Homme,M1 H (40-44),,FRA (France),SAINT PIERRE,RE,Finisher,7,,4,Derni,59:24:12,2.7
+142,Isabelle,BITAUDEAU,Femme,M3 F (50-54),,FRA (France),PAULX,FR,Finisher,8,8,0,Derni,59:25:04,2.7
+1133,Jean Alain,VARAINE,Homme,M5 H (60-64),,FRA (France),SAINT-PIERRE,RE,Finisher,9,,0,Derni,59:25:59,2.7
+628,Jean-Guillaume,ISENBART,Homme,M1 H (40-44),,FRA (France),ROMANS SUR ISERE,FR,Finisher,0,,5,Derni,59:29:19,2.69
+2228,Vincent,GODARD,Homme,M0 H (35-39),,FRA (France),ANDIGNE,FR,Finisher,1,,3,Derni,59:29:28,2.69
+2000,Alexandre,RAOUX,Homme,M1 H (40-44),,FRA (France),LE PONT,CH,Finisher,2,,6,Derni,59:31:49,2.69
+7,Norman,ADDA,Homme,SE H (23-34),,FRA (France),PARIS,FR,Finisher,3,,1,Derni,59:32:00,2.69
+2199,Cédric,VAREILLAUD,Homme,M2 H (45-49),,FRA (France),LEUVILLE-SUR-ORGE,FR,Finisher,4,,2,Derni,59:33:29,2.69
+1841,Jacques Henri,BONMALAIS,Homme,M4 H (55-59),,FRA (France),TAMPON,RE,Finisher,5,,6,Derni,59:33:56,2.69
+1007,Karl,PUTET,Homme,M2 H (45-49),,FRA (France),SAINTE CLOTILDE,RE,Finisher,6,,3,Derni,59:34:35,2.69
+102,Bernard,BELABDI,Homme,M3 H (50-54),,FRA (France),SOORTS-HOSSEGOR,FR,Finisher,7,,9,Derni,59:35:11,2.69
+2290,Richard,NATIVEL,Homme,M4 H (55-59),,FRA (France),SAINTE CLOTILDE,RE,Finisher,8,,7,Derni,59:35:40,2.69
+2331,Christophe,ETIENNE,Homme,M1 H (40-44),,FRA (France),SAINT-BRICE-SOUS-FORÊT,FR,Finisher,9,,7,Derni,59:37:48,2.69
+1000,Patrick,PRADES,Homme,M4 H (55-59),,FRA (France),CASTELSARRASIN,FR,Finisher,0,,8,Derni,59:38:33,2.69
+2105,Jean,BORDES,Homme,M7 H (70-74),,FRA (France),BIRON,FR,Finisher,1,,2,Derni,59:39:08,2.69
+73,Issa,BALAHACHI,Homme,M4 H (55-59),,FRA (France),SAINTE SUZANNE,RE,Finisher,2,,9,Derni,59:39:15,2.69
+1155,Christophe,LIERMANN,Homme,M2 H (45-49),,FRA (France),BETHENCOURT SUR MER,FR,Finisher,3,,4,Derni,59:39:24,2.69
+962,Jean-François,PICARD,Homme,M3 H (50-54),,FRA (France),STE-SUZANNE,RE,Finisher,4,,0,Derni,59:39:54,2.69
+1199,Jimmy Stephano,GRONDIN,Homme,M1 H (40-44),,FRA (France),LE TAMPON,RE,Finisher,5,,8,Derni,59:40:13,2.69
+892,Lucien,NANDJAN,Homme,M4 H (55-59),,FRA (France),LE TAMPON,RE,Finisher,6,,0,Derni,59:40:54,2.68
+1583,Jean-Yves,BOREL,Homme,M2 H (45-49),,FRA (France),GARDANNE,FR,Finisher,7,,5,Derni,59:42:28,2.68
+1496,Raphaël,RALU,Homme,M3 H (50-54),,FRA (France),OLONNE SUR MER,FR,Finisher,8,,1,Derni,59:43:16,2.68
+773,Cedric,LONI,Homme,SE H (23-34),,FRA (France),SAINT-PIERRE,RE,Finisher,9,,2,Derni,59:43:17,2.68
+1180,Sebastien,ITEY,Homme,M1 H (40-44),,FRA (France),LE TAMPON,RE,Finisher,0,,9,Derni,59:43:43,2.68
+1712,Amandine,LAVOGIEZ,Femme,M1 F (40-44),,FRA (France),ETANG SALE,RE,Finisher,1,9,5,Derni,59:43:49,2.68
+236,Lydie,CARRET,Femme,M3 F (50-54),,FRA (France),AUVERS SUR OISE,FR,Finisher,2,0,1,Derni,59:44:50,2.68
+2372,Christophe,CARIMANTRANT,Homme,M2 H (45-49),,FRA (France),BOUC BEL AIR,FR,Finisher,3,,6,Derni,59:45:29,2.68
+581,Philippe,HARGUINDEGUY,Homme,M3 H (50-54),,FRA (France),ROAILLAN,FR,Finisher,4,,2,Derni,59:45:52,2.68
+1784,Christophe,CLEMOT,Homme,M3 H (50-54),,FRA (France),ANGERS,FR,Finisher,5,,3,Derni,59:46:04,2.68
+528,Alexis,GLENAC,Homme,M5 H (60-64),,FRA (France),RAVINE DES CABRIS,RE,Finisher,6,,1,Derni,59:48:44,2.68
+1403,Sophie,MORAND,Femme,M3 F (50-54),,FRA (France),SAINTE CLOTILDE,RE,Finisher,7,1,2,Derni,59:51:34,2.68
+2553,Loic,MORAND,Homme,M2 H (45-49),,FRA (France),PORNICHET,FR,Finisher,7,,7,Derni,59:51:34,2.68
+2002,Alice,RAOUX,Femme,M1 F (40-44),,FRA (France),LE PONT,CH,Finisher,9,2,6,Derni,59:51:51,2.68
+1062,Céline,ROUSSIN,Femme,M3 F (50-54),,FRA (France),SAINT PAUL,RE,Finisher,0,3,3,Derni,59:53:09,2.68
+2440,Marie,DEHAIES,Femme,M2 F (45-49),,FRA (France),MONCHEAUX,FR,Finisher,1,4,9,Derni,59:53:45,2.68
+688,David,LASOUR,Homme,M1 H (40-44),,FRA (France),SAINT PIERRE,RE,Finisher,2,,0,Derni,59:55:01,2.67
+1242,Romain,ROYON,Homme,M0 H (35-39),,ESP (Espagne),DAX,FR,Finisher,3,,4,Derni,59:55:14,2.67
+1378,Éric,VERNIER,Homme,M4 H (55-59),,FRA (France),RÉMONDANS-VAIVRE,FR,Finisher,4,,1,Derni,59:56:50,2.67
+749,Anthony,LEONE,Homme,M0 H (35-39),,FRA (France),LE PIAN MEDOC,FR,Finisher,5,,5,Derni,59:58:52,2.67
+1318,Stephane,JEANDENANS,Homme,M3 H (50-54),,FRA (France),FOURG,FR,Finisher,6,,4,Derni,59:59:14,2.67
+1462,Jerome,FAURE,Homme,M3 H (50-54),,FRA (France),RENNES,FR,Finisher,7,,5,Derni,59:59:25,2.67
+2528,Idris,PATCHIE,Homme,M2 H (45-49),,FRA (France),BOIS DE NEFLES - SAINT PAUL,RE,Finisher,8,,8,Derni,59:59:53,2.67
+168,Moïse,BOSQUE,Homme,M1 H (40-44),,FRA (France),BDN-ST-PAUL,RE,Finisher,9,,1,Derni,59:59:54,2.67
+2326,Maxime,BARBET-MASSIN,Homme,M0 H (35-39),,FRA (France),LA POSSESSION,RE,Finisher,0,,6,Derni,60:01:52,2.67
+57,Andre,AUZET,Homme,M3 H (50-54),,FRA (France),LA POSSESSION,RE,Finisher,1,,6,Derni,60:03:13,2.67
+1941,Jean-Philippe,TEYSSEDRE,Homme,M3 H (50-54),,FRA (France),SAINT-PIERRE,RE,Finisher,2,,7,Derni,60:03:26,2.67
+1795,Solenn,ROBIN,Femme,SE F (23-34),,FRA (France),SAINT-PAUL,RE,Finisher,3,5,4,Derni,60:05:05,2.67
+176,Rodolphe,BOULAY,Homme,M3 H (50-54),,FRA (France),CELLETTES,FR,Finisher,4,,8,Derni,60:06:02,2.67
+9,Sandrine,AGOSTINI TREHIN,Femme,M2 F (45-49),,FRA (France),CLAMART,FR,Finisher,5,6,0,Derni,60:06:05,2.67
+392,Christophe,DUCHEMIN,Homme,M2 H (45-49),,FRA (France),CLAMART,FR,Finisher,5,,9,Derni,60:06:05,2.67
+114,Eric,BERBEGAL,Homme,M1 H (40-44),,FRA (France),BOIS DE NÈFLES ST PAUL,RE,Finisher,7,,2,Derni,60:08:39,2.66
+1068,Raphaël,ROYER DE VERICOURT,Homme,M1 H (40-44),,FRA (France),SALINE LES BAINS,RE,Finisher,8,,3,Derni,60:09:44,2.66
+409,Stephane,DUTEURTRE,Homme,M4 H (55-59),,FRA (France),ANGERS,FR,Finisher,9,,2,Derni,60:12:48,2.66
+2471,Laurent,TARAZONA,Homme,M3 H (50-54),,FRA (France),FRONTONAS,FR,Finisher,0,,9,Derni,60:13:13,2.66
+1697,Alain,FREMOUSSE,Homme,M2 H (45-49),,FRA (France),SAINT-JOSEPH,RE,Finisher,1,,0,Derni,60:13:33,2.66
+1486,Marine,ROBIN,Femme,SE F (23-34),,FRA (France),SAINT PAUL,RE,Finisher,2,7,5,Derni,60:15:06,2.66
+1419,Christophe,VERDET,Homme,M3 H (50-54),,FRA (France),CORBEIL-ESSONNES,FR,Finisher,3,,0,Derni,60:15:40,2.66
+86,Boris,BATARD,Homme,M2 H (45-49),,FRA (France),LES PENNES MIRABEAU,FR,Finisher,4,,1,Derni,60:17:34,2.66
+2522,Arnaud,RISBOURG,Homme,M3 H (50-54),,FRA (France),SAINT-PIERRE,RE,Finisher,5,,1,Derni,60:18:08,2.66
+2200,Cyril,BARLIER,Homme,M2 H (45-49),,FRA (France),TIERCE,FR,Finisher,6,,2,Derni,60:19:21,2.66
+2297,Olivier,FRANCOIS,Homme,M0 H (35-39),,FRA (France),ORANGE,FR,Finisher,7,,7,Derni,60:21:47,2.65
+2481,Laurent,DEBREE,Homme,M3 H (50-54),,FRA (France),ANGERS,FR,Finisher,8,,2,Derni,60:22:59,2.65
+51,Frederic,ASTOLFI,Homme,M4 H (55-59),,FRA (France),LYON,FR,Finisher,9,,3,Derni,60:23:12,2.65
+1188,Hervé,CHABOT,Homme,M4 H (55-59),,FRA (France),LAUBRIERES,FR,Finisher,0,,4,Derni,60:25:02,2.65
+1473,Mircea,BALABAN,Homme,M3 H (50-54),,FRA (France),CHAMBÉRY,FR,Finisher,1,,3,Derni,60:26:15,2.65
+967,Gilles,PICHARD,Homme,M3 H (50-54),,FRA (France),LE FOLGOET,FR,Finisher,2,,4,Derni,60:26:53,2.65
+389,Delphine,DUCHAUSSOY,Femme,M2 F (45-49),,FRA (France),ANGERS,FR,Finisher,3,8,1,Derni,60:30:49,2.65
+390,Bruno,DUCHAUSSOY,Homme,M6 H (65-69),,FRA (France),ANGERS,FR,Finisher,4,,0,Derni,60:30:54,2.65
+2536,Dominique,LOUTREUX,Homme,M6 H (65-69),,FRA (France),PETITE ILE,RE,Finisher,5,,1,Derni,60:30:55,2.65
+1694,Cyril,BARRANCO,Homme,M2 H (45-49),,FRA (France),LE GUILLAUME,RE,Finisher,6,,3,Derni,60:31:15,2.65
+2097,Delphine,SIMON,Femme,M1 F (40-44),,FRA (France),AMANCY,FR,Finisher,7,9,7,Derni,60:33:12,2.65
+2446,Jerome,BEULIER,Homme,M0 H (35-39),,FRA (France),ISSY LES MOULINEAUX,FR,Finisher,8,,8,Derni,60:34:32,2.65
+1654,Benoit,BEAUVOIS,Homme,SE H (23-34),,BEL (Belgique),SAINTE CLOTILDE,RE,Finisher,9,,3,Derni,60:34:39,2.65
+1829,Grégoire,SERY,Homme,SE H (23-34),,FRA (France),LA RAVOIRE,FR,Finisher,0,,4,Derni,60:34:46,2.65
+1815,Jean René,SERY,Homme,M4 H (55-59),,FRA (France),BOIS COURS - PLAINE DES CAFRES,RE,Finisher,1,,5,Derni,60:34:47,2.65
+2437,Antoine,GOARANT,Homme,SE H (23-34),,FRA (France),RAMBOUILLET,FR,Finisher,2,,5,Derni,60:35:00,2.64
+1612,Jean Philippe,VALMY,Homme,M2 H (45-49),,FRA (France),SAINT PIERRE,RE,Finisher,3,,4,Derni,60:35:26,2.64
+1544,Julien,MAZZIER,Homme,M1 H (40-44),,FRA (France),VAUVERT,FR,Finisher,4,,4,Derni,60:36:01,2.64
+792,Laurent,MAILLOT,Homme,M0 H (35-39),,FRA (France),STE CLOTILDE,RE,Finisher,5,,9,Derni,60:36:09,2.64
+1564,Nicolas,CHOUTET,Homme,M2 H (45-49),,FRA (France),VENTABREN,FR,Finisher,6,,5,Derni,60:36:31,2.64
+1045,Vincent,ROCHAIN,Homme,M3 H (50-54),,FRA (France),SAINT PIERRE,RE,Finisher,7,,5,Derni,60:36:53,2.64
+1213,Thomas,DEBRECENI,Homme,SE H (23-34),,FRA (France),EPERNAY,FR,Finisher,8,,6,Derni,60:37:53,2.64
+833,Olivier,MAURICE,Homme,M1 H (40-44),,FRA (France),MARTIGNÉ SUR MAYENNE,FR,Finisher,9,,5,Derni,60:40:30,2.64
+1316,Sylvain,GILLOT,Homme,M0 H (35-39),,FRA (France),MARTIGNE SUR MAYENNE,FR,Finisher,0,,0,Derni,60:40:32,2.64
+2125,Georges,DE ARAUJO,Homme,M3 H (50-54),,FRA (France),CROIX MARE,FR,Finisher,1,,6,Derni,60:41:26,2.64
+1020,Renaud,REGO DE SEBES,Homme,M3 H (50-54),,FRA (France),MONT SAINT AIGNAN,FR,Finisher,2,,7,Derni,60:41:28,2.64
+856,Wirdane,MKADARA,Homme,M5 H (60-64),,FRA (France),PASSAMAINTY,YT,Finisher,3,,2,Derni,60:42:12,2.64
+1120,Bernard,VINSON,Homme,M5 H (60-64),,FRA (France),LA MOTTE SERVOLEX,FR,Finisher,4,,3,Derni,60:42:46,2.64
+1826,Julien,BURTEY,Homme,M1 H (40-44),,FRA (France),SAINT PIERRE,RE,Finisher,5,,6,Derni,60:43:10,2.64
+2527,Yves,MURGALE,Homme,M1 H (40-44),,FRA (France),ST JOSEPH,RE,Finisher,6,,7,Derni,60:43:11,2.64
+1802,Cynthia,LAHOUL,Femme,M3 F (50-54),,FRA (France),FORT-DE-FRANCE,MQ,Finisher,7,0,4,Derni,60:44:22,2.64
+621,Christian,IMPERIALE,Homme,M3 H (50-54),,FRA (France),LA SEYNE SUR MER,FR,Finisher,8,,8,Derni,60:44:34,2.64
+641,Christophe,JOUATTE,Homme,M4 H (55-59),,FRA (France),LE TIGNET,FR,Finisher,9,,6,Derni,60:44:45,2.64
+364,Stéphane,DIAMANT,Homme,M4 H (55-59),,FRA (France),BRAX,FR,Finisher,0,,7,Derni,60:45:44,2.64
+1432,Thierry,HAUSTANT,Homme,M5 H (60-64),,FRA (France),LES TROIS-ÎLETS,MQ,Finisher,1,,4,Derni,60:45:48,2.64
+283,Dorothee,CHOUTET,Femme,M2 F (45-49),,FRA (France),VENTABREN,FR,Finisher,2,1,2,Derni,60:46:25,2.64
+599,Lionel,HETHEIER,Homme,M4 H (55-59),,FRA (France),LOISY,FR,Finisher,3,,8,Derni,60:49:22,2.63
+2274,Ulysse,GIRONCELLE,Homme,M4 H (55-59),,FRA (France),LE TAMPON,RE,Finisher,4,,9,Derni,60:51:19,2.63
+30,Marie Claire,AMMANY,Femme,M3 F (50-54),,FRA (France),TAMPON,RE,Finisher,5,2,5,Derni,60:52:15,2.63
+1723,Rose,DELILLE,Femme,M4 F (55-59),,FRA (France),TALANT,FR,Finisher,6,3,8,Derni,60:54:08,2.63
+896,Jean-Eloi,NATIVOHA,Homme,M4 H (55-59),,FRA (France),LIANCOURT,FR,Finisher,7,,0,Derni,60:55:41,2.63
+233,Sophie,CANTIN,Femme,M1 F (40-44),,FRA (France),SAINT PAUL,RE,Finisher,8,4,8,Derni,60:56:32,2.63
+1427,Laurent,ALLART,Homme,M5 H (60-64),,FRA (France),ST-LEU,RE,Finisher,9,,5,Derni,60:56:45,2.63
+1229,Nicolas,SAVELLI,Homme,M3 H (50-54),,FRA (France),PITON SAINT LEU,RE,Finisher,0,,9,Derni,60:56:47,2.63
+2072,Aurélien,TERRAL,Homme,M1 H (40-44),,FRA (France),L'ÉTANG SALÉ,RE,Finisher,1,,8,Derni,60:57:54,2.63
+516,Frederic,GEORJON,Homme,M3 H (50-54),,FRA (France),GENILAC,FR,Finisher,2,,0,Derni,60:58:39,2.63
+295,Kevin,COADOU,Homme,M0 H (35-39),,FRA (France),GUIDEL,FR,Finisher,3,,1,Derni,61:00:07,2.63
+759,Stephane,LESPINAS,Homme,M3 H (50-54),,FRA (France),RAVINE DES CABRIS,RE,Finisher,4,,1,Derni,61:00:09,2.63
+1364,Thomas,BOULLÉ,Homme,M0 H (35-39),,FRA (France),DOMLOUP,FR,Finisher,5,,2,Derni,61:00:10,2.63
+568,Jean-François,GUILLEMET,Homme,M0 H (35-39),,FRA (France),PUTEAUX,FR,Finisher,6,,3,Derni,61:01:25,2.63
+1946,Noel,ROBICHON,Homme,M6 H (65-69),,FRA (France),NOYANT LA PLAINE,FR,Finisher,7,,2,Derni,61:02:28,2.63
+93,Laurent,BEAUCLAIR,Homme,M5 H (60-64),,FRA (France),SAINTE CLOTILDE,RE,Finisher,8,,6,Derni,61:03:44,2.62
+2545,Pierre-Alain,GOULEVANT,Homme,M0 H (35-39),,FRA (France),SAINT PIERRE,RE,Finisher,9,,4,Derni,61:04:45,2.62
+111,Stephane,BENEUS,Homme,M1 H (40-44),,FRA (France),MAIZILLY,FR,Finisher,0,,9,Derni,61:06:58,2.62
+1896,Ludovic,PETITIMBERT,Homme,M2 H (45-49),,FRA (France),MOUSSY LE NEUF,FR,Finisher,1,,6,Derni,61:07:00,2.62
+723,Marylène,LE SCANF,Femme,M3 F (50-54),,FRA (France),MESPAUL,FR,Finisher,2,5,6,Derni,61:07:20,2.62
+1756,Alain,DEVILLARD,Homme,M3 H (50-54),,FRA (France),HATTSTATT,FR,Finisher,3,,2,Derni,61:07:48,2.62
+503,Olivier,GARDIANOT,Homme,M5 H (60-64),,FRA (France),SANTENY,FR,Finisher,4,,7,Derni,61:09:42,2.62
+1375,Jeremy,VENZI,Homme,M1 H (40-44),,FRA (France),SAINT LEU,RE,Finisher,5,,0,Derni,61:09:50,2.62
+969,Eric,PICOT,Homme,M3 H (50-54),,FRA (France),CROIXANVEC,FR,Finisher,6,,3,Derni,61:12:50,2.62
+956,Jean Baptiste,PERRUCHON,Homme,M6 H (65-69),,FRA (France),SAINT GERVAIS MONT BLANC,FR,Finisher,7,,3,Derni,61:12:57,2.62
+2051,Cedric,ELLEBOODE,Homme,M0 H (35-39),,FRA (France),PARISFR,FR,Finisher,8,,5,Derni,61:13:54,2.62
+2475,Thierry,DROUET,Homme,M4 H (55-59),,FRA (France),YVETOT BOCAGE,FR,Finisher,9,,1,Derni,61:16:01,2.62
+1792,David,THEISS,Homme,M2 H (45-49),,FRA (France),SEDAN,FR,Finisher,0,,7,Derni,61:16:12,2.62
+957,Bryan,PERY,Homme,M2 H (45-49),,FRA (France),PORTET SUR GARONNE,FR,Finisher,1,,8,Derni,61:16:27,2.62
+803,Michel,MANZARI,Homme,M4 H (55-59),,FRA (France),LE GUILLAUME,RE,Finisher,2,,2,Derni,61:17:34,2.61
+2420,Bruno,CHARBONNIER,Homme,M5 H (60-64),,FRA (France),SAINT JEAN DES MAUVRETS,FR,Finisher,3,,8,Derni,61:17:39,2.61
+829,Fabien,MASSET,Homme,M2 H (45-49),,FRA (France),RAVINE DES CEBRIS,RE,Finisher,4,,9,Derni,61:22:57,2.61
+619,Patrice,ILIEV,Homme,M4 H (55-59),,FRA (France),CHERBOURG EN COTENTIN,FR,Finisher,5,,3,Derni,61:23:12,2.61
+2495,Fabien,ELLEBOODE,Homme,SE H (23-34),,FRA (France),VINCENNES,FR,Finisher,6,,7,Derni,61:23:51,2.61
+1985,Gweltaz,LEFAIX,Homme,M1 H (40-44),,FRA (France),LONGUE JUMELLES,FR,Finisher,7,,1,Derni,61:23:56,2.61
+674,Laetitia,LAMBERT,Femme,M1 F (40-44),,FRA (France),SEDAN,FR,Finisher,8,6,9,Derni,61:26:14,2.61
+648,Gérald,JUILLERAT,Homme,M2 H (45-49),,FRA (France),ABBEVILLERS,FR,Finisher,9,,0,Derni,61:27:14,2.61
+1472,Bruno,GAHERI,Homme,M2 H (45-49),,FRA (France),PARIS,FR,Finisher,0,,1,Derni,61:30:25,2.61
+210,Fabien,BRUNO,Homme,M2 H (45-49),,FRA (France),PARIS,FR,Finisher,1,,2,Derni,61:30:31,2.61
+107,Pierrick,BENARD,Homme,SE H (23-34),,FRA (France),ISTRES,FR,Finisher,2,,8,Derni,61:32:03,2.6
+585,Pierre,HAY,Homme,M5 H (60-64),,FRA (France),POITIERS,FR,Finisher,3,,9,Derni,61:32:22,2.6
+2428,Ivan,VÉDRINES,Homme,M1 H (40-44),,FRA (France),AGDE,FR,Finisher,3,,2,Derni,61:32:22,2.6
+1411,Jérôme,DEMONCHEAUX,Homme,M2 H (45-49),,FRA (France),AGDE,FR,Finisher,5,,3,Derni,61:32:28,2.6
+1102,Nicolas,SERRA,Homme,M1 H (40-44),,FRA (France),BIZANOS,FR,Finisher,6,,3,Derni,61:32:29,2.6
+936,Sébastien,PAYET,Homme,M1 H (40-44),,FRA (France),TROIS MARES,RE,Finisher,7,,4,Derni,61:34:16,2.6
+1649,Pascal,GILABERT,Homme,M3 H (50-54),,FRA (France),AJACCIO,FR,Finisher,8,,4,Derni,61:34:39,2.6
+2053,Hervé,PFIFFELMANN,Homme,SE H (23-34),,FRA (France),SAINTE MARIE,RE,Finisher,9,,9,Derni,61:35:36,2.6
+1780,Pierre-Alain,MARSANDE,Homme,M1 H (40-44),,FRA (France),TOURS,FR,Finisher,0,,5,Derni,61:35:53,2.6
+2479,Sébastien,DAVID,Homme,M2 H (45-49),,FRA (France),MERIGNAC,FR,Finisher,1,,4,Derni,61:36:27,2.6
+1650,Franck,TOULLIC,Homme,M4 H (55-59),,FRA (France),RENNES,FR,Finisher,2,,4,Derni,61:37:14,2.6
+289,Ludovic,CLAIN,Homme,M1 H (40-44),,FRA (France),SAINT BONNET DE MURE,FR,Finisher,3,,6,Derni,61:38:47,2.6
+2239,Didier,MAITRE,Homme,M4 H (55-59),,FRA (France),COULOMBIERS,FR,Finisher,4,,5,Derni,61:42:24,2.6
+2337,Catherine,MICHAELI,Femme,M4 F (55-59),,FRA (France),MERIGNAC,FR,Finisher,5,7,9,Derni,61:46:38,2.59
+1658,Jack,BELLEGO,Homme,M5 H (60-64),,FRA (France),RENNES,FR,Finisher,6,,0,Derni,61:47:14,2.59
+271,Fabienne,CHAVRET,Femme,M1 F (40-44),,FRA (France),TOURS,FR,Finisher,7,8,0,Derni,61:55:41,2.59
+335,Stephane,DACQUIN,Homme,M1 H (40-44),,FRA (France),LUPSAULT,FR,Finisher,8,,7,Derni,61:57:16,2.59
+433,Dany Jean Philippe,FANGUIMACHE,Homme,M3 H (50-54),,FRA (France),SAINT PAUL,RE,Finisher,9,,5,Derni,61:57:26,2.59
+1570,Rémi,POLESE,Homme,SE H (23-34),,FRA (France),SAINT PARDOUX,FR,Finisher,0,,0,Derni,62:00:41,2.58
+154,Sarah,BONAMI,Femme,M0 F (35-39),,FRA (France),SAINT PAUL,RE,Finisher,1,9,8,Derni,62:03:05,2.58
+591,Gilbert,HELARY,Homme,M4 H (55-59),,FRA (France),VITRE,FR,Finisher,2,,6,Derni,62:04:20,2.58
+2222,Stéphane,DEMAREST,Homme,M3 H (50-54),,FRA (France),LE HAVRE,FR,Finisher,3,,6,Derni,62:10:22,2.58
+977,Laura,PINEAU,Femme,SE F (23-34),,FRA (France),SAINT PIERRE,RE,Finisher,4,0,6,Derni,62:10:34,2.58
+2388,Marianne,DEMANGE,Femme,M4 F (55-59),,FRA (France),CLEURIE,FR,Finisher,5,1,0,Derni,62:11:54,2.58
+590,Xavier,HELARY,Homme,SE H (23-34),,FRA (France),SAINT GILLES LES BAINS,RE,Finisher,6,,1,Derni,62:14:14,2.57
+1238,Farid,FATAH,Homme,M2 H (45-49),,ALG (Algérie),LE CATEAU,FR,Finisher,7,,5,Derni,62:14:43,2.57
+105,Herbert,BELLUNE,Homme,M2 H (45-49),,FRA (France),TAMPON,RE,Finisher,8,,6,Derni,62:16:12,2.57
+197,Hervé,BREBOUILLET,Homme,M3 H (50-54),,FRA (France),CHARBONNIERES,FR,Finisher,9,,7,Derni,62:19:39,2.57
+988,Reine Marie,PONDA,Femme,M3 F (50-54),,FRA (France),TAMPON,RE,Finisher,0,2,7,Derni,62:21:38,2.57
+702,Khanh,LE,Homme,M1 H (40-44),,FRA (France),SAINT-LEU,RE,Finisher,1,,8,Derni,62:25:31,2.57
+2131,Christophe,GALMAR,Homme,M1 H (40-44),,FRA (France),LE GUILLAUME,RE,Finisher,2,,9,Derni,62:26:12,2.57
+1412,Philippe,TAYABALY,Homme,M2 H (45-49),,FRA (France),CHELLES,FR,Finisher,3,,7,Derni,62:40:33,2.56
+362,Marie-Blanche,DEVERLY,Femme,M3 F (50-54),,FRA (France),AIX EN PROVENCE,FR,Finisher,4,3,8,Derni,62:45:52,2.55
+537,Christian,GOUDEAU,Homme,M6 H (65-69),,FRA (France),SEMUR-EN-AUXOIS,FR,Finisher,5,,4,Derni,62:51:35,2.55
+1913,Riaz,RAHIM KHAN,Homme,SE H (23-34),,FRA (France),SAINTE-MARIE,RE,Finisher,6,,2,Derni,62:58:41,2.54
+406,Christian,DUQUEYROIX,Homme,M4 H (55-59),,FRA (France),MAZEROLLES,FR,Finisher,7,,7,Derni,63:03:44,2.54
+797,Jean-Baptiste,MAIRESSE,Homme,M2 H (45-49),,FRA (France),SAINT-BENOIT,RE,Finisher,8,,8,Derni,63:04:37,2.54
+1292,Alberto,TAVERNA,Homme,M5 H (60-64),,ITA (Italie),GIAVENO,IT,Finisher,9,,1,Derni,63:04:58,2.54
+794,Mickael,MAILLOT,Homme,M0 H (35-39),,FRA (France),LA POSSESSION,RE,Finisher,0,,6,Derni,63:06:43,2.54
+1613,Florent,DANGLADE,Homme,M0 H (35-39),,FRA (France),LE PORT,RE,Finisher,1,,7,Derni,63:07:13,2.54
+1739,Stéphane,LOEUILLIEUX,Homme,M3 H (50-54),,FRA (France),QUESQUES,FR,Finisher,2,,8,Derni,63:12:03,2.54
+415,Dominique,ELEONORE,Homme,M2 H (45-49),,FRA (France),ANCENIS,FR,Finisher,3,,9,Derni,63:19:07,2.53
+496,Emmanuel,GAPAILLARD,Homme,M1 H (40-44),,FRA (France),SAINTE GENEVIÈVE DES BOIS,FR,Finisher,4,,0,Derni,63:20:27,2.53
+1554,Alexandre,BIENAIME,Homme,SE H (23-34),,FRA (France),ERMONT,FR,Finisher,5,,3,Derni,63:26:32,2.53
+2514,Maxime,DAMOUR,Homme,SE H (23-34),,FRA (France),SAINT PIERRE,RE,Finisher,6,,4,Derni,63:27:24,2.53
+851,Remy,MILLON,Homme,SE H (23-34),,FRA (France),CHAMPS SUR MARNE,FR,Finisher,7,,5,Derni,63:27:36,2.53
+2451,Pascal,VUILLAUME,Homme,M4 H (55-59),,FRA (France),MONESTIER DE CLERMONT,FR,Finisher,8,,8,Derni,63:30:17,2.52
+2248,David,DARTOIS,Homme,M3 H (50-54),,FRA (France),RENNES,FR,Finisher,9,,9,Derni,63:44:54,2.51
+659,Pierre,LACABANNE,Homme,M6 H (65-69),,FRA (France),MONTAUT,FR,Finisher,0,,5,Derni,63:46:41,2.51
+1921,Hubert,JEANSON,Homme,M5 H (60-64),,FRA (France),SAINT MARTIN D'URIAGE,FR,Finisher,1,,2,Derni,65:02:28,2.46
+216,Daniel,BUZZI,Homme,M5 H (60-64),,FRA (France),LA BATIE MONTGASCON,FR,Finisher,2,,3,Derni,65:17:18,2.45
+1547,Georges,ASSASSA,Homme,M5 H (60-64),,FRA (France),ST ANDRE,RE,Finisher,3,,4,Derni,66:31:33,2.41
+293,Marc,CLEMENT,Homme,M4 H (55-59),,FRA (France),NEUILLY SUR SEINE,FR,Finisher,4,,9,Derni,66:31:34,2.41
+1533,Yann Joel,ASSASSA,Homme,M0 H (35-39),,FRA (France),SAINT PAUL,RE,Finisher,5,,8,Derni,66:40:51,2.4
