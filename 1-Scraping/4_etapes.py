@@ -3,7 +3,6 @@ import os
 from os import listdir
 from os.path import isfile, join
 
-
 def create_etapes_dataset():
     directory_path = os.getcwd()
     datasets_directory = join(directory_path, 'datasets')
@@ -37,10 +36,8 @@ def create_etapes_dataset():
     etapes_df = pd.DataFrame(etapes)
     etapes_df.columns = columns
     etapes_df.to_csv(join(datasets_directory, 'etapes.csv'), header=True, index=False)
-    print(etapes_df.head())
 
     return
-
 
 if __name__ == "__main__":
     create_etapes_dataset()
