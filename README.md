@@ -7,7 +7,7 @@
 * [General Info](#General-Information)
 * [Technologies Used](#Technologies-Used)
 * [I. Data scraping](#I-Data-scraping)
-* [II. ](#II-Data-exploration)
+* [II. Data exploration](#II-Data-exploration)
 
 ### General Information
 The Grand Raid de la Réunion, also called La diagonale des fous (The Bishops'/Madmen's Diagonal) is a mountain ultramarathon race. The race takes place annually in October on Réunion island, a French overseas department in the Indian Ocean, situated between Madagascar and Mauritius. The 162 km route with 9643 m of elevation gain is reputed to be highly challenging, brutally difficult and one of the hardest footraces in the world.
